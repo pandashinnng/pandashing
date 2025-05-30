@@ -1,0 +1,3117 @@
+2024-11-20 17:39:25 | datadir: /home/datasets
+2024-11-20 17:39:25 | dataset: PU
+2024-11-20 17:39:25 | load: 0
+2024-11-20 17:39:25 | num_train: 500
+2024-11-20 17:39:25 | num_validation: 100
+2024-11-20 17:39:25 | num_test: 100
+2024-11-20 17:39:25 | num_labels: 30
+2024-11-20 17:39:25 | ratio_labels: 0.01
+2024-11-20 17:39:25 | data_length: 512
+2024-11-20 17:39:25 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-11-20 17:39:25 | window: 384
+2024-11-20 17:39:25 | normalization: 0-1
+2024-11-20 17:39:25 | backbone: ResNet1D
+2024-11-20 17:39:25 | mode: train
+2024-11-20 17:39:25 | max_epochs: 500
+2024-11-20 17:39:25 | batch_size: 128
+2024-11-20 17:39:25 | lr: 0.001
+2024-11-20 17:39:25 | lr_scheduler: stepLR
+2024-11-20 17:39:25 | num_workers: 2
+2024-11-20 17:39:25 | optimizer: sgd
+2024-11-20 17:39:25 | tune_max_epochs: 100
+2024-11-20 17:39:25 | backbone_lr: 0.005
+2024-11-20 17:39:25 | classifier_lr: 0.1
+2024-11-20 17:39:25 | gamma: 0.8
+2024-11-20 17:39:25 | steps: 60
+2024-11-23 13:41:31 | datadir: /home/datasets
+2024-11-23 13:41:31 | dataset: PU
+2024-11-23 13:41:31 | load: 0
+2024-11-23 13:41:31 | num_train: 500
+2024-11-23 13:41:31 | num_validation: 100
+2024-11-23 13:41:31 | num_test: 100
+2024-11-23 13:41:31 | num_labels: 30
+2024-11-23 13:41:31 | ratio_labels: 0.01
+2024-11-23 13:41:31 | data_length: 512
+2024-11-23 13:41:31 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-11-23 13:41:31 | window: 384
+2024-11-23 13:41:31 | normalization: 0-1
+2024-11-23 13:41:31 | backbone: ResNet1D
+2024-11-23 13:41:31 | mode: train
+2024-11-23 13:41:31 | max_epochs: 500
+2024-11-23 13:41:31 | batch_size: 128
+2024-11-23 13:41:31 | lr: 0.001
+2024-11-23 13:41:31 | lr_scheduler: stepLR
+2024-11-23 13:41:31 | num_workers: 2
+2024-11-23 13:41:31 | optimizer: sgd
+2024-11-23 13:41:31 | tune_max_epochs: 100
+2024-11-23 13:41:31 | backbone_lr: 0.005
+2024-11-23 13:41:31 | classifier_lr: 0.1
+2024-11-23 13:41:31 | gamma: 0.8
+2024-11-23 13:41:31 | steps: 60
+2024-11-23 13:57:05 | datadir: C:\Users\Lenovo\Desktop\data\data\cwru\cwru\12k Drive End Bearing Fault Data
+2024-11-23 13:57:05 | dataset: PU
+2024-11-23 13:57:05 | load: 3
+2024-11-23 13:57:05 | num_train: 210
+2024-11-23 13:57:05 | num_validation: 30
+2024-11-23 13:57:05 | num_test: 60
+2024-11-23 13:57:05 | num_labels: 3
+2024-11-23 13:57:05 | ratio_labels: 0.01
+2024-11-23 13:57:05 | data_length: 1024
+2024-11-23 13:57:05 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-11-23 13:57:05 | window: 512
+2024-11-23 13:57:05 | normalization: 0-1
+2024-11-23 13:57:05 | backbone: ResNet1D
+2024-11-23 13:57:05 | mode: train_then_tune
+2024-11-23 13:57:05 | max_epochs: 500
+2024-11-23 13:57:05 | batch_size: 256
+2024-11-23 13:57:05 | lr: 0.01
+2024-11-23 13:57:05 | lr_scheduler: stepLR
+2024-11-23 13:57:05 | num_workers: 2
+2024-11-23 13:57:05 | optimizer: sgd
+2024-11-23 13:57:05 | tune_max_epochs: 100
+2024-11-23 13:57:05 | backbone_lr: 0.005
+2024-11-23 13:57:05 | classifier_lr: 0.005
+2024-11-23 13:57:05 | gamma: 0.8
+2024-11-23 13:57:05 | steps: 60
+2024-11-23 14:13:08 | datadir: C:\Users\Lenovo\Desktop\data\data\cwru\cwru\12k Drive End Bearing Fault Data
+2024-11-23 14:13:08 | dataset: PU
+2024-11-23 14:13:08 | load: 3
+2024-11-23 14:13:08 | num_train: 210
+2024-11-23 14:13:08 | num_validation: 30
+2024-11-23 14:13:08 | num_test: 60
+2024-11-23 14:13:08 | num_labels: 3
+2024-11-23 14:13:08 | ratio_labels: 0.01
+2024-11-23 14:13:08 | data_length: 1024
+2024-11-23 14:13:08 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-11-23 14:13:08 | window: 512
+2024-11-23 14:13:08 | normalization: 0-1
+2024-11-23 14:13:08 | backbone: ResNet1D
+2024-11-23 14:13:08 | mode: train_then_tune
+2024-11-23 14:13:08 | max_epochs: 500
+2024-11-23 14:13:08 | batch_size: 256
+2024-11-23 14:13:08 | lr: 0.01
+2024-11-23 14:13:08 | lr_scheduler: stepLR
+2024-11-23 14:13:08 | num_workers: 2
+2024-11-23 14:13:08 | optimizer: sgd
+2024-11-23 14:13:08 | tune_max_epochs: 100
+2024-11-23 14:13:08 | backbone_lr: 0.005
+2024-11-23 14:13:08 | classifier_lr: 0.005
+2024-11-23 14:13:08 | gamma: 0.8
+2024-11-23 14:13:08 | steps: 60
+2024-11-23 16:15:38 | datadir: E:\TFPred-main\TFPred-main\paper_datasets
+2024-11-23 16:15:38 | dataset: PU
+2024-11-23 16:15:38 | load: 3
+2024-11-23 16:15:38 | num_train: 210
+2024-11-23 16:15:38 | num_validation: 30
+2024-11-23 16:15:38 | num_test: 60
+2024-11-23 16:15:38 | num_labels: 3
+2024-11-23 16:15:38 | ratio_labels: 0.01
+2024-11-23 16:15:38 | data_length: 1024
+2024-11-23 16:15:38 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-11-23 16:15:38 | window: 512
+2024-11-23 16:15:38 | normalization: 0-1
+2024-11-23 16:15:38 | backbone: ResNet1D
+2024-11-23 16:15:38 | mode: train_then_tune
+2024-11-23 16:15:38 | max_epochs: 500
+2024-11-23 16:15:38 | batch_size: 256
+2024-11-23 16:15:38 | lr: 0.01
+2024-11-23 16:15:38 | lr_scheduler: stepLR
+2024-11-23 16:15:38 | num_workers: 2
+2024-11-23 16:15:38 | optimizer: sgd
+2024-11-23 16:15:38 | tune_max_epochs: 100
+2024-11-23 16:15:38 | backbone_lr: 0.005
+2024-11-23 16:15:38 | classifier_lr: 0.005
+2024-11-23 16:15:38 | gamma: 0.8
+2024-11-23 16:15:38 | steps: 60
+2024-11-23 16:26:10 | datadir: E:\TFPred-main\TFPred-main\paper_datasets
+2024-11-23 16:26:10 | dataset: PU
+2024-11-23 16:26:10 | load: 3
+2024-11-23 16:26:10 | num_train: 210
+2024-11-23 16:26:10 | num_validation: 30
+2024-11-23 16:26:10 | num_test: 60
+2024-11-23 16:26:10 | num_labels: 3
+2024-11-23 16:26:10 | ratio_labels: 0.01
+2024-11-23 16:26:10 | data_length: 1024
+2024-11-23 16:26:10 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-11-23 16:26:10 | window: 512
+2024-11-23 16:26:10 | normalization: 0-1
+2024-11-23 16:26:10 | backbone: ResNet1D
+2024-11-23 16:26:10 | mode: train_then_tune
+2024-11-23 16:26:10 | max_epochs: 500
+2024-11-23 16:26:10 | batch_size: 256
+2024-11-23 16:26:10 | lr: 0.01
+2024-11-23 16:26:10 | lr_scheduler: stepLR
+2024-11-23 16:26:10 | num_workers: 2
+2024-11-23 16:26:10 | optimizer: sgd
+2024-11-23 16:26:10 | tune_max_epochs: 100
+2024-11-23 16:26:10 | backbone_lr: 0.005
+2024-11-23 16:26:10 | classifier_lr: 0.005
+2024-11-23 16:26:10 | gamma: 0.8
+2024-11-23 16:26:10 | steps: 60
+2024-11-23 16:26:29 | datadir: E:\TFPred-main\TFPred-main\paper_datasets
+2024-11-23 16:26:29 | dataset: PU
+2024-11-23 16:26:29 | load: 3
+2024-11-23 16:26:29 | num_train: 210
+2024-11-23 16:26:29 | num_validation: 30
+2024-11-23 16:26:29 | num_test: 60
+2024-11-23 16:26:29 | num_labels: 3
+2024-11-23 16:26:29 | ratio_labels: 0.01
+2024-11-23 16:26:29 | data_length: 1024
+2024-11-23 16:26:29 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-11-23 16:26:29 | window: 512
+2024-11-23 16:26:29 | normalization: 0-1
+2024-11-23 16:26:29 | backbone: ResNet1D
+2024-11-23 16:26:29 | mode: train_then_tune
+2024-11-23 16:26:29 | max_epochs: 500
+2024-11-23 16:26:29 | batch_size: 256
+2024-11-23 16:26:29 | lr: 0.01
+2024-11-23 16:26:29 | lr_scheduler: stepLR
+2024-11-23 16:26:29 | num_workers: 2
+2024-11-23 16:26:29 | optimizer: sgd
+2024-11-23 16:26:29 | tune_max_epochs: 100
+2024-11-23 16:26:29 | backbone_lr: 0.005
+2024-11-23 16:26:29 | classifier_lr: 0.005
+2024-11-23 16:26:29 | gamma: 0.8
+2024-11-23 16:26:29 | steps: 60
+2024-11-23 16:26:29 | >>>>> TFPred Pre-training ...
+2024-11-23 16:26:49 | Epoch:   1/500, train_loss: 111.1207, current lr: 0.010000
+2024-11-23 16:27:08 | Epoch:   2/500, train_loss: 62.1803, current lr: 0.010000
+2024-11-23 16:27:26 | Epoch:   3/500, train_loss: 52.8451, current lr: 0.009999
+2024-11-23 16:27:46 | Epoch:   4/500, train_loss: 50.8721, current lr: 0.009998
+2024-11-23 16:28:06 | Epoch:   5/500, train_loss: 51.1075, current lr: 0.009998
+2024-11-23 16:28:25 | Epoch:   6/500, train_loss: 51.0760, current lr: 0.009996
+2024-11-23 16:28:45 | Epoch:   7/500, train_loss: 50.3739, current lr: 0.009995
+2024-11-23 16:29:04 | Epoch:   8/500, train_loss: 49.7672, current lr: 0.009994
+2024-11-23 16:29:23 | Epoch:   9/500, train_loss: 50.2926, current lr: 0.009992
+2024-11-23 16:29:42 | Epoch:  10/500, train_loss: 49.4040, current lr: 0.009990
+2024-11-23 16:30:02 | Epoch:  11/500, train_loss: 50.1560, current lr: 0.009988
+2024-11-23 16:30:21 | Epoch:  12/500, train_loss: 48.9445, current lr: 0.009986
+2024-11-23 16:33:57 | datadir: E:\TFPred-main\TFPred-main\paper_datasets
+2024-11-23 16:33:57 | dataset: PU
+2024-11-23 16:33:57 | load: 3
+2024-11-23 16:33:57 | num_train: 210
+2024-11-23 16:33:57 | num_validation: 30
+2024-11-23 16:33:57 | num_test: 60
+2024-11-23 16:33:57 | num_labels: 3
+2024-11-23 16:33:57 | ratio_labels: 0.01
+2024-11-23 16:33:57 | data_length: 1024
+2024-11-23 16:33:57 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-11-23 16:33:57 | window: 512
+2024-11-23 16:33:57 | normalization: 0-1
+2024-11-23 16:33:57 | backbone: ResNet1D
+2024-11-23 16:33:57 | mode: train_then_tune
+2024-11-23 16:33:57 | max_epochs: 500
+2024-11-23 16:33:57 | batch_size: 256
+2024-11-23 16:33:57 | lr: 0.01
+2024-11-23 16:33:57 | lr_scheduler: stepLR
+2024-11-23 16:33:57 | num_workers: 2
+2024-11-23 16:33:57 | optimizer: sgd
+2024-11-23 16:33:57 | tune_max_epochs: 100
+2024-11-23 16:33:57 | backbone_lr: 0.005
+2024-11-23 16:33:57 | classifier_lr: 0.005
+2024-11-23 16:33:57 | gamma: 0.8
+2024-11-23 16:33:57 | steps: 60
+2024-11-23 16:33:57 | >>>>> TFPred Pre-training ...
+2024-11-23 16:34:16 | Epoch:   1/500, train_loss: 102.0546, current lr: 0.010000
+2024-12-09 17:45:42 | datadir: E:\TFPred-main\TFPred-main\paper_datasets
+2024-12-09 17:45:42 | dataset: PU
+2024-12-09 17:45:42 | load: 3
+2024-12-09 17:45:42 | num_train: 210
+2024-12-09 17:45:42 | num_validation: 30
+2024-12-09 17:45:42 | num_test: 60
+2024-12-09 17:45:42 | num_labels: 3
+2024-12-09 17:45:42 | ratio_labels: 0.01
+2024-12-09 17:45:42 | data_length: 1024
+2024-12-09 17:45:42 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-09 17:45:42 | window: 512
+2024-12-09 17:45:42 | normalization: 0-1
+2024-12-09 17:45:42 | backbone: ResNet1D
+2024-12-09 17:45:42 | mode: train_then_tune
+2024-12-09 17:45:42 | max_epochs: 500
+2024-12-09 17:45:42 | batch_size: 256
+2024-12-09 17:45:42 | lr: 0.01
+2024-12-09 17:45:42 | lr_scheduler: stepLR
+2024-12-09 17:45:42 | num_workers: 2
+2024-12-09 17:45:42 | optimizer: sgd
+2024-12-09 17:45:42 | tune_max_epochs: 100
+2024-12-09 17:45:42 | backbone_lr: 0.005
+2024-12-09 17:45:42 | classifier_lr: 0.005
+2024-12-09 17:45:42 | gamma: 0.8
+2024-12-09 17:45:42 | steps: 60
+2024-12-09 17:45:42 | >>>>> TFPred Pre-training ...
+2024-12-09 17:46:02 | Epoch:   1/500, train_loss: 116.0320, current lr: 0.010000
+2024-12-09 17:46:19 | Epoch:   2/500, train_loss: 68.7760, current lr: 0.010000
+2024-12-09 17:46:37 | Epoch:   3/500, train_loss: 54.9506, current lr: 0.009999
+2024-12-09 17:46:54 | Epoch:   4/500, train_loss: 50.9234, current lr: 0.009998
+2024-12-09 17:47:11 | Epoch:   5/500, train_loss: 50.8264, current lr: 0.009998
+2024-12-09 17:47:27 | Epoch:   6/500, train_loss: 49.8662, current lr: 0.009996
+2024-12-09 17:47:44 | Epoch:   7/500, train_loss: 50.1338, current lr: 0.009995
+2024-12-09 17:48:01 | Epoch:   8/500, train_loss: 49.3317, current lr: 0.009994
+2024-12-09 17:48:18 | Epoch:   9/500, train_loss: 49.4873, current lr: 0.009992
+2024-12-09 18:59:12 | datadir: E:\TFPred-main\TFPred-main\paper_datasets
+2024-12-09 18:59:12 | dataset: PU
+2024-12-09 18:59:12 | load: 3
+2024-12-09 18:59:12 | num_train: 210
+2024-12-09 18:59:12 | num_validation: 30
+2024-12-09 18:59:12 | num_test: 60
+2024-12-09 18:59:12 | num_labels: 3
+2024-12-09 18:59:12 | ratio_labels: 0.01
+2024-12-09 18:59:12 | data_length: 1024
+2024-12-09 18:59:12 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-09 18:59:12 | window: 512
+2024-12-09 18:59:12 | normalization: 0-1
+2024-12-09 18:59:12 | backbone: ResNet1D
+2024-12-09 18:59:12 | mode: train_then_tune
+2024-12-09 18:59:12 | max_epochs: 500
+2024-12-09 18:59:12 | batch_size: 256
+2024-12-09 18:59:12 | lr: 0.01
+2024-12-09 18:59:12 | lr_scheduler: stepLR
+2024-12-09 18:59:12 | num_workers: 2
+2024-12-09 18:59:12 | optimizer: sgd
+2024-12-09 18:59:12 | tune_max_epochs: 100
+2024-12-09 18:59:12 | backbone_lr: 0.005
+2024-12-09 18:59:12 | classifier_lr: 0.005
+2024-12-09 18:59:12 | gamma: 0.8
+2024-12-09 18:59:12 | steps: 60
+2024-12-09 18:59:12 | >>>>> TFPred Pre-training ...
+2024-12-09 18:59:30 | Epoch:   1/500, train_loss: 110.0673, current lr: 0.010000
+2024-12-09 18:59:47 | Epoch:   2/500, train_loss: 68.9330, current lr: 0.010000
+2024-12-09 19:00:04 | Epoch:   3/500, train_loss: 54.4577, current lr: 0.009999
+2024-12-09 19:00:21 | Epoch:   4/500, train_loss: 50.6856, current lr: 0.009998
+2024-12-09 19:00:38 | Epoch:   5/500, train_loss: 50.3549, current lr: 0.009998
+2024-12-09 19:00:55 | Epoch:   6/500, train_loss: 49.6528, current lr: 0.009996
+2024-12-09 19:01:12 | Epoch:   7/500, train_loss: 49.5300, current lr: 0.009995
+2024-12-09 20:25:49 | datadir: E:\TFPred-main\TFPred-main\paper_datasets
+2024-12-09 20:25:49 | dataset: PU
+2024-12-09 20:25:49 | load: 3
+2024-12-09 20:25:49 | num_train: 210
+2024-12-09 20:25:49 | num_validation: 30
+2024-12-09 20:25:49 | num_test: 60
+2024-12-09 20:25:49 | num_labels: 3
+2024-12-09 20:25:49 | ratio_labels: 0.01
+2024-12-09 20:25:49 | data_length: 1024
+2024-12-09 20:25:49 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-09 20:25:49 | window: 512
+2024-12-09 20:25:49 | normalization: 0-1
+2024-12-09 20:25:49 | backbone: ResNet1D
+2024-12-09 20:25:49 | mode: train_then_tune
+2024-12-09 20:25:49 | max_epochs: 500
+2024-12-09 20:25:49 | batch_size: 256
+2024-12-09 20:25:49 | lr: 0.01
+2024-12-09 20:25:49 | lr_scheduler: stepLR
+2024-12-09 20:25:49 | num_workers: 2
+2024-12-09 20:25:49 | optimizer: sgd
+2024-12-09 20:25:49 | tune_max_epochs: 100
+2024-12-09 20:25:49 | backbone_lr: 0.005
+2024-12-09 20:25:49 | classifier_lr: 0.005
+2024-12-09 20:25:49 | gamma: 0.8
+2024-12-09 20:25:49 | steps: 60
+2024-12-09 20:25:49 | >>>>> TFPred Pre-training ...
+2024-12-09 20:26:07 | Epoch:   1/500, train_loss: 122.0849, current lr: 0.010000
+2024-12-09 20:26:25 | Epoch:   2/500, train_loss: 79.1632, current lr: 0.010000
+2024-12-13 13:52:37 | datadir: E:\TFPred-main\TFPred-main\paper_datasets
+2024-12-13 13:52:37 | dataset: PU
+2024-12-13 13:52:37 | load: 3
+2024-12-13 13:52:37 | num_train: 210
+2024-12-13 13:52:37 | num_validation: 30
+2024-12-13 13:52:37 | num_test: 60
+2024-12-13 13:52:37 | num_labels: 3
+2024-12-13 13:52:37 | ratio_labels: 0.01
+2024-12-13 13:52:37 | data_length: 1024
+2024-12-13 13:52:37 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-13 13:52:37 | window: 512
+2024-12-13 13:52:37 | normalization: 0-1
+2024-12-13 13:52:37 | backbone: ResNet1D
+2024-12-13 13:52:37 | mode: train_then_tune
+2024-12-13 13:52:37 | max_epochs: 50
+2024-12-13 13:52:37 | batch_size: 256
+2024-12-13 13:52:37 | lr: 0.01
+2024-12-13 13:52:37 | lr_scheduler: stepLR
+2024-12-13 13:52:37 | num_workers: 2
+2024-12-13 13:52:37 | optimizer: sgd
+2024-12-13 13:52:37 | tune_max_epochs: 100
+2024-12-13 13:52:37 | backbone_lr: 0.005
+2024-12-13 13:52:37 | classifier_lr: 0.005
+2024-12-13 13:52:37 | gamma: 0.8
+2024-12-13 13:52:37 | steps: 60
+2024-12-13 13:52:37 | >>>>> TFPred Pre-training ...
+2024-12-13 13:52:57 | Epoch:   1/50, train_loss: 111.5400, current lr: 0.009990
+2024-12-13 13:53:14 | Epoch:   2/50, train_loss: 59.9069, current lr: 0.009961
+2024-12-13 13:53:32 | Epoch:   3/50, train_loss: 52.3671, current lr: 0.009911
+2024-12-13 13:53:49 | Epoch:   4/50, train_loss: 50.6731, current lr: 0.009843
+2024-12-13 13:54:06 | Epoch:   5/50, train_loss: 51.0680, current lr: 0.009755
+2024-12-13 13:54:24 | Epoch:   6/50, train_loss: 52.4663, current lr: 0.009649
+2024-12-13 13:54:42 | Epoch:   7/50, train_loss: 52.0243, current lr: 0.009524
+2024-12-13 13:54:59 | Epoch:   8/50, train_loss: 50.3528, current lr: 0.009382
+2024-12-13 13:55:16 | Epoch:   9/50, train_loss: 50.1666, current lr: 0.009222
+2024-12-13 13:55:33 | Epoch:  10/50, train_loss: 50.0156, current lr: 0.009045
+2024-12-13 13:55:51 | Epoch:  11/50, train_loss: 49.1860, current lr: 0.008853
+2024-12-13 13:56:08 | Epoch:  12/50, train_loss: 48.9694, current lr: 0.008645
+2024-12-13 13:56:25 | Epoch:  13/50, train_loss: 46.7781, current lr: 0.008423
+2024-12-13 13:56:42 | Epoch:  14/50, train_loss: 44.1194, current lr: 0.008187
+2024-12-13 13:57:00 | Epoch:  15/50, train_loss: 39.7527, current lr: 0.007939
+2024-12-13 13:57:18 | Epoch:  16/50, train_loss: 35.7457, current lr: 0.007679
+2024-12-13 13:57:36 | Epoch:  17/50, train_loss: 36.7416, current lr: 0.007409
+2024-12-13 13:57:53 | Epoch:  18/50, train_loss: 34.5037, current lr: 0.007129
+2024-12-13 13:58:10 | Epoch:  19/50, train_loss: 33.5064, current lr: 0.006841
+2024-12-13 13:58:27 | Epoch:  20/50, train_loss: 39.7055, current lr: 0.006545
+2024-12-13 13:58:44 | Epoch:  21/50, train_loss: 38.6380, current lr: 0.006243
+2024-12-13 13:59:01 | Epoch:  22/50, train_loss: 40.5632, current lr: 0.005937
+2024-12-13 13:59:18 | Epoch:  23/50, train_loss: 37.8806, current lr: 0.005627
+2024-12-13 13:59:35 | Epoch:  24/50, train_loss: 34.3668, current lr: 0.005314
+2024-12-13 13:59:53 | Epoch:  25/50, train_loss: 34.7128, current lr: 0.005000
+2024-12-13 14:00:10 | Epoch:  26/50, train_loss: 33.3270, current lr: 0.004686
+2024-12-13 14:00:27 | Epoch:  27/50, train_loss: 32.8656, current lr: 0.004373
+2024-12-13 14:00:44 | Epoch:  28/50, train_loss: 33.4017, current lr: 0.004063
+2024-12-13 14:01:01 | Epoch:  29/50, train_loss: 32.3685, current lr: 0.003757
+2024-12-13 14:01:18 | Epoch:  30/50, train_loss: 32.9653, current lr: 0.003455
+2024-12-13 14:01:35 | Epoch:  31/50, train_loss: 32.2812, current lr: 0.003159
+2024-12-13 14:01:52 | Epoch:  32/50, train_loss: 32.8397, current lr: 0.002871
+2024-12-13 14:02:09 | Epoch:  33/50, train_loss: 32.7868, current lr: 0.002591
+2024-12-13 14:02:26 | Epoch:  34/50, train_loss: 32.4110, current lr: 0.002321
+2024-12-13 14:02:42 | Epoch:  35/50, train_loss: 32.9011, current lr: 0.002061
+2024-12-13 14:02:58 | Epoch:  36/50, train_loss: 31.9560, current lr: 0.001813
+2024-12-13 14:03:14 | Epoch:  37/50, train_loss: 33.0697, current lr: 0.001577
+2024-12-13 14:03:31 | Epoch:  38/50, train_loss: 33.4470, current lr: 0.001355
+2024-12-13 14:03:47 | Epoch:  39/50, train_loss: 32.2105, current lr: 0.001147
+2024-12-13 14:04:03 | Epoch:  40/50, train_loss: 32.5296, current lr: 0.000955
+2024-12-13 14:04:20 | Epoch:  41/50, train_loss: 32.5184, current lr: 0.000778
+2024-12-13 14:04:36 | Epoch:  42/50, train_loss: 32.2991, current lr: 0.000618
+2024-12-13 14:04:52 | Epoch:  43/50, train_loss: 32.5027, current lr: 0.000476
+2024-12-13 14:05:09 | Epoch:  44/50, train_loss: 33.1066, current lr: 0.000351
+2024-12-13 14:05:25 | Epoch:  45/50, train_loss: 32.3954, current lr: 0.000245
+2024-12-13 14:05:41 | Epoch:  46/50, train_loss: 32.7746, current lr: 0.000157
+2024-12-13 14:05:57 | Epoch:  47/50, train_loss: 31.5641, current lr: 0.000089
+2024-12-13 14:06:14 | Epoch:  48/50, train_loss: 33.3766, current lr: 0.000039
+2024-12-13 14:06:30 | Epoch:  49/50, train_loss: 31.9323, current lr: 0.000010
+2024-12-13 14:06:46 | Epoch:  50/50, train_loss: 32.5870, current lr: 0.000000
+2024-12-13 14:06:46 | ===============TFPred Pre-training Done!===============
+2024-12-13 14:06:46 | >>>>> TFPred Semi-Supervised Evaluation ...
+2024-12-13 14:06:55 | Epoch: 1/100, train loss: 4.4421, train_acc:   0.00%, val loss: 4.7880, val_acc:   5.86%
+2024-12-13 14:07:03 | Epoch: 2/100, train loss: 3.4704, train_acc:  10.00%, val loss: 2.6757, val_acc:  36.54%
+2024-12-13 14:07:09 | Epoch: 3/100, train loss: 2.4186, train_acc:  16.67%, val loss: 2.0783, val_acc:  26.90%
+2024-12-13 14:07:14 | Epoch: 4/100, train loss: 1.7470, train_acc:  46.67%, val loss: 2.1609, val_acc:  11.72%
+2024-12-13 14:07:20 | Epoch: 5/100, train loss: 1.4606, train_acc:  56.67%, val loss: 2.5517, val_acc:  14.45%
+2024-12-13 14:07:25 | Epoch: 6/100, train loss: 1.2929, train_acc:  63.33%, val loss: 3.3097, val_acc:  13.67%
+2024-12-13 14:07:30 | Epoch: 7/100, train loss: 1.1899, train_acc:  60.00%, val loss: 4.3715, val_acc:  11.72%
+2024-12-13 14:07:35 | Epoch: 8/100, train loss: 1.1117, train_acc:  66.67%, val loss: 5.4854, val_acc:  11.72%
+2024-12-13 14:07:40 | Epoch: 9/100, train loss: 1.0255, train_acc:  66.67%, val loss: 6.4774, val_acc:  16.60%
+2024-12-13 14:07:46 | Epoch: 10/100, train loss: 0.9152, train_acc:  66.67%, val loss: 7.3623, val_acc:  16.21%
+2024-12-13 14:07:51 | Epoch: 11/100, train loss: 0.7868, train_acc:  73.33%, val loss: 8.2557, val_acc:  15.82%
+2024-12-13 14:07:56 | Epoch: 12/100, train loss: 0.6688, train_acc:  90.00%, val loss: 9.2077, val_acc:  11.91%
+2024-12-13 14:08:01 | Epoch: 13/100, train loss: 0.5952, train_acc:  83.33%, val loss: 10.1697, val_acc:   8.59%
+2024-12-13 14:08:07 | Epoch: 14/100, train loss: 0.5708, train_acc:  83.33%, val loss: 11.0691, val_acc:   7.81%
+2024-12-19 15:52:33 | datadir: ./paper_datasets
+2024-12-19 15:52:33 | dataset: PU
+2024-12-19 15:52:33 | load: 3
+2024-12-19 15:52:33 | num_train: 210
+2024-12-19 15:52:33 | num_validation: 30
+2024-12-19 15:52:33 | num_test: 60
+2024-12-19 15:52:33 | num_labels: 3
+2024-12-19 15:52:33 | ratio_labels: 0.01
+2024-12-19 15:52:33 | data_length: 1024
+2024-12-19 15:52:33 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-19 15:52:33 | window: 512
+2024-12-19 15:52:33 | normalization: 0-1
+2024-12-19 15:52:33 | backbone: ResNet1D
+2024-12-19 15:52:33 | mode: train_then_tune
+2024-12-19 15:52:33 | max_epochs: 500
+2024-12-19 15:52:33 | batch_size: 256
+2024-12-19 15:52:33 | lr: 0.01
+2024-12-19 15:52:33 | lr_scheduler: stepLR
+2024-12-19 15:52:33 | num_workers: 2
+2024-12-19 15:52:33 | optimizer: sgd
+2024-12-19 15:52:33 | tune_max_epochs: 100
+2024-12-19 15:52:33 | backbone_lr: 0.005
+2024-12-19 15:52:33 | classifier_lr: 0.005
+2024-12-19 15:52:33 | gamma: 0.8
+2024-12-19 15:52:33 | steps: 60
+2024-12-19 15:52:33 | >>>>> TFPred Pre-training ...
+2024-12-19 15:54:01 | datadir: ./paper_datasets
+2024-12-19 15:54:01 | dataset: PU
+2024-12-19 15:54:01 | load: 3
+2024-12-19 15:54:01 | num_train: 210
+2024-12-19 15:54:01 | num_validation: 30
+2024-12-19 15:54:01 | num_test: 60
+2024-12-19 15:54:01 | num_labels: 3
+2024-12-19 15:54:01 | ratio_labels: 0.01
+2024-12-19 15:54:01 | data_length: 1024
+2024-12-19 15:54:01 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-19 15:54:01 | window: 512
+2024-12-19 15:54:01 | normalization: 0-1
+2024-12-19 15:54:01 | backbone: ResNet1D
+2024-12-19 15:54:01 | mode: train_then_tune
+2024-12-19 15:54:01 | max_epochs: 500
+2024-12-19 15:54:01 | batch_size: 256
+2024-12-19 15:54:01 | lr: 0.01
+2024-12-19 15:54:01 | lr_scheduler: stepLR
+2024-12-19 15:54:01 | num_workers: 2
+2024-12-19 15:54:01 | optimizer: sgd
+2024-12-19 15:54:01 | tune_max_epochs: 100
+2024-12-19 15:54:01 | backbone_lr: 0.005
+2024-12-19 15:54:01 | classifier_lr: 0.005
+2024-12-19 15:54:01 | gamma: 0.8
+2024-12-19 15:54:01 | steps: 60
+2024-12-19 15:54:02 | >>>>> TFPred Pre-training ...
+2024-12-19 15:56:06 | datadir: ./paper_datasets
+2024-12-19 15:56:06 | dataset: PU
+2024-12-19 15:56:06 | load: 3
+2024-12-19 15:56:06 | num_train: 210
+2024-12-19 15:56:06 | num_validation: 30
+2024-12-19 15:56:06 | num_test: 60
+2024-12-19 15:56:06 | num_labels: 3
+2024-12-19 15:56:06 | ratio_labels: 0.01
+2024-12-19 15:56:06 | data_length: 1024
+2024-12-19 15:56:06 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-19 15:56:06 | window: 512
+2024-12-19 15:56:06 | normalization: 0-1
+2024-12-19 15:56:06 | backbone: ResNet1D
+2024-12-19 15:56:06 | mode: train_then_tune
+2024-12-19 15:56:06 | max_epochs: 500
+2024-12-19 15:56:06 | batch_size: 256
+2024-12-19 15:56:06 | lr: 0.01
+2024-12-19 15:56:06 | lr_scheduler: stepLR
+2024-12-19 15:56:06 | num_workers: 2
+2024-12-19 15:56:06 | optimizer: sgd
+2024-12-19 15:56:06 | tune_max_epochs: 100
+2024-12-19 15:56:06 | backbone_lr: 0.005
+2024-12-19 15:56:06 | classifier_lr: 0.005
+2024-12-19 15:56:06 | gamma: 0.8
+2024-12-19 15:56:06 | steps: 60
+2024-12-19 15:56:06 | >>>>> TFPred Pre-training ...
+2024-12-19 15:56:35 | datadir: ./paper_datasets
+2024-12-19 15:56:35 | dataset: PU
+2024-12-19 15:56:35 | load: 3
+2024-12-19 15:56:35 | num_train: 210
+2024-12-19 15:56:35 | num_validation: 30
+2024-12-19 15:56:35 | num_test: 60
+2024-12-19 15:56:35 | num_labels: 3
+2024-12-19 15:56:35 | ratio_labels: 0.01
+2024-12-19 15:56:35 | data_length: 1024
+2024-12-19 15:56:35 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-19 15:56:35 | window: 512
+2024-12-19 15:56:35 | normalization: 0-1
+2024-12-19 15:56:35 | backbone: ResNet1D
+2024-12-19 15:56:35 | mode: train_then_tune
+2024-12-19 15:56:35 | max_epochs: 500
+2024-12-19 15:56:35 | batch_size: 256
+2024-12-19 15:56:35 | lr: 0.01
+2024-12-19 15:56:35 | lr_scheduler: stepLR
+2024-12-19 15:56:35 | num_workers: 2
+2024-12-19 15:56:35 | optimizer: sgd
+2024-12-19 15:56:35 | tune_max_epochs: 100
+2024-12-19 15:56:35 | backbone_lr: 0.005
+2024-12-19 15:56:35 | classifier_lr: 0.005
+2024-12-19 15:56:35 | gamma: 0.8
+2024-12-19 15:56:35 | steps: 60
+2024-12-19 15:56:35 | >>>>> TFPred Pre-training ...
+2024-12-19 15:57:37 | datadir: ./paper_datasets
+2024-12-19 15:57:37 | dataset: PU
+2024-12-19 15:57:37 | load: 3
+2024-12-19 15:57:37 | num_train: 210
+2024-12-19 15:57:37 | num_validation: 30
+2024-12-19 15:57:37 | num_test: 60
+2024-12-19 15:57:37 | num_labels: 3
+2024-12-19 15:57:37 | ratio_labels: 0.01
+2024-12-19 15:57:37 | data_length: 1024
+2024-12-19 15:57:37 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-19 15:57:37 | window: 512
+2024-12-19 15:57:37 | normalization: 0-1
+2024-12-19 15:57:37 | backbone: ResNet1D
+2024-12-19 15:57:37 | mode: train_then_tune
+2024-12-19 15:57:37 | max_epochs: 500
+2024-12-19 15:57:37 | batch_size: 256
+2024-12-19 15:57:37 | lr: 0.01
+2024-12-19 15:57:37 | lr_scheduler: stepLR
+2024-12-19 15:57:37 | num_workers: 2
+2024-12-19 15:57:37 | optimizer: sgd
+2024-12-19 15:57:37 | tune_max_epochs: 100
+2024-12-19 15:57:37 | backbone_lr: 0.005
+2024-12-19 15:57:37 | classifier_lr: 0.005
+2024-12-19 15:57:37 | gamma: 0.8
+2024-12-19 15:57:37 | steps: 60
+2024-12-19 15:57:37 | >>>>> TFPred Pre-training ...
+2024-12-19 15:58:41 | datadir: ./paper_datasets
+2024-12-19 15:58:41 | dataset: PU
+2024-12-19 15:58:41 | load: 3
+2024-12-19 15:58:41 | num_train: 210
+2024-12-19 15:58:41 | num_validation: 30
+2024-12-19 15:58:41 | num_test: 60
+2024-12-19 15:58:41 | num_labels: 3
+2024-12-19 15:58:41 | ratio_labels: 0.01
+2024-12-19 15:58:41 | data_length: 1024
+2024-12-19 15:58:41 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-19 15:58:41 | window: 512
+2024-12-19 15:58:41 | normalization: 0-1
+2024-12-19 15:58:41 | backbone: ResNet1D
+2024-12-19 15:58:41 | mode: train_then_tune
+2024-12-19 15:58:41 | max_epochs: 500
+2024-12-19 15:58:41 | batch_size: 256
+2024-12-19 15:58:41 | lr: 0.01
+2024-12-19 15:58:41 | lr_scheduler: stepLR
+2024-12-19 15:58:41 | num_workers: 2
+2024-12-19 15:58:41 | optimizer: sgd
+2024-12-19 15:58:41 | tune_max_epochs: 100
+2024-12-19 15:58:41 | backbone_lr: 0.005
+2024-12-19 15:58:41 | classifier_lr: 0.005
+2024-12-19 15:58:41 | gamma: 0.8
+2024-12-19 15:58:41 | steps: 60
+2024-12-19 15:58:42 | >>>>> TFPred Pre-training ...
+2024-12-19 15:59:42 | datadir: ./paper_datasets
+2024-12-19 15:59:42 | dataset: PU
+2024-12-19 15:59:42 | load: 3
+2024-12-19 15:59:42 | num_train: 210
+2024-12-19 15:59:42 | num_validation: 30
+2024-12-19 15:59:42 | num_test: 60
+2024-12-19 15:59:42 | num_labels: 3
+2024-12-19 15:59:42 | ratio_labels: 0.01
+2024-12-19 15:59:42 | data_length: 1024
+2024-12-19 15:59:42 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-19 15:59:42 | window: 512
+2024-12-19 15:59:42 | normalization: 0-1
+2024-12-19 15:59:42 | backbone: ResNet1D
+2024-12-19 15:59:42 | mode: train_then_tune
+2024-12-19 15:59:42 | max_epochs: 500
+2024-12-19 15:59:42 | batch_size: 256
+2024-12-19 15:59:42 | lr: 0.01
+2024-12-19 15:59:42 | lr_scheduler: stepLR
+2024-12-19 15:59:42 | num_workers: 2
+2024-12-19 15:59:42 | optimizer: sgd
+2024-12-19 15:59:42 | tune_max_epochs: 100
+2024-12-19 15:59:42 | backbone_lr: 0.005
+2024-12-19 15:59:42 | classifier_lr: 0.005
+2024-12-19 15:59:42 | gamma: 0.8
+2024-12-19 15:59:42 | steps: 60
+2024-12-19 15:59:42 | >>>>> TFPred Pre-training ...
+2024-12-19 16:03:22 | datadir: ./paper_datasets
+2024-12-19 16:03:22 | dataset: PU
+2024-12-19 16:03:22 | load: 3
+2024-12-19 16:03:22 | num_train: 210
+2024-12-19 16:03:22 | num_validation: 30
+2024-12-19 16:03:22 | num_test: 60
+2024-12-19 16:03:22 | num_labels: 3
+2024-12-19 16:03:22 | ratio_labels: 0.01
+2024-12-19 16:03:22 | data_length: 1024
+2024-12-19 16:03:22 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-19 16:03:22 | window: 512
+2024-12-19 16:03:22 | normalization: 0-1
+2024-12-19 16:03:22 | backbone: ResNet1D
+2024-12-19 16:03:22 | mode: train_then_tune
+2024-12-19 16:03:22 | max_epochs: 500
+2024-12-19 16:03:22 | batch_size: 256
+2024-12-19 16:03:22 | lr: 0.01
+2024-12-19 16:03:22 | lr_scheduler: stepLR
+2024-12-19 16:03:22 | num_workers: 2
+2024-12-19 16:03:22 | optimizer: sgd
+2024-12-19 16:03:22 | tune_max_epochs: 100
+2024-12-19 16:03:22 | backbone_lr: 0.005
+2024-12-19 16:03:22 | classifier_lr: 0.005
+2024-12-19 16:03:22 | gamma: 0.8
+2024-12-19 16:03:22 | steps: 60
+2024-12-19 16:03:23 | >>>>> TFPred Pre-training ...
+2024-12-19 16:06:02 | datadir: ./paper_datasets
+2024-12-19 16:06:02 | dataset: PU
+2024-12-19 16:06:02 | load: 3
+2024-12-19 16:06:02 | num_train: 210
+2024-12-19 16:06:02 | num_validation: 30
+2024-12-19 16:06:02 | num_test: 60
+2024-12-19 16:06:02 | num_labels: 3
+2024-12-19 16:06:02 | ratio_labels: 0.01
+2024-12-19 16:06:02 | data_length: 1024
+2024-12-19 16:06:02 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-19 16:06:02 | window: 512
+2024-12-19 16:06:02 | normalization: 0-1
+2024-12-19 16:06:02 | backbone: ResNet1D
+2024-12-19 16:06:02 | mode: train_then_tune
+2024-12-19 16:06:02 | max_epochs: 500
+2024-12-19 16:06:02 | batch_size: 256
+2024-12-19 16:06:02 | lr: 0.01
+2024-12-19 16:06:02 | lr_scheduler: stepLR
+2024-12-19 16:06:02 | num_workers: 2
+2024-12-19 16:06:02 | optimizer: sgd
+2024-12-19 16:06:02 | tune_max_epochs: 100
+2024-12-19 16:06:02 | backbone_lr: 0.005
+2024-12-19 16:06:02 | classifier_lr: 0.005
+2024-12-19 16:06:02 | gamma: 0.8
+2024-12-19 16:06:02 | steps: 60
+2024-12-19 16:06:02 | >>>>> TFPred Pre-training ...
+2024-12-19 16:06:40 | datadir: ./paper_datasets
+2024-12-19 16:06:40 | dataset: PU
+2024-12-19 16:06:40 | load: 3
+2024-12-19 16:06:40 | num_train: 210
+2024-12-19 16:06:40 | num_validation: 30
+2024-12-19 16:06:40 | num_test: 60
+2024-12-19 16:06:40 | num_labels: 3
+2024-12-19 16:06:40 | ratio_labels: 0.01
+2024-12-19 16:06:40 | data_length: 1024
+2024-12-19 16:06:40 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-19 16:06:40 | window: 512
+2024-12-19 16:06:40 | normalization: 0-1
+2024-12-19 16:06:40 | backbone: ResNet1D
+2024-12-19 16:06:40 | mode: train_then_tune
+2024-12-19 16:06:40 | max_epochs: 500
+2024-12-19 16:06:40 | batch_size: 256
+2024-12-19 16:06:40 | lr: 0.01
+2024-12-19 16:06:40 | lr_scheduler: stepLR
+2024-12-19 16:06:40 | num_workers: 2
+2024-12-19 16:06:40 | optimizer: sgd
+2024-12-19 16:06:40 | tune_max_epochs: 100
+2024-12-19 16:06:40 | backbone_lr: 0.005
+2024-12-19 16:06:40 | classifier_lr: 0.005
+2024-12-19 16:06:40 | gamma: 0.8
+2024-12-19 16:06:40 | steps: 60
+2024-12-19 16:06:40 | >>>>> TFPred Pre-training ...
+2024-12-19 16:08:50 | datadir: ./paper_datasets
+2024-12-19 16:08:50 | dataset: PU
+2024-12-19 16:08:50 | load: 3
+2024-12-19 16:08:50 | num_train: 210
+2024-12-19 16:08:50 | num_validation: 30
+2024-12-19 16:08:50 | num_test: 60
+2024-12-19 16:08:50 | num_labels: 3
+2024-12-19 16:08:50 | ratio_labels: 0.01
+2024-12-19 16:08:50 | data_length: 1024
+2024-12-19 16:08:50 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-19 16:08:50 | window: 512
+2024-12-19 16:08:50 | normalization: 0-1
+2024-12-19 16:08:50 | backbone: ResNet1D
+2024-12-19 16:08:50 | mode: train_then_tune
+2024-12-19 16:08:50 | max_epochs: 500
+2024-12-19 16:08:50 | batch_size: 256
+2024-12-19 16:08:50 | lr: 0.01
+2024-12-19 16:08:50 | lr_scheduler: stepLR
+2024-12-19 16:08:50 | num_workers: 2
+2024-12-19 16:08:50 | optimizer: sgd
+2024-12-19 16:08:50 | tune_max_epochs: 100
+2024-12-19 16:08:50 | backbone_lr: 0.005
+2024-12-19 16:08:50 | classifier_lr: 0.005
+2024-12-19 16:08:50 | gamma: 0.8
+2024-12-19 16:08:50 | steps: 60
+2024-12-19 16:08:51 | >>>>> TFPred Pre-training ...
+2024-12-19 16:09:46 | datadir: ./paper_datasets
+2024-12-19 16:09:46 | dataset: PU
+2024-12-19 16:09:46 | load: 3
+2024-12-19 16:09:46 | num_train: 210
+2024-12-19 16:09:46 | num_validation: 30
+2024-12-19 16:09:46 | num_test: 60
+2024-12-19 16:09:46 | num_labels: 3
+2024-12-19 16:09:46 | ratio_labels: 0.01
+2024-12-19 16:09:46 | data_length: 1024
+2024-12-19 16:09:46 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-19 16:09:46 | window: 512
+2024-12-19 16:09:46 | normalization: 0-1
+2024-12-19 16:09:46 | backbone: ResNet1D
+2024-12-19 16:09:46 | mode: train_then_tune
+2024-12-19 16:09:46 | max_epochs: 500
+2024-12-19 16:09:46 | batch_size: 256
+2024-12-19 16:09:46 | lr: 0.01
+2024-12-19 16:09:46 | lr_scheduler: stepLR
+2024-12-19 16:09:46 | num_workers: 2
+2024-12-19 16:09:46 | optimizer: sgd
+2024-12-19 16:09:46 | tune_max_epochs: 100
+2024-12-19 16:09:46 | backbone_lr: 0.005
+2024-12-19 16:09:46 | classifier_lr: 0.005
+2024-12-19 16:09:46 | gamma: 0.8
+2024-12-19 16:09:46 | steps: 60
+2024-12-19 16:09:46 | >>>>> TFPred Pre-training ...
+2024-12-19 16:16:14 | datadir: ./paper_datasets
+2024-12-19 16:16:14 | dataset: PU
+2024-12-19 16:16:14 | load: 3
+2024-12-19 16:16:14 | num_train: 210
+2024-12-19 16:16:14 | num_validation: 30
+2024-12-19 16:16:14 | num_test: 60
+2024-12-19 16:16:14 | num_labels: 3
+2024-12-19 16:16:14 | ratio_labels: 0.01
+2024-12-19 16:16:14 | data_length: 1024
+2024-12-19 16:16:14 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-19 16:16:14 | window: 512
+2024-12-19 16:16:14 | normalization: 0-1
+2024-12-19 16:16:14 | backbone: ResNet1D
+2024-12-19 16:16:14 | mode: train_then_tune
+2024-12-19 16:16:14 | max_epochs: 500
+2024-12-19 16:16:14 | batch_size: 256
+2024-12-19 16:16:14 | lr: 0.01
+2024-12-19 16:16:14 | lr_scheduler: stepLR
+2024-12-19 16:16:14 | num_workers: 2
+2024-12-19 16:16:14 | optimizer: sgd
+2024-12-19 16:16:14 | tune_max_epochs: 100
+2024-12-19 16:16:14 | backbone_lr: 0.005
+2024-12-19 16:16:14 | classifier_lr: 0.005
+2024-12-19 16:16:14 | gamma: 0.8
+2024-12-19 16:16:14 | steps: 60
+2024-12-19 16:16:14 | >>>>> TFPred Pre-training ...
+2024-12-19 16:17:25 | datadir: ./paper_datasets
+2024-12-19 16:17:25 | dataset: PU
+2024-12-19 16:17:25 | load: 3
+2024-12-19 16:17:25 | num_train: 210
+2024-12-19 16:17:25 | num_validation: 30
+2024-12-19 16:17:25 | num_test: 60
+2024-12-19 16:17:25 | num_labels: 3
+2024-12-19 16:17:25 | ratio_labels: 0.01
+2024-12-19 16:17:25 | data_length: 1024
+2024-12-19 16:17:25 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-19 16:17:25 | window: 512
+2024-12-19 16:17:25 | normalization: 0-1
+2024-12-19 16:17:25 | backbone: ResNet1D
+2024-12-19 16:17:25 | mode: train_then_tune
+2024-12-19 16:17:25 | max_epochs: 500
+2024-12-19 16:17:25 | batch_size: 256
+2024-12-19 16:17:25 | lr: 0.01
+2024-12-19 16:17:25 | lr_scheduler: stepLR
+2024-12-19 16:17:25 | num_workers: 2
+2024-12-19 16:17:25 | optimizer: sgd
+2024-12-19 16:17:25 | tune_max_epochs: 100
+2024-12-19 16:17:25 | backbone_lr: 0.005
+2024-12-19 16:17:25 | classifier_lr: 0.005
+2024-12-19 16:17:25 | gamma: 0.8
+2024-12-19 16:17:25 | steps: 60
+2024-12-19 16:17:25 | >>>>> TFPred Pre-training ...
+2024-12-19 16:18:53 | datadir: ./paper_datasets
+2024-12-19 16:18:53 | dataset: PU
+2024-12-19 16:18:53 | load: 3
+2024-12-19 16:18:53 | num_train: 210
+2024-12-19 16:18:53 | num_validation: 30
+2024-12-19 16:18:53 | num_test: 60
+2024-12-19 16:18:53 | num_labels: 3
+2024-12-19 16:18:53 | ratio_labels: 0.01
+2024-12-19 16:18:53 | data_length: 1024
+2024-12-19 16:18:53 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-19 16:18:53 | window: 512
+2024-12-19 16:18:53 | normalization: 0-1
+2024-12-19 16:18:53 | backbone: ResNet1D
+2024-12-19 16:18:53 | mode: train_then_tune
+2024-12-19 16:18:53 | max_epochs: 500
+2024-12-19 16:18:53 | batch_size: 256
+2024-12-19 16:18:53 | lr: 0.01
+2024-12-19 16:18:53 | lr_scheduler: stepLR
+2024-12-19 16:18:53 | num_workers: 2
+2024-12-19 16:18:53 | optimizer: sgd
+2024-12-19 16:18:53 | tune_max_epochs: 100
+2024-12-19 16:18:53 | backbone_lr: 0.005
+2024-12-19 16:18:53 | classifier_lr: 0.005
+2024-12-19 16:18:53 | gamma: 0.8
+2024-12-19 16:18:53 | steps: 60
+2024-12-19 16:27:52 | datadir: ./paper_datasets
+2024-12-19 16:27:52 | dataset: PU
+2024-12-19 16:27:52 | load: 3
+2024-12-19 16:27:52 | num_train: 210
+2024-12-19 16:27:52 | num_validation: 30
+2024-12-19 16:27:52 | num_test: 60
+2024-12-19 16:27:52 | num_labels: 3
+2024-12-19 16:27:52 | ratio_labels: 0.01
+2024-12-19 16:27:52 | data_length: 1024
+2024-12-19 16:27:52 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-19 16:27:52 | window: 512
+2024-12-19 16:27:52 | normalization: 0-1
+2024-12-19 16:27:52 | backbone: ResNet1D
+2024-12-19 16:27:52 | mode: train_then_tune
+2024-12-19 16:27:52 | max_epochs: 500
+2024-12-19 16:27:52 | batch_size: 256
+2024-12-19 16:27:52 | lr: 0.01
+2024-12-19 16:27:52 | lr_scheduler: stepLR
+2024-12-19 16:27:52 | num_workers: 2
+2024-12-19 16:27:52 | optimizer: sgd
+2024-12-19 16:27:52 | tune_max_epochs: 100
+2024-12-19 16:27:52 | backbone_lr: 0.005
+2024-12-19 16:27:52 | classifier_lr: 0.005
+2024-12-19 16:27:52 | gamma: 0.8
+2024-12-19 16:27:52 | steps: 60
+2024-12-19 16:27:52 | >>>>> TFPred Pre-training ...
+2024-12-21 14:45:57 | datadir: ./paper_datasets
+2024-12-21 14:45:57 | dataset: PU
+2024-12-21 14:45:57 | load: 3
+2024-12-21 14:45:57 | num_train: 210
+2024-12-21 14:45:57 | num_validation: 30
+2024-12-21 14:45:57 | num_test: 60
+2024-12-21 14:45:57 | num_labels: 3
+2024-12-21 14:45:57 | ratio_labels: 0.01
+2024-12-21 14:45:57 | data_length: 1024
+2024-12-21 14:45:57 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-21 14:45:57 | window: 512
+2024-12-21 14:45:57 | normalization: 0-1
+2024-12-21 14:45:57 | backbone: ResNet1D
+2024-12-21 14:45:57 | mode: train_then_tune
+2024-12-21 14:45:57 | max_epochs: 500
+2024-12-21 14:45:57 | batch_size: 256
+2024-12-21 14:45:57 | lr: 0.01
+2024-12-21 14:45:57 | lr_scheduler: stepLR
+2024-12-21 14:45:57 | num_workers: 2
+2024-12-21 14:45:57 | optimizer: sgd
+2024-12-21 14:45:57 | tune_max_epochs: 100
+2024-12-21 14:45:57 | backbone_lr: 0.005
+2024-12-21 14:45:57 | classifier_lr: 0.005
+2024-12-21 14:45:57 | gamma: 0.8
+2024-12-21 14:45:57 | steps: 60
+2024-12-21 14:45:58 | >>>>> TFPred Pre-training ...
+2024-12-21 14:48:49 | datadir: ./paper_datasets
+2024-12-21 14:48:49 | dataset: PU
+2024-12-21 14:48:49 | load: 3
+2024-12-21 14:48:49 | num_train: 210
+2024-12-21 14:48:49 | num_validation: 30
+2024-12-21 14:48:49 | num_test: 60
+2024-12-21 14:48:49 | num_labels: 3
+2024-12-21 14:48:49 | ratio_labels: 0.01
+2024-12-21 14:48:49 | data_length: 1024
+2024-12-21 14:48:49 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-21 14:48:49 | window: 512
+2024-12-21 14:48:49 | normalization: 0-1
+2024-12-21 14:48:49 | backbone: ResNet1D
+2024-12-21 14:48:49 | mode: train_then_tune
+2024-12-21 14:48:49 | max_epochs: 500
+2024-12-21 14:48:49 | batch_size: 256
+2024-12-21 14:48:49 | lr: 0.01
+2024-12-21 14:48:49 | lr_scheduler: stepLR
+2024-12-21 14:48:49 | num_workers: 2
+2024-12-21 14:48:49 | optimizer: sgd
+2024-12-21 14:48:49 | tune_max_epochs: 100
+2024-12-21 14:48:49 | backbone_lr: 0.005
+2024-12-21 14:48:49 | classifier_lr: 0.005
+2024-12-21 14:48:49 | gamma: 0.8
+2024-12-21 14:48:49 | steps: 60
+2024-12-21 14:48:49 | >>>>> TFPred Pre-training ...
+2024-12-21 14:57:36 | datadir: ./paper_datasets
+2024-12-21 14:57:36 | dataset: PU
+2024-12-21 14:57:36 | load: 3
+2024-12-21 14:57:36 | num_train: 210
+2024-12-21 14:57:36 | num_validation: 30
+2024-12-21 14:57:36 | num_test: 60
+2024-12-21 14:57:36 | num_labels: 3
+2024-12-21 14:57:36 | ratio_labels: 0.01
+2024-12-21 14:57:36 | data_length: 1024
+2024-12-21 14:57:36 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-21 14:57:36 | window: 512
+2024-12-21 14:57:36 | normalization: 0-1
+2024-12-21 14:57:36 | backbone: ResNet1D
+2024-12-21 14:57:36 | mode: train_then_tune
+2024-12-21 14:57:36 | max_epochs: 500
+2024-12-21 14:57:36 | batch_size: 256
+2024-12-21 14:57:36 | lr: 0.01
+2024-12-21 14:57:36 | lr_scheduler: stepLR
+2024-12-21 14:57:36 | num_workers: 2
+2024-12-21 14:57:36 | optimizer: sgd
+2024-12-21 14:57:36 | tune_max_epochs: 100
+2024-12-21 14:57:36 | backbone_lr: 0.005
+2024-12-21 14:57:36 | classifier_lr: 0.005
+2024-12-21 14:57:36 | gamma: 0.8
+2024-12-21 14:57:36 | steps: 60
+2024-12-21 14:57:36 | >>>>> TFPred Pre-training ...
+2024-12-21 15:16:13 | datadir: ./paper_datasets
+2024-12-21 15:16:13 | dataset: PU
+2024-12-21 15:16:13 | load: 3
+2024-12-21 15:16:13 | num_train: 210
+2024-12-21 15:16:13 | num_validation: 30
+2024-12-21 15:16:13 | num_test: 60
+2024-12-21 15:16:13 | num_labels: 3
+2024-12-21 15:16:13 | ratio_labels: 0.01
+2024-12-21 15:16:13 | data_length: 1024
+2024-12-21 15:16:13 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-21 15:16:13 | window: 512
+2024-12-21 15:16:13 | normalization: 0-1
+2024-12-21 15:16:13 | backbone: ResNet1D
+2024-12-21 15:16:13 | mode: train_then_tune
+2024-12-21 15:16:13 | max_epochs: 500
+2024-12-21 15:16:13 | batch_size: 256
+2024-12-21 15:16:13 | lr: 0.01
+2024-12-21 15:16:13 | lr_scheduler: stepLR
+2024-12-21 15:16:13 | num_workers: 2
+2024-12-21 15:16:13 | optimizer: sgd
+2024-12-21 15:16:13 | tune_max_epochs: 100
+2024-12-21 15:16:13 | backbone_lr: 0.005
+2024-12-21 15:16:13 | classifier_lr: 0.005
+2024-12-21 15:16:13 | gamma: 0.8
+2024-12-21 15:16:13 | steps: 60
+2024-12-21 15:16:13 | >>>>> TFPred Pre-training ...
+2024-12-21 15:26:47 | datadir: ./paper_datasets
+2024-12-21 15:26:47 | dataset: PU
+2024-12-21 15:26:47 | load: 3
+2024-12-21 15:26:47 | num_train: 210
+2024-12-21 15:26:47 | num_validation: 30
+2024-12-21 15:26:47 | num_test: 60
+2024-12-21 15:26:47 | num_labels: 3
+2024-12-21 15:26:47 | ratio_labels: 0.01
+2024-12-21 15:26:47 | data_length: 1024
+2024-12-21 15:26:47 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-21 15:26:47 | window: 512
+2024-12-21 15:26:47 | normalization: 0-1
+2024-12-21 15:26:47 | backbone: ResNet1D
+2024-12-21 15:26:47 | mode: train_then_tune
+2024-12-21 15:26:47 | max_epochs: 500
+2024-12-21 15:26:47 | batch_size: 256
+2024-12-21 15:26:47 | lr: 0.01
+2024-12-21 15:26:47 | lr_scheduler: stepLR
+2024-12-21 15:26:47 | num_workers: 2
+2024-12-21 15:26:47 | optimizer: sgd
+2024-12-21 15:26:47 | tune_max_epochs: 100
+2024-12-21 15:26:47 | backbone_lr: 0.005
+2024-12-21 15:26:47 | classifier_lr: 0.005
+2024-12-21 15:26:47 | gamma: 0.8
+2024-12-21 15:26:47 | steps: 60
+2024-12-21 15:26:47 | >>>>> TFPred Pre-training ...
+2024-12-21 15:28:35 | datadir: ./paper_datasets
+2024-12-21 15:28:35 | dataset: PU
+2024-12-21 15:28:35 | load: 3
+2024-12-21 15:28:35 | num_train: 210
+2024-12-21 15:28:35 | num_validation: 30
+2024-12-21 15:28:35 | num_test: 60
+2024-12-21 15:28:35 | num_labels: 3
+2024-12-21 15:28:35 | ratio_labels: 0.01
+2024-12-21 15:28:35 | data_length: 1024
+2024-12-21 15:28:35 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-21 15:28:35 | window: 512
+2024-12-21 15:28:35 | normalization: 0-1
+2024-12-21 15:28:35 | backbone: ResNet1D
+2024-12-21 15:28:35 | mode: train_then_tune
+2024-12-21 15:28:35 | max_epochs: 500
+2024-12-21 15:28:35 | batch_size: 256
+2024-12-21 15:28:35 | lr: 0.01
+2024-12-21 15:28:35 | lr_scheduler: stepLR
+2024-12-21 15:28:35 | num_workers: 2
+2024-12-21 15:28:35 | optimizer: sgd
+2024-12-21 15:28:35 | tune_max_epochs: 100
+2024-12-21 15:28:35 | backbone_lr: 0.005
+2024-12-21 15:28:35 | classifier_lr: 0.005
+2024-12-21 15:28:35 | gamma: 0.8
+2024-12-21 15:28:35 | steps: 60
+2024-12-21 15:28:35 | >>>>> TFPred Pre-training ...
+2024-12-21 15:31:01 | datadir: ./paper_datasets
+2024-12-21 15:31:01 | dataset: PU
+2024-12-21 15:31:01 | load: 3
+2024-12-21 15:31:01 | num_train: 210
+2024-12-21 15:31:01 | num_validation: 30
+2024-12-21 15:31:01 | num_test: 60
+2024-12-21 15:31:01 | num_labels: 3
+2024-12-21 15:31:01 | ratio_labels: 0.01
+2024-12-21 15:31:01 | data_length: 1024
+2024-12-21 15:31:01 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-21 15:31:01 | window: 512
+2024-12-21 15:31:01 | normalization: 0-1
+2024-12-21 15:31:01 | backbone: ResNet1D
+2024-12-21 15:31:01 | mode: train_then_tune
+2024-12-21 15:31:01 | max_epochs: 500
+2024-12-21 15:31:01 | batch_size: 256
+2024-12-21 15:31:01 | lr: 0.01
+2024-12-21 15:31:01 | lr_scheduler: stepLR
+2024-12-21 15:31:01 | num_workers: 2
+2024-12-21 15:31:01 | optimizer: sgd
+2024-12-21 15:31:01 | tune_max_epochs: 100
+2024-12-21 15:31:01 | backbone_lr: 0.005
+2024-12-21 15:31:01 | classifier_lr: 0.005
+2024-12-21 15:31:01 | gamma: 0.8
+2024-12-21 15:31:01 | steps: 60
+2024-12-21 15:31:01 | >>>>> TFPred Pre-training ...
+2024-12-22 15:52:44 | datadir: ./paper_datasets
+2024-12-22 15:52:44 | dataset: PU
+2024-12-22 15:52:44 | load: 3
+2024-12-22 15:52:44 | num_train: 210
+2024-12-22 15:52:44 | num_validation: 30
+2024-12-22 15:52:44 | num_test: 60
+2024-12-22 15:52:44 | num_labels: 3
+2024-12-22 15:52:44 | ratio_labels: 0.01
+2024-12-22 15:52:44 | data_length: 1024
+2024-12-22 15:52:44 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-22 15:52:44 | window: 512
+2024-12-22 15:52:44 | normalization: 0-1
+2024-12-22 15:52:44 | backbone: ResNet1D
+2024-12-22 15:52:44 | mode: train_then_tune
+2024-12-22 15:52:44 | max_epochs: 500
+2024-12-22 15:52:44 | batch_size: 256
+2024-12-22 15:52:44 | lr: 0.01
+2024-12-22 15:52:44 | lr_scheduler: stepLR
+2024-12-22 15:52:44 | num_workers: 2
+2024-12-22 15:52:44 | optimizer: sgd
+2024-12-22 15:52:44 | tune_max_epochs: 100
+2024-12-22 15:52:44 | backbone_lr: 0.005
+2024-12-22 15:52:44 | classifier_lr: 0.005
+2024-12-22 15:52:44 | gamma: 0.8
+2024-12-22 15:52:44 | steps: 60
+2024-12-22 15:52:45 | >>>>> TFPred Pre-training ...
+2024-12-22 21:35:59 | datadir: ./paper_datasets
+2024-12-22 21:35:59 | dataset: PU
+2024-12-22 21:35:59 | load: 3
+2024-12-22 21:35:59 | num_train: 210
+2024-12-22 21:35:59 | num_validation: 30
+2024-12-22 21:35:59 | num_test: 60
+2024-12-22 21:35:59 | num_labels: 3
+2024-12-22 21:35:59 | ratio_labels: 0.01
+2024-12-22 21:35:59 | data_length: 1024
+2024-12-22 21:35:59 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-22 21:35:59 | window: 512
+2024-12-22 21:35:59 | normalization: 0-1
+2024-12-22 21:35:59 | backbone: ResNet1D
+2024-12-22 21:35:59 | mode: train_then_tune
+2024-12-22 21:35:59 | max_epochs: 500
+2024-12-22 21:35:59 | batch_size: 256
+2024-12-22 21:35:59 | lr: 0.01
+2024-12-22 21:35:59 | lr_scheduler: stepLR
+2024-12-22 21:35:59 | num_workers: 2
+2024-12-22 21:35:59 | optimizer: sgd
+2024-12-22 21:35:59 | tune_max_epochs: 100
+2024-12-22 21:35:59 | backbone_lr: 0.005
+2024-12-22 21:35:59 | classifier_lr: 0.005
+2024-12-22 21:35:59 | gamma: 0.8
+2024-12-22 21:35:59 | steps: 60
+2024-12-22 21:35:59 | >>>>> TFPred Pre-training ...
+2024-12-22 22:07:16 | datadir: ./paper_datasets
+2024-12-22 22:07:16 | dataset: PU
+2024-12-22 22:07:16 | load: 3
+2024-12-22 22:07:16 | num_train: 210
+2024-12-22 22:07:16 | num_validation: 30
+2024-12-22 22:07:16 | num_test: 60
+2024-12-22 22:07:16 | num_labels: 3
+2024-12-22 22:07:16 | ratio_labels: 0.01
+2024-12-22 22:07:16 | data_length: 1024
+2024-12-22 22:07:16 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-22 22:07:16 | window: 512
+2024-12-22 22:07:16 | normalization: 0-1
+2024-12-22 22:07:16 | backbone: ResNet1D
+2024-12-22 22:07:16 | mode: train_then_tune
+2024-12-22 22:07:16 | max_epochs: 500
+2024-12-22 22:07:16 | batch_size: 256
+2024-12-22 22:07:16 | lr: 0.01
+2024-12-22 22:07:16 | lr_scheduler: stepLR
+2024-12-22 22:07:16 | num_workers: 2
+2024-12-22 22:07:16 | optimizer: sgd
+2024-12-22 22:07:16 | tune_max_epochs: 100
+2024-12-22 22:07:16 | backbone_lr: 0.005
+2024-12-22 22:07:16 | classifier_lr: 0.005
+2024-12-22 22:07:16 | gamma: 0.8
+2024-12-22 22:07:16 | steps: 60
+2024-12-22 22:07:17 | >>>>> TFPred Pre-training ...
+2024-12-22 22:22:09 | datadir: ./paper_datasets
+2024-12-22 22:22:09 | dataset: PU
+2024-12-22 22:22:09 | load: 3
+2024-12-22 22:22:09 | num_train: 210
+2024-12-22 22:22:09 | num_validation: 30
+2024-12-22 22:22:09 | num_test: 60
+2024-12-22 22:22:09 | num_labels: 3
+2024-12-22 22:22:09 | ratio_labels: 0.01
+2024-12-22 22:22:09 | data_length: 1024
+2024-12-22 22:22:09 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-22 22:22:09 | window: 512
+2024-12-22 22:22:09 | normalization: 0-1
+2024-12-22 22:22:09 | backbone: ResNet1D
+2024-12-22 22:22:09 | mode: train_then_tune
+2024-12-22 22:22:09 | max_epochs: 500
+2024-12-22 22:22:09 | batch_size: 256
+2024-12-22 22:22:09 | lr: 0.01
+2024-12-22 22:22:09 | lr_scheduler: stepLR
+2024-12-22 22:22:09 | num_workers: 2
+2024-12-22 22:22:09 | optimizer: sgd
+2024-12-22 22:22:09 | tune_max_epochs: 100
+2024-12-22 22:22:09 | backbone_lr: 0.005
+2024-12-22 22:22:09 | classifier_lr: 0.005
+2024-12-22 22:22:09 | gamma: 0.8
+2024-12-22 22:22:09 | steps: 60
+2024-12-22 22:22:09 | >>>>> TFPred Pre-training ...
+2024-12-22 22:22:29 | Epoch:   1/500, train_loss: 126.8469, current lr: 0.010000
+2024-12-22 22:22:49 | Epoch:   2/500, train_loss: 126.4978, current lr: 0.010000
+2024-12-22 22:23:09 | Epoch:   3/500, train_loss: nan, current lr: 0.009999
+2024-12-22 22:23:41 | datadir: ./paper_datasets
+2024-12-22 22:23:41 | dataset: PU
+2024-12-22 22:23:41 | load: 3
+2024-12-22 22:23:41 | num_train: 210
+2024-12-22 22:23:41 | num_validation: 30
+2024-12-22 22:23:41 | num_test: 60
+2024-12-22 22:23:41 | num_labels: 3
+2024-12-22 22:23:41 | ratio_labels: 0.01
+2024-12-22 22:23:41 | data_length: 1024
+2024-12-22 22:23:41 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-22 22:23:41 | window: 512
+2024-12-22 22:23:41 | normalization: 0-1
+2024-12-22 22:23:41 | backbone: ResNet1D
+2024-12-22 22:23:41 | mode: train_then_tune
+2024-12-22 22:23:41 | max_epochs: 500
+2024-12-22 22:23:41 | batch_size: 256
+2024-12-22 22:23:41 | lr: 0.0
+2024-12-22 22:23:41 | lr_scheduler: stepLR
+2024-12-22 22:23:41 | num_workers: 2
+2024-12-22 22:23:41 | optimizer: sgd
+2024-12-22 22:23:41 | tune_max_epochs: 100
+2024-12-22 22:23:41 | backbone_lr: 0.005
+2024-12-22 22:23:41 | classifier_lr: 0.005
+2024-12-22 22:23:41 | gamma: 0.8
+2024-12-22 22:23:41 | steps: 60
+2024-12-22 22:23:41 | >>>>> TFPred Pre-training ...
+2024-12-22 22:24:01 | Epoch:   1/500, train_loss: 128.6500, current lr: 0.000000
+2024-12-22 22:24:22 | Epoch:   2/500, train_loss: 129.0751, current lr: 0.000000
+2024-12-22 22:24:42 | Epoch:   3/500, train_loss: 129.2374, current lr: 0.000000
+2024-12-22 22:25:02 | Epoch:   4/500, train_loss: 128.7664, current lr: 0.000000
+2024-12-22 22:25:22 | Epoch:   5/500, train_loss: 129.2617, current lr: 0.000000
+2024-12-22 22:26:06 | datadir: ./paper_datasets
+2024-12-22 22:26:06 | dataset: PU
+2024-12-22 22:26:06 | load: 3
+2024-12-22 22:26:06 | num_train: 210
+2024-12-22 22:26:06 | num_validation: 30
+2024-12-22 22:26:06 | num_test: 60
+2024-12-22 22:26:06 | num_labels: 3
+2024-12-22 22:26:06 | ratio_labels: 0.01
+2024-12-22 22:26:06 | data_length: 1024
+2024-12-22 22:26:06 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-22 22:26:06 | window: 512
+2024-12-22 22:26:06 | normalization: 0-1
+2024-12-22 22:26:06 | backbone: ResNet1D
+2024-12-22 22:26:06 | mode: train_then_tune
+2024-12-22 22:26:06 | max_epochs: 500
+2024-12-22 22:26:06 | batch_size: 256
+2024-12-22 22:26:06 | lr: 0.005
+2024-12-22 22:26:06 | lr_scheduler: stepLR
+2024-12-22 22:26:06 | num_workers: 2
+2024-12-22 22:26:06 | optimizer: sgd
+2024-12-22 22:26:06 | tune_max_epochs: 100
+2024-12-22 22:26:06 | backbone_lr: 0.005
+2024-12-22 22:26:06 | classifier_lr: 0.005
+2024-12-22 22:26:06 | gamma: 0.8
+2024-12-22 22:26:06 | steps: 60
+2024-12-22 22:26:06 | >>>>> TFPred Pre-training ...
+2024-12-22 22:26:26 | Epoch:   1/500, train_loss: 126.1404, current lr: 0.005000
+2024-12-22 22:26:46 | Epoch:   2/500, train_loss: nan, current lr: 0.005000
+2024-12-22 22:27:15 | datadir: ./paper_datasets
+2024-12-22 22:27:15 | dataset: PU
+2024-12-22 22:27:15 | load: 3
+2024-12-22 22:27:15 | num_train: 210
+2024-12-22 22:27:15 | num_validation: 30
+2024-12-22 22:27:15 | num_test: 60
+2024-12-22 22:27:15 | num_labels: 3
+2024-12-22 22:27:15 | ratio_labels: 0.01
+2024-12-22 22:27:15 | data_length: 1024
+2024-12-22 22:27:15 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-22 22:27:15 | window: 512
+2024-12-22 22:27:15 | normalization: 0-1
+2024-12-22 22:27:15 | backbone: ResNet1D
+2024-12-22 22:27:15 | mode: train_then_tune
+2024-12-22 22:27:15 | max_epochs: 500
+2024-12-22 22:27:15 | batch_size: 256
+2024-12-22 22:27:15 | lr: 0.001
+2024-12-22 22:27:15 | lr_scheduler: stepLR
+2024-12-22 22:27:15 | num_workers: 2
+2024-12-22 22:27:15 | optimizer: sgd
+2024-12-22 22:27:15 | tune_max_epochs: 100
+2024-12-22 22:27:15 | backbone_lr: 0.005
+2024-12-22 22:27:15 | classifier_lr: 0.005
+2024-12-22 22:27:15 | gamma: 0.8
+2024-12-22 22:27:15 | steps: 60
+2024-12-22 22:27:15 | >>>>> TFPred Pre-training ...
+2024-12-22 22:27:35 | Epoch:   1/500, train_loss: 114.0066, current lr: 0.001000
+2024-12-22 22:27:55 | Epoch:   2/500, train_loss: 66.3480, current lr: 0.001000
+2024-12-22 22:28:15 | Epoch:   3/500, train_loss: 50.5512, current lr: 0.001000
+2024-12-22 22:28:35 | Epoch:   4/500, train_loss: 49.8696, current lr: 0.001000
+2024-12-22 22:28:54 | Epoch:   5/500, train_loss: 50.0898, current lr: 0.001000
+2024-12-22 22:29:13 | Epoch:   6/500, train_loss: 48.9316, current lr: 0.001000
+2024-12-25 10:58:25 | datadir: ./paper_datasets
+2024-12-25 10:58:25 | dataset: PU
+2024-12-25 10:58:25 | load: 3
+2024-12-25 10:58:25 | num_train: 210
+2024-12-25 10:58:25 | num_validation: 30
+2024-12-25 10:58:25 | num_test: 60
+2024-12-25 10:58:25 | num_labels: 3
+2024-12-25 10:58:25 | ratio_labels: 0.01
+2024-12-25 10:58:25 | data_length: 1024
+2024-12-25 10:58:25 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-25 10:58:25 | window: 512
+2024-12-25 10:58:25 | normalization: 0-1
+2024-12-25 10:58:25 | backbone: ResNet1D
+2024-12-25 10:58:25 | mode: train_then_tune
+2024-12-25 10:58:25 | max_epochs: 500
+2024-12-25 10:58:25 | batch_size: 256
+2024-12-25 10:58:25 | lr: 0.001
+2024-12-25 10:58:25 | lr_scheduler: stepLR
+2024-12-25 10:58:25 | num_workers: 2
+2024-12-25 10:58:25 | optimizer: sgd
+2024-12-25 10:58:25 | tune_max_epochs: 100
+2024-12-25 10:58:25 | backbone_lr: 0.005
+2024-12-25 10:58:25 | classifier_lr: 0.005
+2024-12-25 10:58:25 | gamma: 0.8
+2024-12-25 10:58:25 | steps: 60
+2024-12-25 10:58:25 | >>>>> TFPred Pre-training ...
+2024-12-25 10:58:53 | datadir: ./paper_datasets
+2024-12-25 10:58:53 | dataset: PU
+2024-12-25 10:58:53 | load: 3
+2024-12-25 10:58:53 | num_train: 210
+2024-12-25 10:58:53 | num_validation: 30
+2024-12-25 10:58:53 | num_test: 60
+2024-12-25 10:58:53 | num_labels: 3
+2024-12-25 10:58:53 | ratio_labels: 0.01
+2024-12-25 10:58:53 | data_length: 1024
+2024-12-25 10:58:53 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-25 10:58:53 | window: 512
+2024-12-25 10:58:53 | normalization: 0-1
+2024-12-25 10:58:53 | backbone: ResNet1D
+2024-12-25 10:58:53 | mode: train_then_tune
+2024-12-25 10:58:53 | max_epochs: 500
+2024-12-25 10:58:53 | batch_size: 256
+2024-12-25 10:58:53 | lr: 0.01
+2024-12-25 10:58:53 | lr_scheduler: stepLR
+2024-12-25 10:58:53 | num_workers: 2
+2024-12-25 10:58:53 | optimizer: sgd
+2024-12-25 10:58:53 | tune_max_epochs: 100
+2024-12-25 10:58:53 | backbone_lr: 0.005
+2024-12-25 10:58:53 | classifier_lr: 0.005
+2024-12-25 10:58:53 | gamma: 0.8
+2024-12-25 10:58:53 | steps: 60
+2024-12-25 10:58:53 | >>>>> TFPred Pre-training ...
+2024-12-25 10:59:13 | Epoch:   1/500, train_loss: 120.7998, current lr: 0.010000
+2024-12-25 10:59:33 | Epoch:   2/500, train_loss: 76.8699, current lr: 0.010000
+2024-12-25 10:59:52 | Epoch:   3/500, train_loss: 55.9675, current lr: 0.009999
+2024-12-25 11:00:11 | Epoch:   4/500, train_loss: 54.1054, current lr: 0.009998
+2024-12-25 11:00:30 | Epoch:   5/500, train_loss: 52.0793, current lr: 0.009998
+2024-12-25 11:00:49 | Epoch:   6/500, train_loss: 51.0604, current lr: 0.009996
+2024-12-25 11:01:08 | Epoch:   7/500, train_loss: 50.1363, current lr: 0.009995
+2024-12-25 11:01:27 | Epoch:   8/500, train_loss: 50.5119, current lr: 0.009994
+2024-12-25 11:01:47 | Epoch:   9/500, train_loss: 50.1761, current lr: 0.009992
+2024-12-25 11:02:06 | Epoch:  10/500, train_loss: 49.2404, current lr: 0.009990
+2024-12-25 11:02:25 | Epoch:  11/500, train_loss: 48.6055, current lr: 0.009988
+2024-12-25 11:02:44 | Epoch:  12/500, train_loss: 47.8781, current lr: 0.009986
+2024-12-25 11:03:04 | Epoch:  13/500, train_loss: 45.8945, current lr: 0.009983
+2024-12-25 11:03:24 | Epoch:  14/500, train_loss: 42.2717, current lr: 0.009981
+2024-12-25 11:03:43 | Epoch:  15/500, train_loss: 42.0726, current lr: 0.009978
+2024-12-25 11:04:02 | Epoch:  16/500, train_loss: 39.9113, current lr: 0.009975
+2024-12-25 11:04:21 | Epoch:  17/500, train_loss: 40.3632, current lr: 0.009972
+2024-12-25 11:04:40 | Epoch:  18/500, train_loss: 37.6283, current lr: 0.009968
+2024-12-25 11:04:59 | Epoch:  19/500, train_loss: 35.7576, current lr: 0.009964
+2024-12-25 11:05:18 | Epoch:  20/500, train_loss: 34.6357, current lr: 0.009961
+2024-12-25 11:05:37 | Epoch:  21/500, train_loss: 35.6769, current lr: 0.009957
+2024-12-25 11:05:55 | Epoch:  22/500, train_loss: 35.8414, current lr: 0.009952
+2024-12-25 11:06:14 | Epoch:  23/500, train_loss: 35.2832, current lr: 0.009948
+2024-12-25 11:06:33 | Epoch:  24/500, train_loss: 33.0589, current lr: 0.009943
+2024-12-25 11:06:52 | Epoch:  25/500, train_loss: 36.0523, current lr: 0.009938
+2024-12-25 11:07:11 | Epoch:  26/500, train_loss: 36.5586, current lr: 0.009933
+2024-12-25 11:07:29 | Epoch:  27/500, train_loss: 33.6858, current lr: 0.009928
+2024-12-25 11:07:48 | Epoch:  28/500, train_loss: 35.9835, current lr: 0.009923
+2024-12-25 11:08:07 | Epoch:  29/500, train_loss: 35.4704, current lr: 0.009917
+2024-12-25 11:08:26 | Epoch:  30/500, train_loss: 34.9785, current lr: 0.009911
+2024-12-25 11:08:45 | Epoch:  31/500, train_loss: 34.7075, current lr: 0.009905
+2024-12-25 11:09:03 | Epoch:  32/500, train_loss: 33.4247, current lr: 0.009899
+2024-12-25 11:09:23 | Epoch:  33/500, train_loss: 34.9341, current lr: 0.009893
+2024-12-25 11:09:42 | Epoch:  34/500, train_loss: 34.9378, current lr: 0.009886
+2024-12-25 11:10:02 | Epoch:  35/500, train_loss: 34.9876, current lr: 0.009880
+2024-12-25 11:10:21 | Epoch:  36/500, train_loss: 33.8183, current lr: 0.009873
+2024-12-25 11:10:40 | Epoch:  37/500, train_loss: 34.9314, current lr: 0.009865
+2024-12-25 11:10:59 | Epoch:  38/500, train_loss: 34.0111, current lr: 0.009858
+2024-12-25 11:11:18 | Epoch:  39/500, train_loss: 32.9207, current lr: 0.009851
+2024-12-25 11:11:37 | Epoch:  40/500, train_loss: 32.1190, current lr: 0.009843
+2024-12-25 11:11:56 | Epoch:  41/500, train_loss: 32.4238, current lr: 0.009835
+2024-12-25 11:12:15 | Epoch:  42/500, train_loss: 32.7869, current lr: 0.009827
+2024-12-25 11:12:34 | Epoch:  43/500, train_loss: 33.6326, current lr: 0.009819
+2024-12-25 11:12:53 | Epoch:  44/500, train_loss: 32.9190, current lr: 0.009810
+2024-12-25 11:13:12 | Epoch:  45/500, train_loss: 32.9701, current lr: 0.009801
+2024-12-25 11:13:31 | Epoch:  46/500, train_loss: 32.1553, current lr: 0.009793
+2024-12-25 11:13:50 | Epoch:  47/500, train_loss: 32.8263, current lr: 0.009784
+2024-12-25 11:14:09 | Epoch:  48/500, train_loss: 32.4341, current lr: 0.009774
+2024-12-25 11:14:28 | Epoch:  49/500, train_loss: 33.4965, current lr: 0.009765
+2024-12-25 11:14:46 | Epoch:  50/500, train_loss: 34.5293, current lr: 0.009755
+2024-12-25 11:15:05 | Epoch:  51/500, train_loss: 32.6511, current lr: 0.009745
+2024-12-25 11:15:24 | Epoch:  52/500, train_loss: 33.1173, current lr: 0.009735
+2024-12-25 11:15:43 | Epoch:  53/500, train_loss: 32.3981, current lr: 0.009725
+2024-12-25 11:16:02 | Epoch:  54/500, train_loss: 33.0135, current lr: 0.009715
+2024-12-25 11:16:21 | Epoch:  55/500, train_loss: 32.1768, current lr: 0.009704
+2024-12-25 11:16:40 | Epoch:  56/500, train_loss: 33.6540, current lr: 0.009694
+2024-12-25 11:16:59 | Epoch:  57/500, train_loss: 33.5231, current lr: 0.009683
+2024-12-25 11:17:18 | Epoch:  58/500, train_loss: 32.4545, current lr: 0.009672
+2024-12-25 11:17:36 | Epoch:  59/500, train_loss: 32.7147, current lr: 0.009660
+2024-12-25 11:17:55 | Epoch:  60/500, train_loss: 31.9010, current lr: 0.009649
+2024-12-25 11:18:14 | Epoch:  61/500, train_loss: 31.8007, current lr: 0.009637
+2024-12-25 11:18:33 | Epoch:  62/500, train_loss: 31.8965, current lr: 0.009625
+2024-12-25 11:18:52 | Epoch:  63/500, train_loss: 31.4029, current lr: 0.009613
+2024-12-25 11:19:11 | Epoch:  64/500, train_loss: 31.1557, current lr: 0.009601
+2024-12-25 11:19:31 | Epoch:  65/500, train_loss: 31.5944, current lr: 0.009589
+2024-12-25 11:19:50 | Epoch:  66/500, train_loss: 31.4021, current lr: 0.009576
+2024-12-25 11:20:08 | Epoch:  67/500, train_loss: 31.5813, current lr: 0.009563
+2024-12-25 11:24:04 | datadir: ./paper_datasets
+2024-12-25 11:24:04 | dataset: PU
+2024-12-25 11:24:04 | load: 3
+2024-12-25 11:24:04 | num_train: 210
+2024-12-25 11:24:04 | num_validation: 30
+2024-12-25 11:24:04 | num_test: 60
+2024-12-25 11:24:04 | num_labels: 3
+2024-12-25 11:24:04 | ratio_labels: 0.01
+2024-12-25 11:24:04 | data_length: 1024
+2024-12-25 11:24:04 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-25 11:24:04 | window: 512
+2024-12-25 11:24:04 | normalization: 0-1
+2024-12-25 11:24:04 | backbone: ResNet1D
+2024-12-25 11:24:04 | mode: train_then_tune
+2024-12-25 11:24:04 | max_epochs: 500
+2024-12-25 11:24:04 | batch_size: 256
+2024-12-25 11:24:04 | lr: 0.01
+2024-12-25 11:24:04 | lr_scheduler: stepLR
+2024-12-25 11:24:04 | num_workers: 2
+2024-12-25 11:24:04 | optimizer: sgd
+2024-12-25 11:24:04 | tune_max_epochs: 100
+2024-12-25 11:24:04 | backbone_lr: 0.005
+2024-12-25 11:24:04 | classifier_lr: 0.005
+2024-12-25 11:24:04 | gamma: 0.8
+2024-12-25 11:24:04 | steps: 60
+2024-12-25 11:24:04 | >>>>> TFPred Pre-training ...
+2024-12-25 11:24:23 | Epoch:   1/500, train_loss: 122.2294, current lr: 0.010000
+2024-12-25 11:24:42 | Epoch:   2/500, train_loss: nan, current lr: 0.010000
+2024-12-30 14:29:26 | datadir: ./paper_datasets
+2024-12-30 14:29:26 | dataset: PU
+2024-12-30 14:29:26 | load: 3
+2024-12-30 14:29:26 | num_train: 210
+2024-12-30 14:29:26 | num_validation: 30
+2024-12-30 14:29:26 | num_test: 60
+2024-12-30 14:29:26 | num_labels: 3
+2024-12-30 14:29:26 | ratio_labels: 0.01
+2024-12-30 14:29:26 | data_length: 1024
+2024-12-30 14:29:26 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-30 14:29:26 | window: 512
+2024-12-30 14:29:26 | normalization: 0-1
+2024-12-30 14:29:26 | backbone: ResNet1D
+2024-12-30 14:29:26 | mode: train_then_tune
+2024-12-30 14:29:26 | max_epochs: 500
+2024-12-30 14:29:26 | batch_size: 256
+2024-12-30 14:29:26 | lr: 0.001
+2024-12-30 14:29:26 | lr_scheduler: stepLR
+2024-12-30 14:29:26 | num_workers: 2
+2024-12-30 14:29:26 | optimizer: sgd
+2024-12-30 14:29:26 | tune_max_epochs: 100
+2024-12-30 14:29:26 | backbone_lr: 0.005
+2024-12-30 14:29:26 | classifier_lr: 0.005
+2024-12-30 14:29:26 | gamma: 0.8
+2024-12-30 14:29:26 | steps: 60
+2024-12-30 14:29:26 | >>>>> TFPred Pre-training ...
+2024-12-30 14:29:55 | Epoch:   1/500, train_loss: 119.5903, current lr: 0.001000
+2024-12-30 14:30:21 | Epoch:   2/500, train_loss: 67.6139, current lr: 0.001000
+2024-12-30 14:30:47 | Epoch:   3/500, train_loss: 53.9236, current lr: 0.001000
+2024-12-30 14:31:13 | Epoch:   4/500, train_loss: 55.5473, current lr: 0.001000
+2024-12-30 14:31:38 | Epoch:   5/500, train_loss: 49.6086, current lr: 0.001000
+2024-12-30 14:32:03 | Epoch:   6/500, train_loss: 44.7552, current lr: 0.001000
+2024-12-30 14:32:28 | Epoch:   7/500, train_loss: 40.0530, current lr: 0.001000
+2024-12-30 14:32:53 | Epoch:   8/500, train_loss: 36.3132, current lr: 0.000999
+2024-12-30 14:33:18 | Epoch:   9/500, train_loss: 37.8548, current lr: 0.000999
+2024-12-30 14:33:43 | Epoch:  10/500, train_loss: 33.5332, current lr: 0.000999
+2024-12-30 14:34:10 | Epoch:  11/500, train_loss: 33.0490, current lr: 0.000999
+2024-12-30 14:34:41 | Epoch:  12/500, train_loss: 32.9006, current lr: 0.000999
+2024-12-30 14:35:11 | Epoch:  13/500, train_loss: 32.1824, current lr: 0.000998
+2024-12-30 14:35:46 | Epoch:  14/500, train_loss: 31.7921, current lr: 0.000998
+2024-12-30 14:36:22 | Epoch:  15/500, train_loss: 31.7472, current lr: 0.000998
+2024-12-30 14:36:55 | Epoch:  16/500, train_loss: 31.9347, current lr: 0.000997
+2024-12-30 14:37:24 | Epoch:  17/500, train_loss: 31.8838, current lr: 0.000997
+2024-12-30 14:37:47 | Epoch:  18/500, train_loss: 31.8493, current lr: 0.000997
+2024-12-30 14:38:16 | Epoch:  19/500, train_loss: 31.1315, current lr: 0.000996
+2024-12-30 14:55:47 | datadir: ./paper_datasets
+2024-12-30 14:55:47 | dataset: PU
+2024-12-30 14:55:47 | load: 3
+2024-12-30 14:55:47 | num_train: 210
+2024-12-30 14:55:47 | num_validation: 30
+2024-12-30 14:55:47 | num_test: 60
+2024-12-30 14:55:47 | num_labels: 3
+2024-12-30 14:55:47 | ratio_labels: 0.01
+2024-12-30 14:55:47 | data_length: 1024
+2024-12-30 14:55:47 | labels: 0,1,2,3,4,5,6,7,8,9
+2024-12-30 14:55:47 | window: 512
+2024-12-30 14:55:47 | normalization: 0-1
+2024-12-30 14:55:47 | backbone: ResNet1D
+2024-12-30 14:55:47 | mode: train_then_tune
+2024-12-30 14:55:47 | max_epochs: 500
+2024-12-30 14:55:47 | batch_size: 256
+2024-12-30 14:55:47 | lr: 0.001
+2024-12-30 14:55:47 | lr_scheduler: stepLR
+2024-12-30 14:55:47 | num_workers: 2
+2024-12-30 14:55:47 | optimizer: sgd
+2024-12-30 14:55:47 | tune_max_epochs: 100
+2024-12-30 14:55:47 | backbone_lr: 0.005
+2024-12-30 14:55:47 | classifier_lr: 0.005
+2024-12-30 14:55:47 | gamma: 0.8
+2024-12-30 14:55:47 | steps: 60
+2024-12-30 14:55:47 | >>>>> TFPred Pre-training ...
+2024-12-30 14:56:22 | Epoch:   1/500, train_loss: 119.2790, current lr: 0.001000
+2024-12-30 14:57:26 | Epoch:   2/500, train_loss: 67.7337, current lr: 0.001000
+2025-01-05 17:00:51 | datadir: ./paper_datasets
+2025-01-05 17:00:51 | dataset: PU
+2025-01-05 17:00:51 | load: 3
+2025-01-05 17:00:51 | num_train: 210
+2025-01-05 17:00:51 | num_validation: 30
+2025-01-05 17:00:51 | num_test: 60
+2025-01-05 17:00:51 | num_labels: 3
+2025-01-05 17:00:51 | ratio_labels: 0.01
+2025-01-05 17:00:51 | data_length: 1024
+2025-01-05 17:00:51 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-01-05 17:00:51 | window: 512
+2025-01-05 17:00:51 | normalization: 0-1
+2025-01-05 17:00:51 | backbone: ResNet1D
+2025-01-05 17:00:51 | mode: train_then_tune
+2025-01-05 17:00:51 | max_epochs: 500
+2025-01-05 17:00:51 | batch_size: 256
+2025-01-05 17:00:51 | lr: 0.001
+2025-01-05 17:00:51 | lr_scheduler: stepLR
+2025-01-05 17:00:51 | num_workers: 2
+2025-01-05 17:00:51 | optimizer: sgd
+2025-01-05 17:00:51 | tune_max_epochs: 100
+2025-01-05 17:00:51 | backbone_lr: 0.005
+2025-01-05 17:00:51 | classifier_lr: 0.005
+2025-01-05 17:00:51 | gamma: 0.8
+2025-01-05 17:00:51 | steps: 60
+2025-01-05 17:00:51 | >>>>> TFPred Pre-training ...
+2025-01-05 17:01:35 | datadir: ./paper_datasets
+2025-01-05 17:01:35 | dataset: PU
+2025-01-05 17:01:35 | load: 3
+2025-01-05 17:01:35 | num_train: 210
+2025-01-05 17:01:35 | num_validation: 30
+2025-01-05 17:01:35 | num_test: 60
+2025-01-05 17:01:35 | num_labels: 3
+2025-01-05 17:01:35 | ratio_labels: 0.01
+2025-01-05 17:01:35 | data_length: 1024
+2025-01-05 17:01:35 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-01-05 17:01:35 | window: 512
+2025-01-05 17:01:35 | normalization: 0-1
+2025-01-05 17:01:35 | backbone: ResNet1D
+2025-01-05 17:01:35 | mode: train_then_tune
+2025-01-05 17:01:35 | max_epochs: 500
+2025-01-05 17:01:35 | batch_size: 256
+2025-01-05 17:01:35 | lr: 0.001
+2025-01-05 17:01:35 | lr_scheduler: stepLR
+2025-01-05 17:01:35 | num_workers: 2
+2025-01-05 17:01:35 | optimizer: sgd
+2025-01-05 17:01:35 | tune_max_epochs: 100
+2025-01-05 17:01:35 | backbone_lr: 0.005
+2025-01-05 17:01:35 | classifier_lr: 0.005
+2025-01-05 17:01:35 | gamma: 0.8
+2025-01-05 17:01:35 | steps: 60
+2025-01-05 17:01:35 | >>>>> TFPred Pre-training ...
+2025-01-05 17:05:45 | datadir: ./paper_datasets
+2025-01-05 17:05:45 | dataset: PU
+2025-01-05 17:05:45 | load: 3
+2025-01-05 17:05:45 | num_train: 210
+2025-01-05 17:05:45 | num_validation: 30
+2025-01-05 17:05:45 | num_test: 60
+2025-01-05 17:05:45 | num_labels: 3
+2025-01-05 17:05:45 | ratio_labels: 0.01
+2025-01-05 17:05:45 | data_length: 1024
+2025-01-05 17:05:45 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-01-05 17:05:45 | window: 512
+2025-01-05 17:05:45 | normalization: 0-1
+2025-01-05 17:05:45 | backbone: ResNet1D
+2025-01-05 17:05:45 | mode: train_then_tune
+2025-01-05 17:05:45 | max_epochs: 500
+2025-01-05 17:05:45 | batch_size: 256
+2025-01-05 17:05:45 | lr: 0.001
+2025-01-05 17:05:45 | lr_scheduler: stepLR
+2025-01-05 17:05:45 | num_workers: 2
+2025-01-05 17:05:45 | optimizer: sgd
+2025-01-05 17:05:45 | tune_max_epochs: 100
+2025-01-05 17:05:45 | backbone_lr: 0.005
+2025-01-05 17:05:45 | classifier_lr: 0.005
+2025-01-05 17:05:45 | gamma: 0.8
+2025-01-05 17:05:45 | steps: 60
+2025-01-05 17:05:45 | >>>>> TFPred Pre-training ...
+2025-01-05 17:08:38 | datadir: ./paper_datasets
+2025-01-05 17:08:38 | dataset: PU
+2025-01-05 17:08:38 | load: 3
+2025-01-05 17:08:38 | num_train: 210
+2025-01-05 17:08:38 | num_validation: 30
+2025-01-05 17:08:38 | num_test: 60
+2025-01-05 17:08:38 | num_labels: 3
+2025-01-05 17:08:38 | ratio_labels: 0.01
+2025-01-05 17:08:38 | data_length: 1024
+2025-01-05 17:08:38 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-01-05 17:08:38 | window: 512
+2025-01-05 17:08:38 | normalization: 0-1
+2025-01-05 17:08:38 | backbone: ResNet1D
+2025-01-05 17:08:38 | mode: train_then_tune
+2025-01-05 17:08:38 | max_epochs: 500
+2025-01-05 17:08:38 | batch_size: 256
+2025-01-05 17:08:38 | lr: 0.001
+2025-01-05 17:08:38 | lr_scheduler: stepLR
+2025-01-05 17:08:38 | num_workers: 2
+2025-01-05 17:08:38 | optimizer: sgd
+2025-01-05 17:08:38 | tune_max_epochs: 100
+2025-01-05 17:08:38 | backbone_lr: 0.005
+2025-01-05 17:08:38 | classifier_lr: 0.005
+2025-01-05 17:08:38 | gamma: 0.8
+2025-01-05 17:08:38 | steps: 60
+2025-01-05 17:08:38 | >>>>> TFPred Pre-training ...
+2025-01-05 17:09:12 | datadir: ./paper_datasets
+2025-01-05 17:09:12 | dataset: PU
+2025-01-05 17:09:12 | load: 3
+2025-01-05 17:09:12 | num_train: 210
+2025-01-05 17:09:12 | num_validation: 30
+2025-01-05 17:09:12 | num_test: 60
+2025-01-05 17:09:12 | num_labels: 3
+2025-01-05 17:09:12 | ratio_labels: 0.01
+2025-01-05 17:09:12 | data_length: 1024
+2025-01-05 17:09:12 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-01-05 17:09:12 | window: 512
+2025-01-05 17:09:12 | normalization: 0-1
+2025-01-05 17:09:12 | backbone: ResNet1D
+2025-01-05 17:09:12 | mode: train_then_tune
+2025-01-05 17:09:12 | max_epochs: 500
+2025-01-05 17:09:12 | batch_size: 256
+2025-01-05 17:09:12 | lr: 0.001
+2025-01-05 17:09:12 | lr_scheduler: stepLR
+2025-01-05 17:09:12 | num_workers: 2
+2025-01-05 17:09:12 | optimizer: sgd
+2025-01-05 17:09:12 | tune_max_epochs: 100
+2025-01-05 17:09:12 | backbone_lr: 0.005
+2025-01-05 17:09:12 | classifier_lr: 0.005
+2025-01-05 17:09:12 | gamma: 0.8
+2025-01-05 17:09:12 | steps: 60
+2025-01-05 17:09:12 | >>>>> TFPred Pre-training ...
+2025-01-05 17:09:33 | datadir: ./paper_datasets
+2025-01-05 17:09:33 | dataset: PU
+2025-01-05 17:09:33 | load: 3
+2025-01-05 17:09:33 | num_train: 210
+2025-01-05 17:09:33 | num_validation: 30
+2025-01-05 17:09:33 | num_test: 60
+2025-01-05 17:09:33 | num_labels: 3
+2025-01-05 17:09:33 | ratio_labels: 0.01
+2025-01-05 17:09:33 | data_length: 1024
+2025-01-05 17:09:33 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-01-05 17:09:33 | window: 512
+2025-01-05 17:09:33 | normalization: 0-1
+2025-01-05 17:09:33 | backbone: ResNet1D
+2025-01-05 17:09:33 | mode: train_then_tune
+2025-01-05 17:09:33 | max_epochs: 500
+2025-01-05 17:09:33 | batch_size: 256
+2025-01-05 17:09:33 | lr: 0.001
+2025-01-05 17:09:33 | lr_scheduler: stepLR
+2025-01-05 17:09:33 | num_workers: 2
+2025-01-05 17:09:33 | optimizer: sgd
+2025-01-05 17:09:33 | tune_max_epochs: 100
+2025-01-05 17:09:33 | backbone_lr: 0.005
+2025-01-05 17:09:33 | classifier_lr: 0.005
+2025-01-05 17:09:33 | gamma: 0.8
+2025-01-05 17:09:33 | steps: 60
+2025-01-05 17:09:34 | >>>>> TFPred Pre-training ...
+2025-01-05 17:10:52 | datadir: ./paper_datasets
+2025-01-05 17:10:52 | dataset: PU
+2025-01-05 17:10:52 | load: 3
+2025-01-05 17:10:52 | num_train: 210
+2025-01-05 17:10:52 | num_validation: 30
+2025-01-05 17:10:52 | num_test: 60
+2025-01-05 17:10:52 | num_labels: 3
+2025-01-05 17:10:52 | ratio_labels: 0.01
+2025-01-05 17:10:52 | data_length: 1024
+2025-01-05 17:10:52 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-01-05 17:10:52 | window: 512
+2025-01-05 17:10:52 | normalization: 0-1
+2025-01-05 17:10:52 | backbone: ResNet1D
+2025-01-05 17:10:52 | mode: train_then_tune
+2025-01-05 17:10:52 | max_epochs: 500
+2025-01-05 17:10:52 | batch_size: 256
+2025-01-05 17:10:52 | lr: 0.001
+2025-01-05 17:10:52 | lr_scheduler: stepLR
+2025-01-05 17:10:52 | num_workers: 2
+2025-01-05 17:10:52 | optimizer: sgd
+2025-01-05 17:10:52 | tune_max_epochs: 100
+2025-01-05 17:10:52 | backbone_lr: 0.005
+2025-01-05 17:10:52 | classifier_lr: 0.005
+2025-01-05 17:10:52 | gamma: 0.8
+2025-01-05 17:10:52 | steps: 60
+2025-01-05 17:10:52 | >>>>> TFPred Pre-training ...
+2025-01-05 17:20:21 | datadir: ./paper_datasets
+2025-01-05 17:20:21 | dataset: PU
+2025-01-05 17:20:21 | load: 3
+2025-01-05 17:20:21 | num_train: 210
+2025-01-05 17:20:21 | num_validation: 30
+2025-01-05 17:20:21 | num_test: 60
+2025-01-05 17:20:21 | num_labels: 3
+2025-01-05 17:20:21 | ratio_labels: 0.01
+2025-01-05 17:20:21 | data_length: 1024
+2025-01-05 17:20:21 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-01-05 17:20:21 | window: 512
+2025-01-05 17:20:21 | normalization: 0-1
+2025-01-05 17:20:21 | backbone: ResNet1D
+2025-01-05 17:20:21 | mode: train_then_tune
+2025-01-05 17:20:21 | max_epochs: 500
+2025-01-05 17:20:21 | batch_size: 256
+2025-01-05 17:20:21 | lr: 0.001
+2025-01-05 17:20:21 | lr_scheduler: stepLR
+2025-01-05 17:20:21 | num_workers: 2
+2025-01-05 17:20:21 | optimizer: sgd
+2025-01-05 17:20:21 | tune_max_epochs: 100
+2025-01-05 17:20:21 | backbone_lr: 0.005
+2025-01-05 17:20:21 | classifier_lr: 0.005
+2025-01-05 17:20:21 | gamma: 0.8
+2025-01-05 17:20:21 | steps: 60
+2025-01-05 17:20:22 | >>>>> TFPred Pre-training ...
+2025-01-05 17:36:38 | datadir: ./paper_datasets
+2025-01-05 17:36:38 | dataset: PU
+2025-01-05 17:36:38 | load: 3
+2025-01-05 17:36:38 | num_train: 210
+2025-01-05 17:36:38 | num_validation: 30
+2025-01-05 17:36:38 | num_test: 60
+2025-01-05 17:36:38 | num_labels: 3
+2025-01-05 17:36:38 | ratio_labels: 0.01
+2025-01-05 17:36:38 | data_length: 1024
+2025-01-05 17:36:38 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-01-05 17:36:38 | window: 512
+2025-01-05 17:36:38 | normalization: 0-1
+2025-01-05 17:36:38 | backbone: ResNet1D
+2025-01-05 17:36:38 | mode: train_then_tune
+2025-01-05 17:36:38 | max_epochs: 500
+2025-01-05 17:36:38 | batch_size: 256
+2025-01-05 17:36:38 | lr: 0.001
+2025-01-05 17:36:38 | lr_scheduler: stepLR
+2025-01-05 17:36:38 | num_workers: 2
+2025-01-05 17:36:38 | optimizer: sgd
+2025-01-05 17:36:38 | tune_max_epochs: 100
+2025-01-05 17:36:38 | backbone_lr: 0.005
+2025-01-05 17:36:38 | classifier_lr: 0.005
+2025-01-05 17:36:38 | gamma: 0.8
+2025-01-05 17:36:38 | steps: 60
+2025-01-05 17:36:38 | >>>>> TFPred Pre-training ...
+2025-01-05 17:39:17 | datadir: ./paper_datasets
+2025-01-05 17:39:17 | dataset: PU
+2025-01-05 17:39:17 | load: 3
+2025-01-05 17:39:17 | num_train: 210
+2025-01-05 17:39:17 | num_validation: 30
+2025-01-05 17:39:17 | num_test: 60
+2025-01-05 17:39:17 | num_labels: 3
+2025-01-05 17:39:17 | ratio_labels: 0.01
+2025-01-05 17:39:17 | data_length: 1024
+2025-01-05 17:39:17 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-01-05 17:39:17 | window: 512
+2025-01-05 17:39:17 | normalization: 0-1
+2025-01-05 17:39:17 | backbone: ResNet1D
+2025-01-05 17:39:17 | mode: train_then_tune
+2025-01-05 17:39:17 | max_epochs: 500
+2025-01-05 17:39:17 | batch_size: 256
+2025-01-05 17:39:17 | lr: 0.001
+2025-01-05 17:39:17 | lr_scheduler: stepLR
+2025-01-05 17:39:17 | num_workers: 2
+2025-01-05 17:39:17 | optimizer: sgd
+2025-01-05 17:39:17 | tune_max_epochs: 100
+2025-01-05 17:39:17 | backbone_lr: 0.005
+2025-01-05 17:39:17 | classifier_lr: 0.005
+2025-01-05 17:39:17 | gamma: 0.8
+2025-01-05 17:39:17 | steps: 60
+2025-01-05 17:39:17 | >>>>> TFPred Pre-training ...
+2025-01-05 17:40:14 | datadir: ./paper_datasets
+2025-01-05 17:40:14 | dataset: PU
+2025-01-05 17:40:14 | load: 3
+2025-01-05 17:40:14 | num_train: 210
+2025-01-05 17:40:14 | num_validation: 30
+2025-01-05 17:40:14 | num_test: 60
+2025-01-05 17:40:14 | num_labels: 3
+2025-01-05 17:40:14 | ratio_labels: 0.01
+2025-01-05 17:40:14 | data_length: 1024
+2025-01-05 17:40:14 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-01-05 17:40:14 | window: 512
+2025-01-05 17:40:14 | normalization: 0-1
+2025-01-05 17:40:14 | backbone: ResNet1D
+2025-01-05 17:40:14 | mode: train_then_tune
+2025-01-05 17:40:14 | max_epochs: 500
+2025-01-05 17:40:14 | batch_size: 256
+2025-01-05 17:40:14 | lr: 0.001
+2025-01-05 17:40:14 | lr_scheduler: stepLR
+2025-01-05 17:40:14 | num_workers: 2
+2025-01-05 17:40:14 | optimizer: sgd
+2025-01-05 17:40:14 | tune_max_epochs: 100
+2025-01-05 17:40:14 | backbone_lr: 0.005
+2025-01-05 17:40:14 | classifier_lr: 0.005
+2025-01-05 17:40:14 | gamma: 0.8
+2025-01-05 17:40:14 | steps: 60
+2025-01-05 17:40:14 | >>>>> TFPred Pre-training ...
+2025-01-05 17:43:05 | datadir: ./paper_datasets
+2025-01-05 17:43:05 | dataset: PU
+2025-01-05 17:43:05 | load: 3
+2025-01-05 17:43:05 | num_train: 210
+2025-01-05 17:43:05 | num_validation: 30
+2025-01-05 17:43:05 | num_test: 60
+2025-01-05 17:43:05 | num_labels: 3
+2025-01-05 17:43:05 | ratio_labels: 0.01
+2025-01-05 17:43:05 | data_length: 1024
+2025-01-05 17:43:05 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-01-05 17:43:05 | window: 512
+2025-01-05 17:43:05 | normalization: 0-1
+2025-01-05 17:43:05 | backbone: ResNet1D
+2025-01-05 17:43:05 | mode: train_then_tune
+2025-01-05 17:43:05 | max_epochs: 500
+2025-01-05 17:43:05 | batch_size: 256
+2025-01-05 17:43:05 | lr: 0.001
+2025-01-05 17:43:05 | lr_scheduler: stepLR
+2025-01-05 17:43:05 | num_workers: 2
+2025-01-05 17:43:05 | optimizer: sgd
+2025-01-05 17:43:05 | tune_max_epochs: 100
+2025-01-05 17:43:05 | backbone_lr: 0.005
+2025-01-05 17:43:05 | classifier_lr: 0.005
+2025-01-05 17:43:05 | gamma: 0.8
+2025-01-05 17:43:05 | steps: 60
+2025-01-05 17:43:05 | >>>>> TFPred Pre-training ...
+2025-01-05 17:43:26 | datadir: ./paper_datasets
+2025-01-05 17:43:26 | dataset: PU
+2025-01-05 17:43:26 | load: 3
+2025-01-05 17:43:26 | num_train: 210
+2025-01-05 17:43:26 | num_validation: 30
+2025-01-05 17:43:26 | num_test: 60
+2025-01-05 17:43:26 | num_labels: 3
+2025-01-05 17:43:26 | ratio_labels: 0.01
+2025-01-05 17:43:26 | data_length: 1024
+2025-01-05 17:43:26 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-01-05 17:43:26 | window: 512
+2025-01-05 17:43:26 | normalization: 0-1
+2025-01-05 17:43:26 | backbone: ResNet1D
+2025-01-05 17:43:26 | mode: train_then_tune
+2025-01-05 17:43:26 | max_epochs: 500
+2025-01-05 17:43:26 | batch_size: 256
+2025-01-05 17:43:26 | lr: 0.01
+2025-01-05 17:43:26 | lr_scheduler: stepLR
+2025-01-05 17:43:26 | num_workers: 2
+2025-01-05 17:43:26 | optimizer: sgd
+2025-01-05 17:43:26 | tune_max_epochs: 100
+2025-01-05 17:43:26 | backbone_lr: 0.005
+2025-01-05 17:43:26 | classifier_lr: 0.005
+2025-01-05 17:43:26 | gamma: 0.8
+2025-01-05 17:43:26 | steps: 60
+2025-01-05 17:43:26 | >>>>> TFPred Pre-training ...
+2025-01-05 17:43:45 | Epoch:   1/500, train_loss: 107.5231, current lr: 0.010000
+2025-01-05 17:44:03 | Epoch:   2/500, train_loss: 56.4428, current lr: 0.010000
+2025-01-05 17:44:22 | Epoch:   3/500, train_loss: 53.6291, current lr: 0.009999
+2025-01-05 17:44:40 | Epoch:   4/500, train_loss: 50.8794, current lr: 0.009998
+2025-01-05 17:44:59 | Epoch:   5/500, train_loss: 52.9319, current lr: 0.009998
+2025-01-05 17:45:17 | Epoch:   6/500, train_loss: 53.8639, current lr: 0.009996
+2025-01-05 17:45:36 | Epoch:   7/500, train_loss: 54.0807, current lr: 0.009995
+2025-01-05 17:45:54 | Epoch:   8/500, train_loss: 50.2295, current lr: 0.009994
+2025-01-05 17:46:12 | Epoch:   9/500, train_loss: 49.7289, current lr: 0.009992
+2025-01-08 10:33:53 | datadir: ./paper_datasets
+2025-01-08 10:33:53 | dataset: PU
+2025-01-08 10:33:53 | load: 3
+2025-01-08 10:33:53 | num_train: 210
+2025-01-08 10:33:53 | num_validation: 30
+2025-01-08 10:33:53 | num_test: 60
+2025-01-08 10:33:53 | num_labels: 3
+2025-01-08 10:33:53 | ratio_labels: 0.01
+2025-01-08 10:33:53 | data_length: 1024
+2025-01-08 10:33:53 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-01-08 10:33:53 | window: 512
+2025-01-08 10:33:53 | normalization: 0-1
+2025-01-08 10:33:53 | backbone: ResNet1D
+2025-01-08 10:33:53 | mode: train_then_tune
+2025-01-08 10:33:53 | max_epochs: 500
+2025-01-08 10:33:53 | batch_size: 256
+2025-01-08 10:33:53 | lr: 0.001
+2025-01-08 10:33:53 | lr_scheduler: stepLR
+2025-01-08 10:33:53 | num_workers: 2
+2025-01-08 10:33:53 | optimizer: sgd
+2025-01-08 10:33:53 | tune_max_epochs: 100
+2025-01-08 10:33:53 | backbone_lr: 0.005
+2025-01-08 10:33:53 | classifier_lr: 0.005
+2025-01-08 10:33:53 | gamma: 0.8
+2025-01-08 10:33:53 | steps: 60
+2025-01-08 10:33:53 | >>>>> TFPred Pre-training ...
+2025-01-08 10:34:12 | Epoch:   1/500, train_loss: 128.0232, current lr: 0.001000
+2025-01-08 10:34:30 | Epoch:   2/500, train_loss: 96.2050, current lr: 0.001000
+2025-01-10 00:03:44 | datadir: ./paper_datasets
+2025-01-10 00:03:44 | dataset: PU
+2025-01-10 00:03:44 | load: 3
+2025-01-10 00:03:44 | num_train: 210
+2025-01-10 00:03:44 | num_validation: 30
+2025-01-10 00:03:44 | num_test: 60
+2025-01-10 00:03:44 | num_labels: 3
+2025-01-10 00:03:44 | ratio_labels: 0.01
+2025-01-10 00:03:44 | data_length: 1024
+2025-01-10 00:03:44 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-01-10 00:03:44 | window: 512
+2025-01-10 00:03:44 | normalization: 0-1
+2025-01-10 00:03:44 | backbone: ResNet1D
+2025-01-10 00:03:44 | mode: train_then_tune
+2025-01-10 00:03:44 | max_epochs: 500
+2025-01-10 00:03:44 | batch_size: 256
+2025-01-10 00:03:44 | lr: 0.001
+2025-01-10 00:03:44 | lr_scheduler: stepLR
+2025-01-10 00:03:44 | num_workers: 2
+2025-01-10 00:03:44 | optimizer: sgd
+2025-01-10 00:03:44 | tune_max_epochs: 100
+2025-01-10 00:03:44 | backbone_lr: 0.005
+2025-01-10 00:03:44 | classifier_lr: 0.005
+2025-01-10 00:03:44 | gamma: 0.8
+2025-01-10 00:03:44 | steps: 60
+2025-01-10 00:03:44 | >>>>> TFPred Pre-training ...
+2025-01-10 00:04:01 | Epoch:   1/500, train_loss: 123.1231, current lr: 0.001000
+2025-01-10 00:04:18 | Epoch:   2/500, train_loss: 69.2996, current lr: 0.001000
+2025-01-10 00:06:22 | datadir: ./paper_datasets
+2025-01-10 00:06:22 | dataset: PU
+2025-01-10 00:06:22 | load: 3
+2025-01-10 00:06:22 | num_train: 210
+2025-01-10 00:06:22 | num_validation: 30
+2025-01-10 00:06:22 | num_test: 60
+2025-01-10 00:06:22 | num_labels: 3
+2025-01-10 00:06:22 | ratio_labels: 0.01
+2025-01-10 00:06:22 | data_length: 1024
+2025-01-10 00:06:22 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-01-10 00:06:22 | window: 512
+2025-01-10 00:06:22 | normalization: 0-1
+2025-01-10 00:06:22 | backbone: ResNet1D
+2025-01-10 00:06:22 | mode: train_then_tune
+2025-01-10 00:06:22 | max_epochs: 500
+2025-01-10 00:06:22 | batch_size: 256
+2025-01-10 00:06:22 | lr: 0.001
+2025-01-10 00:06:22 | lr_scheduler: stepLR
+2025-01-10 00:06:22 | num_workers: 2
+2025-01-10 00:06:22 | optimizer: sgd
+2025-01-10 00:06:22 | tune_max_epochs: 100
+2025-01-10 00:06:22 | backbone_lr: 0.005
+2025-01-10 00:06:22 | classifier_lr: 0.005
+2025-01-10 00:06:22 | gamma: 0.8
+2025-01-10 00:06:22 | steps: 60
+2025-01-10 00:06:22 | >>>>> TFPred Pre-training ...
+2025-01-10 00:06:41 | datadir: ./paper_datasets
+2025-01-10 00:06:41 | dataset: PU
+2025-01-10 00:06:41 | load: 3
+2025-01-10 00:06:41 | num_train: 210
+2025-01-10 00:06:41 | num_validation: 30
+2025-01-10 00:06:41 | num_test: 60
+2025-01-10 00:06:41 | num_labels: 3
+2025-01-10 00:06:41 | ratio_labels: 0.01
+2025-01-10 00:06:41 | data_length: 1024
+2025-01-10 00:06:41 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-01-10 00:06:41 | window: 512
+2025-01-10 00:06:41 | normalization: 0-1
+2025-01-10 00:06:41 | backbone: ResNet1D
+2025-01-10 00:06:41 | mode: train_then_tune
+2025-01-10 00:06:41 | max_epochs: 500
+2025-01-10 00:06:41 | batch_size: 256
+2025-01-10 00:06:41 | lr: 0.001
+2025-01-10 00:06:41 | lr_scheduler: stepLR
+2025-01-10 00:06:41 | num_workers: 2
+2025-01-10 00:06:41 | optimizer: sgd
+2025-01-10 00:06:41 | tune_max_epochs: 100
+2025-01-10 00:06:41 | backbone_lr: 0.005
+2025-01-10 00:06:41 | classifier_lr: 0.005
+2025-01-10 00:06:41 | gamma: 0.8
+2025-01-10 00:06:41 | steps: 60
+2025-01-10 00:06:41 | >>>>> TFPred Pre-training ...
+2025-01-10 00:06:57 | Epoch:   1/500, train_loss: 124.6904, current lr: 0.001000
+2025-01-10 00:07:13 | Epoch:   2/500, train_loss: 79.5537, current lr: 0.001000
+2025-01-10 00:07:30 | Epoch:   3/500, train_loss: 53.9737, current lr: 0.001000
+2025-01-10 00:21:14 | datadir: ./paper_datasets
+2025-01-10 00:21:14 | dataset: PU
+2025-01-10 00:21:14 | load: 3
+2025-01-10 00:21:14 | num_train: 210
+2025-01-10 00:21:14 | num_validation: 30
+2025-01-10 00:21:14 | num_test: 60
+2025-01-10 00:21:14 | num_labels: 3
+2025-01-10 00:21:14 | ratio_labels: 0.01
+2025-01-10 00:21:14 | data_length: 1024
+2025-01-10 00:21:14 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-01-10 00:21:14 | window: 512
+2025-01-10 00:21:14 | normalization: 0-1
+2025-01-10 00:21:14 | backbone: ResNet1D
+2025-01-10 00:21:14 | mode: train_then_tune
+2025-01-10 00:21:14 | max_epochs: 500
+2025-01-10 00:21:14 | batch_size: 256
+2025-01-10 00:21:14 | lr: 0.001
+2025-01-10 00:21:14 | lr_scheduler: stepLR
+2025-01-10 00:21:14 | num_workers: 2
+2025-01-10 00:21:14 | optimizer: sgd
+2025-01-10 00:21:14 | tune_max_epochs: 100
+2025-01-10 00:21:14 | backbone_lr: 0.005
+2025-01-10 00:21:14 | classifier_lr: 0.005
+2025-01-10 00:21:14 | gamma: 0.8
+2025-01-10 00:21:14 | steps: 60
+2025-01-10 00:21:14 | >>>>> TFPred Pre-training ...
+2025-01-10 00:21:31 | Epoch:   1/500, train_loss: 124.7246, current lr: 0.001000
+2025-01-10 00:21:48 | Epoch:   2/500, train_loss: 74.8520, current lr: 0.001000
+2025-01-16 13:55:46 | datadir: ./paper_datasets
+2025-01-16 13:55:46 | dataset: PU
+2025-01-16 13:55:46 | load: 3
+2025-01-16 13:55:46 | num_train: 210
+2025-01-16 13:55:46 | num_validation: 30
+2025-01-16 13:55:46 | num_test: 60
+2025-01-16 13:55:46 | num_labels: 3
+2025-01-16 13:55:46 | ratio_labels: 0.01
+2025-01-16 13:55:46 | data_length: 1024
+2025-01-16 13:55:46 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-01-16 13:55:46 | window: 512
+2025-01-16 13:55:46 | normalization: 0-1
+2025-01-16 13:55:46 | backbone: ResNet1D
+2025-01-16 13:55:46 | mode: train_then_tune
+2025-01-16 13:55:46 | max_epochs: 500
+2025-01-16 13:55:46 | batch_size: 256
+2025-01-16 13:55:46 | lr: 0.001
+2025-01-16 13:55:46 | lr_scheduler: stepLR
+2025-01-16 13:55:46 | num_workers: 2
+2025-01-16 13:55:46 | optimizer: sgd
+2025-01-16 13:55:46 | tune_max_epochs: 100
+2025-01-16 13:55:46 | backbone_lr: 0.005
+2025-01-16 13:55:46 | classifier_lr: 0.005
+2025-01-16 13:55:46 | gamma: 0.8
+2025-01-16 13:55:46 | steps: 60
+2025-01-16 13:55:46 | >>>>> TFPred Pre-training ...
+2025-01-16 13:57:42 | datadir: ./paper_datasets
+2025-01-16 13:57:42 | dataset: PU
+2025-01-16 13:57:42 | load: 3
+2025-01-16 13:57:42 | num_train: 210
+2025-01-16 13:57:42 | num_validation: 30
+2025-01-16 13:57:42 | num_test: 60
+2025-01-16 13:57:42 | num_labels: 3
+2025-01-16 13:57:42 | ratio_labels: 0.01
+2025-01-16 13:57:42 | data_length: 1024
+2025-01-16 13:57:42 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-01-16 13:57:42 | window: 512
+2025-01-16 13:57:42 | normalization: 0-1
+2025-01-16 13:57:42 | backbone: ResNet1D
+2025-01-16 13:57:42 | mode: train_then_tune
+2025-01-16 13:57:42 | max_epochs: 500
+2025-01-16 13:57:42 | batch_size: 256
+2025-01-16 13:57:42 | lr: 0.001
+2025-01-16 13:57:42 | lr_scheduler: stepLR
+2025-01-16 13:57:42 | num_workers: 2
+2025-01-16 13:57:42 | optimizer: sgd
+2025-01-16 13:57:42 | tune_max_epochs: 100
+2025-01-16 13:57:42 | backbone_lr: 0.005
+2025-01-16 13:57:42 | classifier_lr: 0.005
+2025-01-16 13:57:42 | gamma: 0.8
+2025-01-16 13:57:42 | steps: 60
+2025-01-16 13:57:43 | >>>>> TFPred Pre-training ...
+2025-01-16 13:58:19 | datadir: ./paper_datasets
+2025-01-16 13:58:19 | dataset: PU
+2025-01-16 13:58:19 | load: 3
+2025-01-16 13:58:19 | num_train: 210
+2025-01-16 13:58:19 | num_validation: 30
+2025-01-16 13:58:19 | num_test: 60
+2025-01-16 13:58:19 | num_labels: 3
+2025-01-16 13:58:19 | ratio_labels: 0.01
+2025-01-16 13:58:19 | data_length: 1024
+2025-01-16 13:58:19 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-01-16 13:58:19 | window: 512
+2025-01-16 13:58:19 | normalization: 0-1
+2025-01-16 13:58:19 | backbone: ResNet1D
+2025-01-16 13:58:19 | mode: train_then_tune
+2025-01-16 13:58:19 | max_epochs: 500
+2025-01-16 13:58:19 | batch_size: 256
+2025-01-16 13:58:19 | lr: 0.001
+2025-01-16 13:58:19 | lr_scheduler: stepLR
+2025-01-16 13:58:19 | num_workers: 2
+2025-01-16 13:58:19 | optimizer: sgd
+2025-01-16 13:58:19 | tune_max_epochs: 100
+2025-01-16 13:58:19 | backbone_lr: 0.005
+2025-01-16 13:58:19 | classifier_lr: 0.005
+2025-01-16 13:58:19 | gamma: 0.8
+2025-01-16 13:58:19 | steps: 60
+2025-01-16 13:58:19 | >>>>> TFPred Pre-training ...
+2025-01-16 14:02:20 | datadir: ./paper_datasets
+2025-01-16 14:02:20 | dataset: PU
+2025-01-16 14:02:20 | load: 3
+2025-01-16 14:02:20 | num_train: 210
+2025-01-16 14:02:20 | num_validation: 30
+2025-01-16 14:02:20 | num_test: 60
+2025-01-16 14:02:20 | num_labels: 3
+2025-01-16 14:02:20 | ratio_labels: 0.01
+2025-01-16 14:02:20 | data_length: 1024
+2025-01-16 14:02:20 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-01-16 14:02:20 | window: 512
+2025-01-16 14:02:20 | normalization: 0-1
+2025-01-16 14:02:20 | backbone: ResNet1D
+2025-01-16 14:02:20 | mode: train_then_tune
+2025-01-16 14:02:20 | max_epochs: 500
+2025-01-16 14:02:20 | batch_size: 256
+2025-01-16 14:02:20 | lr: 0.001
+2025-01-16 14:02:20 | lr_scheduler: stepLR
+2025-01-16 14:02:20 | num_workers: 2
+2025-01-16 14:02:20 | optimizer: sgd
+2025-01-16 14:02:20 | tune_max_epochs: 100
+2025-01-16 14:02:20 | backbone_lr: 0.005
+2025-01-16 14:02:20 | classifier_lr: 0.005
+2025-01-16 14:02:20 | gamma: 0.8
+2025-01-16 14:02:20 | steps: 60
+2025-01-16 14:02:20 | >>>>> TFPred Pre-training ...
+2025-01-16 14:06:21 | datadir: ./paper_datasets
+2025-01-16 14:06:21 | dataset: PU
+2025-01-16 14:06:21 | load: 3
+2025-01-16 14:06:21 | num_train: 210
+2025-01-16 14:06:21 | num_validation: 30
+2025-01-16 14:06:21 | num_test: 60
+2025-01-16 14:06:21 | num_labels: 3
+2025-01-16 14:06:21 | ratio_labels: 0.01
+2025-01-16 14:06:21 | data_length: 1024
+2025-01-16 14:06:21 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-01-16 14:06:21 | window: 512
+2025-01-16 14:06:21 | normalization: 0-1
+2025-01-16 14:06:21 | backbone: ResNet1D
+2025-01-16 14:06:21 | mode: train_then_tune
+2025-01-16 14:06:21 | max_epochs: 500
+2025-01-16 14:06:21 | batch_size: 256
+2025-01-16 14:06:21 | lr: 0.001
+2025-01-16 14:06:21 | lr_scheduler: stepLR
+2025-01-16 14:06:21 | num_workers: 2
+2025-01-16 14:06:21 | optimizer: sgd
+2025-01-16 14:06:21 | tune_max_epochs: 100
+2025-01-16 14:06:21 | backbone_lr: 0.005
+2025-01-16 14:06:21 | classifier_lr: 0.005
+2025-01-16 14:06:21 | gamma: 0.8
+2025-01-16 14:06:21 | steps: 60
+2025-01-16 14:06:21 | >>>>> TFPred Pre-training ...
+2025-01-16 14:07:17 | datadir: ./paper_datasets
+2025-01-16 14:07:17 | dataset: PU
+2025-01-16 14:07:17 | load: 3
+2025-01-16 14:07:17 | num_train: 210
+2025-01-16 14:07:17 | num_validation: 30
+2025-01-16 14:07:17 | num_test: 60
+2025-01-16 14:07:17 | num_labels: 3
+2025-01-16 14:07:17 | ratio_labels: 0.01
+2025-01-16 14:07:17 | data_length: 1024
+2025-01-16 14:07:17 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-01-16 14:07:17 | window: 512
+2025-01-16 14:07:17 | normalization: 0-1
+2025-01-16 14:07:17 | backbone: ResNet1D
+2025-01-16 14:07:17 | mode: train_then_tune
+2025-01-16 14:07:17 | max_epochs: 500
+2025-01-16 14:07:17 | batch_size: 256
+2025-01-16 14:07:17 | lr: 0.001
+2025-01-16 14:07:17 | lr_scheduler: stepLR
+2025-01-16 14:07:17 | num_workers: 2
+2025-01-16 14:07:17 | optimizer: sgd
+2025-01-16 14:07:17 | tune_max_epochs: 100
+2025-01-16 14:07:17 | backbone_lr: 0.005
+2025-01-16 14:07:17 | classifier_lr: 0.005
+2025-01-16 14:07:17 | gamma: 0.8
+2025-01-16 14:07:17 | steps: 60
+2025-01-16 14:07:17 | >>>>> TFPred Pre-training ...
+2025-02-26 21:06:39 | datadir: ./paper_datasets
+2025-02-26 21:06:39 | dataset: PU
+2025-02-26 21:06:39 | load: 3
+2025-02-26 21:06:39 | num_train: 210
+2025-02-26 21:06:39 | num_validation: 30
+2025-02-26 21:06:39 | num_test: 60
+2025-02-26 21:06:39 | num_labels: 3
+2025-02-26 21:06:39 | ratio_labels: 0.01
+2025-02-26 21:06:39 | data_length: 1024
+2025-02-26 21:06:39 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-02-26 21:06:39 | window: 512
+2025-02-26 21:06:39 | normalization: 0-1
+2025-02-26 21:06:39 | backbone: ResNet1D
+2025-02-26 21:06:39 | mode: train_then_tune
+2025-02-26 21:06:39 | max_epochs: 500
+2025-02-26 21:06:39 | batch_size: 256
+2025-02-26 21:06:39 | lr: 0.001
+2025-02-26 21:06:39 | lr_scheduler: stepLR
+2025-02-26 21:06:39 | num_workers: 2
+2025-02-26 21:06:39 | optimizer: sgd
+2025-02-26 21:06:39 | tune_max_epochs: 100
+2025-02-26 21:06:39 | backbone_lr: 0.005
+2025-02-26 21:06:39 | classifier_lr: 0.005
+2025-02-26 21:06:39 | gamma: 0.8
+2025-02-26 21:06:39 | steps: 60
+2025-02-26 21:06:39 | >>>>> TFPred Pre-training ...
+2025-02-26 21:16:44 | datadir: ./paper_datasets
+2025-02-26 21:16:44 | dataset: PU
+2025-02-26 21:16:44 | load: 3
+2025-02-26 21:16:44 | num_train: 210
+2025-02-26 21:16:44 | num_validation: 30
+2025-02-26 21:16:44 | num_test: 60
+2025-02-26 21:16:44 | num_labels: 3
+2025-02-26 21:16:44 | ratio_labels: 0.01
+2025-02-26 21:16:44 | data_length: 1024
+2025-02-26 21:16:44 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-02-26 21:16:44 | window: 512
+2025-02-26 21:16:44 | normalization: 0-1
+2025-02-26 21:16:44 | backbone: ResNet1D
+2025-02-26 21:16:44 | mode: train_then_tune
+2025-02-26 21:16:44 | max_epochs: 500
+2025-02-26 21:16:44 | batch_size: 256
+2025-02-26 21:16:44 | lr: 0.001
+2025-02-26 21:16:44 | lr_scheduler: stepLR
+2025-02-26 21:16:44 | num_workers: 2
+2025-02-26 21:16:44 | optimizer: sgd
+2025-02-26 21:16:44 | tune_max_epochs: 100
+2025-02-26 21:16:44 | backbone_lr: 0.005
+2025-02-26 21:16:44 | classifier_lr: 0.005
+2025-02-26 21:16:44 | gamma: 0.8
+2025-02-26 21:16:44 | steps: 60
+2025-02-26 21:16:45 | >>>>> TFPred Pre-training ...
+2025-02-26 21:20:30 | datadir: ./paper_datasets
+2025-02-26 21:20:30 | dataset: PU
+2025-02-26 21:20:30 | load: 3
+2025-02-26 21:20:30 | num_train: 210
+2025-02-26 21:20:30 | num_validation: 30
+2025-02-26 21:20:30 | num_test: 60
+2025-02-26 21:20:30 | num_labels: 3
+2025-02-26 21:20:30 | ratio_labels: 0.01
+2025-02-26 21:20:30 | data_length: 1024
+2025-02-26 21:20:30 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-02-26 21:20:30 | window: 512
+2025-02-26 21:20:30 | normalization: 0-1
+2025-02-26 21:20:30 | backbone: ResNet1D
+2025-02-26 21:20:30 | mode: train_then_tune
+2025-02-26 21:20:30 | max_epochs: 500
+2025-02-26 21:20:30 | batch_size: 256
+2025-02-26 21:20:30 | lr: 0.001
+2025-02-26 21:20:30 | lr_scheduler: stepLR
+2025-02-26 21:20:30 | num_workers: 2
+2025-02-26 21:20:30 | optimizer: sgd
+2025-02-26 21:20:30 | tune_max_epochs: 100
+2025-02-26 21:20:30 | backbone_lr: 0.005
+2025-02-26 21:20:30 | classifier_lr: 0.005
+2025-02-26 21:20:30 | gamma: 0.8
+2025-02-26 21:20:30 | steps: 60
+2025-02-26 21:20:30 | >>>>> TFPred Pre-training ...
+2025-02-26 21:21:29 | datadir: ./paper_datasets
+2025-02-26 21:21:29 | dataset: PU
+2025-02-26 21:21:29 | load: 3
+2025-02-26 21:21:29 | num_train: 210
+2025-02-26 21:21:29 | num_validation: 30
+2025-02-26 21:21:29 | num_test: 60
+2025-02-26 21:21:29 | num_labels: 3
+2025-02-26 21:21:29 | ratio_labels: 0.01
+2025-02-26 21:21:29 | data_length: 1024
+2025-02-26 21:21:29 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-02-26 21:21:29 | window: 512
+2025-02-26 21:21:29 | normalization: 0-1
+2025-02-26 21:21:29 | backbone: ResNet1D
+2025-02-26 21:21:29 | mode: train_then_tune
+2025-02-26 21:21:29 | max_epochs: 500
+2025-02-26 21:21:29 | batch_size: 256
+2025-02-26 21:21:29 | lr: 0.001
+2025-02-26 21:21:29 | lr_scheduler: stepLR
+2025-02-26 21:21:29 | num_workers: 2
+2025-02-26 21:21:29 | optimizer: sgd
+2025-02-26 21:21:29 | tune_max_epochs: 100
+2025-02-26 21:21:29 | backbone_lr: 0.005
+2025-02-26 21:21:29 | classifier_lr: 0.005
+2025-02-26 21:21:29 | gamma: 0.8
+2025-02-26 21:21:29 | steps: 60
+2025-02-26 21:21:29 | >>>>> TFPred Pre-training ...
+2025-02-26 21:34:13 | datadir: ./paper_datasets
+2025-02-26 21:34:13 | dataset: PU
+2025-02-26 21:34:13 | load: 3
+2025-02-26 21:34:13 | num_train: 210
+2025-02-26 21:34:13 | num_validation: 30
+2025-02-26 21:34:13 | num_test: 60
+2025-02-26 21:34:13 | num_labels: 3
+2025-02-26 21:34:13 | ratio_labels: 0.01
+2025-02-26 21:34:13 | data_length: 1024
+2025-02-26 21:34:13 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-02-26 21:34:13 | window: 512
+2025-02-26 21:34:13 | normalization: 0-1
+2025-02-26 21:34:13 | backbone: ResNet1D
+2025-02-26 21:34:13 | mode: train_then_tune
+2025-02-26 21:34:13 | max_epochs: 500
+2025-02-26 21:34:13 | batch_size: 256
+2025-02-26 21:34:13 | lr: 0.001
+2025-02-26 21:34:13 | lr_scheduler: stepLR
+2025-02-26 21:34:13 | num_workers: 2
+2025-02-26 21:34:13 | optimizer: sgd
+2025-02-26 21:34:13 | tune_max_epochs: 100
+2025-02-26 21:34:13 | backbone_lr: 0.005
+2025-02-26 21:34:13 | classifier_lr: 0.005
+2025-02-26 21:34:13 | gamma: 0.8
+2025-02-26 21:34:13 | steps: 60
+2025-02-26 21:34:13 | >>>>> TFPred Pre-training ...
+2025-02-26 21:56:55 | datadir: ./paper_datasets
+2025-02-26 21:56:55 | dataset: PU
+2025-02-26 21:56:55 | load: 3
+2025-02-26 21:56:55 | num_train: 210
+2025-02-26 21:56:55 | num_validation: 30
+2025-02-26 21:56:55 | num_test: 60
+2025-02-26 21:56:55 | num_labels: 3
+2025-02-26 21:56:55 | ratio_labels: 0.01
+2025-02-26 21:56:55 | data_length: 1024
+2025-02-26 21:56:55 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-02-26 21:56:55 | window: 512
+2025-02-26 21:56:55 | normalization: 0-1
+2025-02-26 21:56:55 | backbone: ResNet1D
+2025-02-26 21:56:55 | mode: train_then_tune
+2025-02-26 21:56:55 | max_epochs: 500
+2025-02-26 21:56:55 | batch_size: 256
+2025-02-26 21:56:55 | lr: 0.001
+2025-02-26 21:56:55 | lr_scheduler: stepLR
+2025-02-26 21:56:55 | num_workers: 2
+2025-02-26 21:56:55 | optimizer: sgd
+2025-02-26 21:56:55 | tune_max_epochs: 100
+2025-02-26 21:56:55 | backbone_lr: 0.005
+2025-02-26 21:56:55 | classifier_lr: 0.005
+2025-02-26 21:56:55 | gamma: 0.8
+2025-02-26 21:56:55 | steps: 60
+2025-02-26 21:56:55 | >>>>> TFPred Pre-training ...
+2025-02-26 22:18:33 | datadir: ./paper_datasets
+2025-02-26 22:18:34 | dataset: PU
+2025-02-26 22:18:34 | load: 3
+2025-02-26 22:18:34 | num_train: 210
+2025-02-26 22:18:34 | num_validation: 30
+2025-02-26 22:18:34 | num_test: 60
+2025-02-26 22:18:34 | num_labels: 3
+2025-02-26 22:18:34 | ratio_labels: 0.01
+2025-02-26 22:18:34 | data_length: 1024
+2025-02-26 22:18:34 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-02-26 22:18:34 | window: 512
+2025-02-26 22:18:34 | normalization: 0-1
+2025-02-26 22:18:34 | backbone: ResNet1D
+2025-02-26 22:18:34 | mode: train_then_tune
+2025-02-26 22:18:34 | max_epochs: 500
+2025-02-26 22:18:34 | batch_size: 256
+2025-02-26 22:18:34 | lr: 0.001
+2025-02-26 22:18:34 | lr_scheduler: stepLR
+2025-02-26 22:18:34 | num_workers: 2
+2025-02-26 22:18:34 | optimizer: sgd
+2025-02-26 22:18:34 | tune_max_epochs: 100
+2025-02-26 22:18:34 | backbone_lr: 0.005
+2025-02-26 22:18:34 | classifier_lr: 0.005
+2025-02-26 22:18:34 | gamma: 0.8
+2025-02-26 22:18:34 | steps: 60
+2025-02-26 22:19:28 | datadir: ./paper_datasets
+2025-02-26 22:19:28 | dataset: PU
+2025-02-26 22:19:28 | load: 3
+2025-02-26 22:19:28 | num_train: 210
+2025-02-26 22:19:28 | num_validation: 30
+2025-02-26 22:19:28 | num_test: 60
+2025-02-26 22:19:28 | num_labels: 3
+2025-02-26 22:19:28 | ratio_labels: 0.01
+2025-02-26 22:19:28 | data_length: 1024
+2025-02-26 22:19:28 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-02-26 22:19:28 | window: 512
+2025-02-26 22:19:28 | normalization: 0-1
+2025-02-26 22:19:28 | backbone: ResNet1D
+2025-02-26 22:19:28 | mode: train_then_tune
+2025-02-26 22:19:28 | max_epochs: 500
+2025-02-26 22:19:28 | batch_size: 256
+2025-02-26 22:19:28 | lr: 0.001
+2025-02-26 22:19:28 | lr_scheduler: stepLR
+2025-02-26 22:19:28 | num_workers: 2
+2025-02-26 22:19:28 | optimizer: sgd
+2025-02-26 22:19:28 | tune_max_epochs: 100
+2025-02-26 22:19:28 | backbone_lr: 0.005
+2025-02-26 22:19:28 | classifier_lr: 0.005
+2025-02-26 22:19:28 | gamma: 0.8
+2025-02-26 22:19:28 | steps: 60
+2025-02-26 22:19:56 | datadir: ./paper_datasets
+2025-02-26 22:19:56 | dataset: PU
+2025-02-26 22:19:56 | load: 3
+2025-02-26 22:19:56 | num_train: 210
+2025-02-26 22:19:56 | num_validation: 30
+2025-02-26 22:19:56 | num_test: 60
+2025-02-26 22:19:56 | num_labels: 3
+2025-02-26 22:19:56 | ratio_labels: 0.01
+2025-02-26 22:19:56 | data_length: 1024
+2025-02-26 22:19:56 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-02-26 22:19:56 | window: 512
+2025-02-26 22:19:56 | normalization: 0-1
+2025-02-26 22:19:56 | backbone: ResNet1D
+2025-02-26 22:19:56 | mode: train_then_tune
+2025-02-26 22:19:56 | max_epochs: 500
+2025-02-26 22:19:56 | batch_size: 256
+2025-02-26 22:19:56 | lr: 0.001
+2025-02-26 22:19:56 | lr_scheduler: stepLR
+2025-02-26 22:19:56 | num_workers: 2
+2025-02-26 22:19:56 | optimizer: sgd
+2025-02-26 22:19:56 | tune_max_epochs: 100
+2025-02-26 22:19:56 | backbone_lr: 0.005
+2025-02-26 22:19:56 | classifier_lr: 0.005
+2025-02-26 22:19:56 | gamma: 0.8
+2025-02-26 22:19:56 | steps: 60
+2025-02-26 22:20:10 | datadir: ./paper_datasets
+2025-02-26 22:20:10 | dataset: PU
+2025-02-26 22:20:10 | load: 3
+2025-02-26 22:20:10 | num_train: 210
+2025-02-26 22:20:10 | num_validation: 30
+2025-02-26 22:20:10 | num_test: 60
+2025-02-26 22:20:10 | num_labels: 3
+2025-02-26 22:20:10 | ratio_labels: 0.01
+2025-02-26 22:20:10 | data_length: 1024
+2025-02-26 22:20:10 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-02-26 22:20:10 | window: 512
+2025-02-26 22:20:10 | normalization: 0-1
+2025-02-26 22:20:10 | backbone: ResNet1D
+2025-02-26 22:20:10 | mode: train_then_tune
+2025-02-26 22:20:10 | max_epochs: 500
+2025-02-26 22:20:10 | batch_size: 256
+2025-02-26 22:20:10 | lr: 0.001
+2025-02-26 22:20:10 | lr_scheduler: stepLR
+2025-02-26 22:20:10 | num_workers: 2
+2025-02-26 22:20:10 | optimizer: sgd
+2025-02-26 22:20:10 | tune_max_epochs: 100
+2025-02-26 22:20:10 | backbone_lr: 0.005
+2025-02-26 22:20:10 | classifier_lr: 0.005
+2025-02-26 22:20:10 | gamma: 0.8
+2025-02-26 22:20:10 | steps: 60
+2025-02-27 14:26:51 | datadir: ./paper_datasets
+2025-02-27 14:26:51 | dataset: PU
+2025-02-27 14:26:51 | load: 3
+2025-02-27 14:26:51 | num_train: 210
+2025-02-27 14:26:51 | num_validation: 30
+2025-02-27 14:26:51 | num_test: 60
+2025-02-27 14:26:51 | num_labels: 3
+2025-02-27 14:26:51 | ratio_labels: 0.01
+2025-02-27 14:26:51 | data_length: 1024
+2025-02-27 14:26:51 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-02-27 14:26:51 | window: 512
+2025-02-27 14:26:51 | normalization: 0-1
+2025-02-27 14:26:51 | backbone: ResNet1D
+2025-02-27 14:26:51 | mode: train_then_tune
+2025-02-27 14:26:51 | max_epochs: 500
+2025-02-27 14:26:51 | batch_size: 256
+2025-02-27 14:26:51 | lr: 0.001
+2025-02-27 14:26:51 | lr_scheduler: stepLR
+2025-02-27 14:26:51 | num_workers: 2
+2025-02-27 14:26:51 | optimizer: sgd
+2025-02-27 14:26:51 | tune_max_epochs: 100
+2025-02-27 14:26:51 | backbone_lr: 0.005
+2025-02-27 14:26:51 | classifier_lr: 0.005
+2025-02-27 14:26:51 | gamma: 0.8
+2025-02-27 14:26:51 | steps: 60
+2025-02-27 14:29:51 | datadir: ./paper_datasets
+2025-02-27 14:29:51 | dataset: PU
+2025-02-27 14:29:51 | load: 3
+2025-02-27 14:29:51 | num_train: 210
+2025-02-27 14:29:51 | num_validation: 30
+2025-02-27 14:29:51 | num_test: 60
+2025-02-27 14:29:51 | num_labels: 3
+2025-02-27 14:29:51 | ratio_labels: 0.01
+2025-02-27 14:29:51 | data_length: 1024
+2025-02-27 14:29:51 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-02-27 14:29:51 | window: 512
+2025-02-27 14:29:51 | normalization: 0-1
+2025-02-27 14:29:51 | backbone: ResNet1D
+2025-02-27 14:29:51 | mode: train_then_tune
+2025-02-27 14:29:51 | max_epochs: 500
+2025-02-27 14:29:51 | batch_size: 256
+2025-02-27 14:29:51 | lr: 0.001
+2025-02-27 14:29:51 | lr_scheduler: stepLR
+2025-02-27 14:29:51 | num_workers: 2
+2025-02-27 14:29:51 | optimizer: sgd
+2025-02-27 14:29:51 | tune_max_epochs: 100
+2025-02-27 14:29:51 | backbone_lr: 0.005
+2025-02-27 14:29:51 | classifier_lr: 0.005
+2025-02-27 14:29:51 | gamma: 0.8
+2025-02-27 14:29:51 | steps: 60
+2025-02-27 14:32:07 | datadir: ./paper_datasets
+2025-02-27 14:32:07 | dataset: PU
+2025-02-27 14:32:07 | load: 3
+2025-02-27 14:32:07 | num_train: 210
+2025-02-27 14:32:07 | num_validation: 30
+2025-02-27 14:32:07 | num_test: 60
+2025-02-27 14:32:07 | num_labels: 3
+2025-02-27 14:32:07 | ratio_labels: 0.01
+2025-02-27 14:32:07 | data_length: 1024
+2025-02-27 14:32:07 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-02-27 14:32:07 | window: 512
+2025-02-27 14:32:07 | normalization: 0-1
+2025-02-27 14:32:07 | backbone: ResNet1D
+2025-02-27 14:32:07 | mode: train_then_tune
+2025-02-27 14:32:07 | max_epochs: 500
+2025-02-27 14:32:07 | batch_size: 256
+2025-02-27 14:32:07 | lr: 0.001
+2025-02-27 14:32:07 | lr_scheduler: stepLR
+2025-02-27 14:32:07 | num_workers: 2
+2025-02-27 14:32:07 | optimizer: sgd
+2025-02-27 14:32:07 | tune_max_epochs: 100
+2025-02-27 14:32:07 | backbone_lr: 0.005
+2025-02-27 14:32:07 | classifier_lr: 0.005
+2025-02-27 14:32:07 | gamma: 0.8
+2025-02-27 14:32:07 | steps: 60
+2025-02-27 14:35:06 | datadir: ./paper_datasets
+2025-02-27 14:35:06 | dataset: PU
+2025-02-27 14:35:06 | load: 3
+2025-02-27 14:35:06 | num_train: 210
+2025-02-27 14:35:06 | num_validation: 30
+2025-02-27 14:35:06 | num_test: 60
+2025-02-27 14:35:06 | num_labels: 3
+2025-02-27 14:35:06 | ratio_labels: 0.01
+2025-02-27 14:35:06 | data_length: 1024
+2025-02-27 14:35:06 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-02-27 14:35:06 | window: 512
+2025-02-27 14:35:06 | normalization: 0-1
+2025-02-27 14:35:06 | backbone: ResNet1D
+2025-02-27 14:35:06 | mode: train_then_tune
+2025-02-27 14:35:06 | max_epochs: 500
+2025-02-27 14:35:06 | batch_size: 256
+2025-02-27 14:35:06 | lr: 0.001
+2025-02-27 14:35:06 | lr_scheduler: stepLR
+2025-02-27 14:35:06 | num_workers: 2
+2025-02-27 14:35:06 | optimizer: sgd
+2025-02-27 14:35:06 | tune_max_epochs: 100
+2025-02-27 14:35:06 | backbone_lr: 0.005
+2025-02-27 14:35:06 | classifier_lr: 0.005
+2025-02-27 14:35:06 | gamma: 0.8
+2025-02-27 14:35:06 | steps: 60
+2025-02-27 14:39:15 | datadir: ./paper_datasets
+2025-02-27 14:39:15 | dataset: PU
+2025-02-27 14:39:15 | load: 3
+2025-02-27 14:39:15 | num_train: 210
+2025-02-27 14:39:15 | num_validation: 30
+2025-02-27 14:39:15 | num_test: 60
+2025-02-27 14:39:15 | num_labels: 3
+2025-02-27 14:39:15 | ratio_labels: 0.01
+2025-02-27 14:39:15 | data_length: 1024
+2025-02-27 14:39:15 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-02-27 14:39:15 | window: 512
+2025-02-27 14:39:15 | normalization: 0-1
+2025-02-27 14:39:15 | backbone: ResNet1D
+2025-02-27 14:39:15 | mode: train_then_tune
+2025-02-27 14:39:15 | max_epochs: 500
+2025-02-27 14:39:15 | batch_size: 256
+2025-02-27 14:39:15 | lr: 0.001
+2025-02-27 14:39:15 | lr_scheduler: stepLR
+2025-02-27 14:39:15 | num_workers: 2
+2025-02-27 14:39:15 | optimizer: sgd
+2025-02-27 14:39:15 | tune_max_epochs: 100
+2025-02-27 14:39:15 | backbone_lr: 0.005
+2025-02-27 14:39:15 | classifier_lr: 0.005
+2025-02-27 14:39:15 | gamma: 0.8
+2025-02-27 14:39:15 | steps: 60
+2025-02-27 14:52:36 | datadir: ./paper_datasets
+2025-02-27 14:52:36 | dataset: PU
+2025-02-27 14:52:36 | load: 3
+2025-02-27 14:52:36 | num_train: 140
+2025-02-27 14:52:36 | num_validation: 20
+2025-02-27 14:52:36 | num_test: 40
+2025-02-27 14:52:36 | num_labels: 3
+2025-02-27 14:52:36 | ratio_labels: 0.01
+2025-02-27 14:52:36 | data_length: 1024
+2025-02-27 14:52:36 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-02-27 14:52:36 | window: 512
+2025-02-27 14:52:36 | normalization: 0-1
+2025-02-27 14:52:36 | backbone: ResNet1D
+2025-02-27 14:52:36 | mode: train_then_tune
+2025-02-27 14:52:36 | max_epochs: 500
+2025-02-27 14:52:36 | batch_size: 256
+2025-02-27 14:52:36 | lr: 0.001
+2025-02-27 14:52:36 | lr_scheduler: stepLR
+2025-02-27 14:52:36 | num_workers: 2
+2025-02-27 14:52:36 | optimizer: sgd
+2025-02-27 14:52:36 | tune_max_epochs: 100
+2025-02-27 14:52:36 | backbone_lr: 0.005
+2025-02-27 14:52:36 | classifier_lr: 0.005
+2025-02-27 14:52:36 | gamma: 0.8
+2025-02-27 14:52:36 | steps: 60
+2025-02-27 14:52:37 | >>>>> TFPred Pre-training ...
+2025-04-18 19:36:48 | datadir: ./paper_datasets
+2025-04-18 19:36:48 | dataset: PU
+2025-04-18 19:36:48 | load: 3
+2025-04-18 19:36:48 | num_train: 140
+2025-04-18 19:36:48 | num_validation: 20
+2025-04-18 19:36:48 | num_test: 40
+2025-04-18 19:36:48 | num_labels: 3
+2025-04-18 19:36:48 | ratio_labels: 0.01
+2025-04-18 19:36:48 | data_length: 1024
+2025-04-18 19:36:48 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-04-18 19:36:48 | window: 512
+2025-04-18 19:36:48 | normalization: 0-1
+2025-04-18 19:36:48 | backbone: ResNet1D
+2025-04-18 19:36:48 | mode: train_then_tune
+2025-04-18 19:36:48 | max_epochs: 500
+2025-04-18 19:36:48 | batch_size: 256
+2025-04-18 19:36:48 | lr: 0.001
+2025-04-18 19:36:48 | lr_scheduler: stepLR
+2025-04-18 19:36:48 | num_workers: 2
+2025-04-18 19:36:48 | optimizer: sgd
+2025-04-18 19:36:48 | tune_max_epochs: 100
+2025-04-18 19:36:48 | backbone_lr: 0.005
+2025-04-18 19:36:48 | classifier_lr: 0.005
+2025-04-18 19:36:48 | gamma: 0.8
+2025-04-18 19:36:48 | steps: 60
+2025-04-18 19:36:48 | >>>>> TFPred Pre-training ...
+2025-04-23 23:00:11 | datadir: ./paper_datasets
+2025-04-23 23:00:11 | dataset: PU
+2025-04-23 23:00:11 | load: 3
+2025-04-23 23:00:11 | num_train: 210
+2025-04-23 23:00:11 | num_validation: 30
+2025-04-23 23:00:11 | num_test: 60
+2025-04-23 23:00:11 | num_labels: 3
+2025-04-23 23:00:11 | ratio_labels: 0.01
+2025-04-23 23:00:11 | data_length: 1024
+2025-04-23 23:00:11 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-04-23 23:00:11 | window: 512
+2025-04-23 23:00:11 | normalization: 0-1
+2025-04-23 23:00:11 | backbone: ResNet1D
+2025-04-23 23:00:11 | mode: train_then_tune
+2025-04-23 23:00:11 | max_epochs: 500
+2025-04-23 23:00:11 | batch_size: 256
+2025-04-23 23:00:11 | lr: 0.01
+2025-04-23 23:00:11 | lr_scheduler: stepLR
+2025-04-23 23:00:11 | num_workers: 2
+2025-04-23 23:00:11 | optimizer: sgd
+2025-04-23 23:00:11 | tune_max_epochs: 100
+2025-04-23 23:00:11 | backbone_lr: 0.005
+2025-04-23 23:00:11 | classifier_lr: 0.005
+2025-04-23 23:00:11 | gamma: 0.8
+2025-04-23 23:00:11 | steps: 60
+2025-04-23 23:00:11 | save_correlation: True
+2025-04-23 23:00:11 | class_names: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+2025-04-23 23:00:11 | output_dir: None
+2025-04-23 23:00:11 | >>>>> TFPred Pre-training ...
+2025-04-24 11:27:51 | datadir: ./paper_datasets
+2025-04-24 11:27:51 | dataset: PU
+2025-04-24 11:27:51 | load: 3
+2025-04-24 11:27:51 | num_train: 210
+2025-04-24 11:27:51 | num_validation: 30
+2025-04-24 11:27:51 | num_test: 60
+2025-04-24 11:27:51 | num_labels: 3
+2025-04-24 11:27:51 | ratio_labels: 0.01
+2025-04-24 11:27:51 | data_length: 1024
+2025-04-24 11:27:51 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-04-24 11:27:51 | window: 512
+2025-04-24 11:27:51 | normalization: 0-1
+2025-04-24 11:27:51 | backbone: ResNet1D
+2025-04-24 11:27:51 | mode: tune
+2025-04-24 11:27:51 | max_epochs: 500
+2025-04-24 11:27:51 | batch_size: 256
+2025-04-24 11:27:51 | lr: 0.01
+2025-04-24 11:27:51 | lr_scheduler: stepLR
+2025-04-24 11:27:51 | num_workers: 2
+2025-04-24 11:27:51 | optimizer: sgd
+2025-04-24 11:27:51 | tune_max_epochs: 100
+2025-04-24 11:27:51 | backbone_lr: 0.005
+2025-04-24 11:27:51 | classifier_lr: 0.005
+2025-04-24 11:27:51 | gamma: 0.8
+2025-04-24 11:27:51 | steps: 60
+2025-04-24 11:27:51 | save_correlation: True
+2025-04-24 11:27:51 | class_names: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+2025-04-24 11:27:51 | output_dir: None
+2025-04-24 11:55:40 | datadir: ./paper_datasets
+2025-04-24 11:55:40 | dataset: PU
+2025-04-24 11:55:40 | load: 3
+2025-04-24 11:55:40 | num_train: 210
+2025-04-24 11:55:40 | num_validation: 30
+2025-04-24 11:55:40 | num_test: 60
+2025-04-24 11:55:40 | num_labels: 3
+2025-04-24 11:55:40 | ratio_labels: 0.01
+2025-04-24 11:55:40 | data_length: 1024
+2025-04-24 11:55:40 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-04-24 11:55:40 | window: 512
+2025-04-24 11:55:40 | normalization: 0-1
+2025-04-24 11:55:40 | backbone: ResNet1D
+2025-04-24 11:55:40 | mode: tune
+2025-04-24 11:55:40 | max_epochs: 10
+2025-04-24 11:55:40 | batch_size: 256
+2025-04-24 11:55:40 | lr: 0.01
+2025-04-24 11:55:40 | lr_scheduler: stepLR
+2025-04-24 11:55:40 | num_workers: 2
+2025-04-24 11:55:40 | optimizer: sgd
+2025-04-24 11:55:40 | tune_max_epochs: 100
+2025-04-24 11:55:40 | backbone_lr: 0.005
+2025-04-24 11:55:40 | classifier_lr: 0.005
+2025-04-24 11:55:40 | gamma: 0.8
+2025-04-24 11:55:40 | steps: 60
+2025-04-24 11:55:40 | save_correlation: True
+2025-04-24 11:55:40 | class_names: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+2025-04-24 11:55:40 | output_dir: None
+2025-04-24 11:56:07 | datadir: ./paper_datasets
+2025-04-24 11:56:07 | dataset: PU
+2025-04-24 11:56:07 | load: 3
+2025-04-24 11:56:07 | num_train: 210
+2025-04-24 11:56:07 | num_validation: 30
+2025-04-24 11:56:07 | num_test: 60
+2025-04-24 11:56:07 | num_labels: 3
+2025-04-24 11:56:07 | ratio_labels: 0.01
+2025-04-24 11:56:07 | data_length: 1024
+2025-04-24 11:56:07 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-04-24 11:56:07 | window: 512
+2025-04-24 11:56:07 | normalization: 0-1
+2025-04-24 11:56:07 | backbone: ResNet1D
+2025-04-24 11:56:07 | mode: train_then_tune
+2025-04-24 11:56:07 | max_epochs: 10
+2025-04-24 11:56:07 | batch_size: 256
+2025-04-24 11:56:07 | lr: 0.01
+2025-04-24 11:56:07 | lr_scheduler: stepLR
+2025-04-24 11:56:07 | num_workers: 2
+2025-04-24 11:56:07 | optimizer: sgd
+2025-04-24 11:56:07 | tune_max_epochs: 100
+2025-04-24 11:56:07 | backbone_lr: 0.005
+2025-04-24 11:56:07 | classifier_lr: 0.005
+2025-04-24 11:56:07 | gamma: 0.8
+2025-04-24 11:56:07 | steps: 60
+2025-04-24 11:56:07 | save_correlation: True
+2025-04-24 11:56:07 | class_names: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+2025-04-24 11:56:07 | output_dir: None
+2025-04-24 11:56:08 | >>>>> TFPred Pre-training ...
+2025-04-24 11:56:25 | Epoch:   1/10, train_loss: 121.1496, current lr: 0.009755
+2025-04-24 11:56:44 | Epoch:   2/10, train_loss: 67.1553, current lr: 0.009045
+2025-04-24 11:56:59 | Epoch:   3/10, train_loss: 53.5587, current lr: 0.007939
+2025-04-24 11:57:15 | Epoch:   4/10, train_loss: 50.4547, current lr: 0.006545
+2025-04-24 11:57:30 | Epoch:   5/10, train_loss: 50.3975, current lr: 0.005000
+2025-04-24 11:57:46 | Epoch:   6/10, train_loss: 51.4648, current lr: 0.003455
+2025-04-24 11:58:01 | Epoch:   7/10, train_loss: 51.2125, current lr: 0.002061
+2025-04-24 11:58:16 | Epoch:   8/10, train_loss: 49.9853, current lr: 0.000955
+2025-04-24 11:58:32 | Epoch:   9/10, train_loss: 50.7384, current lr: 0.000245
+2025-04-24 11:58:47 | Epoch:  10/10, train_loss: 50.4219, current lr: 0.000000
+2025-04-24 11:58:47 | ===============TFPred Pre-training Done!===============
+2025-04-24 11:58:47 | >>>>> TFPred 半监督评估开始 ...
+2025-04-24 11:58:59 | Epoch: 1/100, train loss: 5.9781, train_acc:  10.00%, val loss: 3.8998, val_acc:  24.72%
+2025-04-24 11:59:06 | Epoch: 2/100, train loss: 4.8462, train_acc:  20.00%, val loss: 3.4561, val_acc:  19.03%
+2025-04-24 11:59:14 | Epoch: 3/100, train loss: 3.6006, train_acc:  13.33%, val loss: 2.8638, val_acc:   5.86%
+2025-04-24 12:01:02 | datadir: ./paper_datasets
+2025-04-24 12:01:02 | dataset: PU
+2025-04-24 12:01:02 | load: 3
+2025-04-24 12:01:02 | num_train: 210
+2025-04-24 12:01:02 | num_validation: 30
+2025-04-24 12:01:02 | num_test: 60
+2025-04-24 12:01:02 | num_labels: 3
+2025-04-24 12:01:02 | ratio_labels: 0.01
+2025-04-24 12:01:02 | data_length: 1024
+2025-04-24 12:01:02 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-04-24 12:01:02 | window: 512
+2025-04-24 12:01:02 | normalization: 0-1
+2025-04-24 12:01:02 | backbone: ResNet1D
+2025-04-24 12:01:02 | mode: train_then_tune
+2025-04-24 12:01:02 | max_epochs: 10
+2025-04-24 12:01:02 | batch_size: 256
+2025-04-24 12:01:02 | lr: 0.01
+2025-04-24 12:01:02 | lr_scheduler: stepLR
+2025-04-24 12:01:02 | num_workers: 2
+2025-04-24 12:01:02 | optimizer: sgd
+2025-04-24 12:01:02 | tune_max_epochs: 5
+2025-04-24 12:01:02 | backbone_lr: 0.005
+2025-04-24 12:01:02 | classifier_lr: 0.005
+2025-04-24 12:01:02 | gamma: 0.8
+2025-04-24 12:01:02 | steps: 60
+2025-04-24 12:01:02 | save_correlation: True
+2025-04-24 12:01:02 | class_names: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+2025-04-24 12:01:02 | output_dir: None
+2025-04-24 12:01:02 | >>>>> TFPred Pre-training ...
+2025-04-24 12:01:18 | Epoch:   1/10, train_loss: 114.7151, current lr: 0.009755
+2025-04-24 12:01:34 | Epoch:   2/10, train_loss: 65.3458, current lr: 0.009045
+2025-04-24 12:01:50 | Epoch:   3/10, train_loss: 53.1729, current lr: 0.007939
+2025-04-24 12:02:05 | Epoch:   4/10, train_loss: 51.3022, current lr: 0.006545
+2025-04-24 12:02:20 | Epoch:   5/10, train_loss: 51.4296, current lr: 0.005000
+2025-04-24 12:02:36 | Epoch:   6/10, train_loss: 52.1748, current lr: 0.003455
+2025-04-24 12:02:51 | Epoch:   7/10, train_loss: 50.4728, current lr: 0.002061
+2025-04-24 12:03:07 | Epoch:   8/10, train_loss: 50.1446, current lr: 0.000955
+2025-04-24 12:03:22 | Epoch:   9/10, train_loss: 49.7424, current lr: 0.000245
+2025-04-24 12:03:38 | Epoch:  10/10, train_loss: 49.9965, current lr: 0.000000
+2025-04-24 12:03:38 | ===============TFPred Pre-training Done!===============
+2025-04-24 12:03:38 | >>>>> TFPred 半监督评估开始 ...
+2025-04-24 12:03:50 | Epoch: 1/5, train loss: 5.8045, train_acc:  10.00%, val loss: 6.8236, val_acc:   6.25%
+2025-04-24 12:04:02 | Epoch: 2/5, train loss: 3.1524, train_acc:  20.00%, val loss: 5.2639, val_acc:   7.00%
+2025-04-24 12:04:10 | Epoch: 3/5, train loss: 1.9850, train_acc:  40.00%, val loss: 5.3297, val_acc:   5.86%
+2025-04-24 12:04:17 | Epoch: 4/5, train loss: 1.7560, train_acc:  40.00%, val loss: 5.3507, val_acc:   5.86%
+2025-04-24 12:04:26 | Epoch: 5/5, train loss: 1.6817, train_acc:  46.67%, val loss: 5.1978, val_acc:   5.86%
+2025-04-24 12:04:26 | 最佳验证集准确率:   7.00%, 测试集准确率:  10.46%
+2025-04-24 12:04:26 | ===============TFPred 评估完成!===============
+2025-04-24 12:08:43 | datadir: ./paper_datasets
+2025-04-24 12:08:43 | dataset: PU
+2025-04-24 12:08:43 | load: 3
+2025-04-24 12:08:43 | num_train: 210
+2025-04-24 12:08:43 | num_validation: 30
+2025-04-24 12:08:43 | num_test: 60
+2025-04-24 12:08:43 | num_labels: 3
+2025-04-24 12:08:43 | ratio_labels: 0.01
+2025-04-24 12:08:43 | data_length: 1024
+2025-04-24 12:08:43 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-04-24 12:08:43 | window: 512
+2025-04-24 12:08:43 | normalization: 0-1
+2025-04-24 12:08:43 | backbone: ResNet1D
+2025-04-24 12:08:43 | mode: train_then_tune
+2025-04-24 12:08:43 | max_epochs: 10
+2025-04-24 12:08:43 | batch_size: 256
+2025-04-24 12:08:43 | lr: 0.01
+2025-04-24 12:08:43 | lr_scheduler: stepLR
+2025-04-24 12:08:43 | num_workers: 2
+2025-04-24 12:08:43 | optimizer: sgd
+2025-04-24 12:08:43 | tune_max_epochs: 5
+2025-04-24 12:08:43 | backbone_lr: 0.005
+2025-04-24 12:08:43 | classifier_lr: 0.005
+2025-04-24 12:08:43 | gamma: 0.8
+2025-04-24 12:08:43 | steps: 60
+2025-04-24 12:08:43 | save_correlation: True
+2025-04-24 12:08:43 | class_names: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+2025-04-24 12:08:43 | output_dir: ./
+2025-04-24 12:08:43 | >>>>> TFPred Pre-training ...
+2025-04-24 12:08:59 | Epoch:   1/10, train_loss: 125.0052, current lr: 0.009755
+2025-04-24 12:09:16 | Epoch:   2/10, train_loss: 114.0475, current lr: 0.009045
+2025-04-24 12:09:32 | Epoch:   3/10, train_loss: 66.8822, current lr: 0.007939
+2025-04-24 12:09:47 | Epoch:   4/10, train_loss: 54.6032, current lr: 0.006545
+2025-04-24 12:10:03 | Epoch:   5/10, train_loss: 53.8075, current lr: 0.005000
+2025-04-24 12:10:18 | Epoch:   6/10, train_loss: 51.1241, current lr: 0.003455
+2025-04-24 12:10:34 | Epoch:   7/10, train_loss: 50.8368, current lr: 0.002061
+2025-04-24 12:10:49 | Epoch:   8/10, train_loss: 51.6587, current lr: 0.000955
+2025-04-24 12:11:05 | Epoch:   9/10, train_loss: 51.4271, current lr: 0.000245
+2025-04-24 12:11:20 | Epoch:  10/10, train_loss: 50.8344, current lr: 0.000000
+2025-04-24 12:11:20 | ===============TFPred Pre-training Done!===============
+2025-04-24 12:11:20 | >>>>> TFPred 半监督评估开始 ...
+2025-04-24 12:11:31 | Epoch: 1/5, train loss: 6.1150, train_acc:  10.00%, val loss: 2.5809, val_acc:  34.09%
+2025-04-24 12:11:39 | Epoch: 2/5, train loss: 3.8023, train_acc:  20.00%, val loss: 2.9974, val_acc:  11.72%
+2025-04-24 12:11:46 | Epoch: 3/5, train loss: 2.3921, train_acc:  33.33%, val loss: 2.9720, val_acc:   9.38%
+2025-04-24 12:11:54 | Epoch: 4/5, train loss: 1.9461, train_acc:  36.67%, val loss: 3.0289, val_acc:   1.76%
+2025-04-24 12:12:01 | Epoch: 5/5, train loss: 1.7045, train_acc:  53.33%, val loss: 3.0078, val_acc:   0.00%
+2025-04-24 12:12:01 | 最佳验证集准确率:  34.09%, 测试集准确率:  22.73%
+2025-04-24 12:12:01 | ===============TFPred 评估完成!===============
+2025-04-24 12:37:03 | datadir: ./paper_datasets
+2025-04-24 12:37:03 | dataset: PU
+2025-04-24 12:37:03 | load: 3
+2025-04-24 12:37:03 | num_train: 210
+2025-04-24 12:37:03 | num_validation: 30
+2025-04-24 12:37:03 | num_test: 60
+2025-04-24 12:37:03 | num_labels: 3
+2025-04-24 12:37:03 | ratio_labels: 0.01
+2025-04-24 12:37:03 | data_length: 1024
+2025-04-24 12:37:03 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-04-24 12:37:03 | window: 512
+2025-04-24 12:37:03 | normalization: 0-1
+2025-04-24 12:37:03 | backbone: ResNet1D
+2025-04-24 12:37:03 | mode: train_then_tune
+2025-04-24 12:37:03 | max_epochs: 10
+2025-04-24 12:37:03 | batch_size: 256
+2025-04-24 12:37:03 | lr: 0.01
+2025-04-24 12:37:03 | lr_scheduler: stepLR
+2025-04-24 12:37:03 | num_workers: 2
+2025-04-24 12:37:03 | optimizer: sgd
+2025-04-24 12:37:03 | tune_max_epochs: 5
+2025-04-24 12:37:03 | backbone_lr: 0.005
+2025-04-24 12:37:03 | classifier_lr: 0.005
+2025-04-24 12:37:03 | gamma: 0.8
+2025-04-24 12:37:03 | steps: 60
+2025-04-24 12:37:03 | save_correlation: True
+2025-04-24 12:37:03 | class_names: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+2025-04-24 12:37:03 | output_dir: ./
+2025-04-24 12:37:04 | >>>>> TFPred Pre-training ...
+2025-04-24 12:37:20 | Epoch:   1/10, train_loss: 106.2545, current lr: 0.009755
+2025-04-24 12:37:35 | Epoch:   2/10, train_loss: 81.9261, current lr: 0.009045
+2025-04-24 12:37:50 | Epoch:   3/10, train_loss: 54.1616, current lr: 0.007939
+2025-04-24 12:38:06 | Epoch:   4/10, train_loss: 50.4786, current lr: 0.006545
+2025-04-24 12:38:21 | Epoch:   5/10, train_loss: 49.8699, current lr: 0.005000
+2025-04-24 12:38:36 | Epoch:   6/10, train_loss: 50.7830, current lr: 0.003455
+2025-04-24 12:38:52 | Epoch:   7/10, train_loss: 49.9200, current lr: 0.002061
+2025-04-24 12:39:07 | Epoch:   8/10, train_loss: 49.9947, current lr: 0.000955
+2025-04-24 12:39:23 | Epoch:   9/10, train_loss: 49.7018, current lr: 0.000245
+2025-04-24 12:39:38 | Epoch:  10/10, train_loss: 49.9610, current lr: 0.000000
+2025-04-24 12:39:38 | ===============TFPred Pre-training Done!===============
+2025-04-24 12:39:38 | >>>>> TFPred 半监督评估开始 ...
+2025-04-24 12:39:49 | Epoch: 1/5, train loss: 5.8040, train_acc:   0.00%, val loss: 3.0717, val_acc:  41.35%
+2025-04-24 12:39:57 | Epoch: 2/5, train loss: 3.5899, train_acc:   0.00%, val loss: 2.6024, val_acc:  35.58%
+2025-04-24 12:40:04 | Epoch: 3/5, train loss: 2.3375, train_acc:  20.00%, val loss: 2.6010, val_acc:   8.01%
+2025-04-24 12:40:11 | Epoch: 4/5, train loss: 1.8356, train_acc:  23.33%, val loss: 2.7017, val_acc:   6.64%
+2025-04-24 12:40:18 | Epoch: 5/5, train loss: 1.6197, train_acc:  33.33%, val loss: 2.6897, val_acc:   8.40%
+2025-04-24 12:40:18 | 最佳验证集准确率:  41.35%, 测试集准确率:  33.68%
+2025-04-24 12:40:18 | ===============TFPred 评估完成!===============
+2025-04-24 17:02:11 | datadir: ./paper_datasets
+2025-04-24 17:02:11 | dataset: PU
+2025-04-24 17:02:11 | load: 3
+2025-04-24 17:02:11 | num_train: 210
+2025-04-24 17:02:11 | num_validation: 30
+2025-04-24 17:02:11 | num_test: 60
+2025-04-24 17:02:11 | num_labels: 3
+2025-04-24 17:02:11 | ratio_labels: 0.01
+2025-04-24 17:02:11 | data_length: 1024
+2025-04-24 17:02:11 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-04-24 17:02:11 | window: 512
+2025-04-24 17:02:11 | normalization: 0-1
+2025-04-24 17:02:11 | backbone: ResNet1D
+2025-04-24 17:02:11 | mode: train_then_tune
+2025-04-24 17:02:11 | max_epochs: 10
+2025-04-24 17:02:11 | batch_size: 256
+2025-04-24 17:02:11 | lr: 0.01
+2025-04-24 17:02:11 | lr_scheduler: stepLR
+2025-04-24 17:02:11 | num_workers: 2
+2025-04-24 17:02:11 | optimizer: sgd
+2025-04-24 17:02:11 | tune_max_epochs: 5
+2025-04-24 17:02:11 | backbone_lr: 0.005
+2025-04-24 17:02:11 | classifier_lr: 0.005
+2025-04-24 17:02:11 | gamma: 0.8
+2025-04-24 17:02:11 | steps: 60
+2025-04-24 17:02:11 | save_correlation: True
+2025-04-24 17:02:11 | class_names: 0 1 2 3 4 5 6 7 8 9
+2025-04-24 17:02:11 | output_dir: ./
+2025-04-24 17:02:12 | >>>>> TFPred Pre-training ...
+2025-04-24 17:02:29 | Epoch:   1/10, train_loss: 109.1140, current lr: 0.009755
+2025-04-24 17:02:46 | Epoch:   2/10, train_loss: 55.0117, current lr: 0.009045
+2025-04-24 17:03:23 | Epoch:   3/10, train_loss: 52.7045, current lr: 0.007939
+2025-04-24 17:04:00 | Epoch:   4/10, train_loss: 51.3666, current lr: 0.006545
+2025-04-24 17:04:36 | Epoch:   5/10, train_loss: 51.1615, current lr: 0.005000
+2025-04-24 17:05:10 | Epoch:   6/10, train_loss: 50.8620, current lr: 0.003455
+2025-04-24 17:05:27 | Epoch:   7/10, train_loss: 51.0994, current lr: 0.002061
+2025-04-24 17:05:43 | Epoch:   8/10, train_loss: 50.9733, current lr: 0.000955
+2025-04-24 17:05:59 | Epoch:   9/10, train_loss: 50.3086, current lr: 0.000245
+2025-04-24 17:06:15 | Epoch:  10/10, train_loss: 50.4471, current lr: 0.000000
+2025-04-24 17:06:15 | ===============TFPred Pre-training Done!===============
+2025-04-24 17:06:15 | >>>>> TFPred 半监督评估开始 ...
+2025-04-24 17:06:29 | Epoch: 1/5, train loss: 3.9242, train_acc:  10.00%, val loss: 4.0360, val_acc:   1.56%
+2025-04-24 17:06:37 | Epoch: 2/5, train loss: 3.0155, train_acc:  10.00%, val loss: 4.0016, val_acc:   0.98%
+2025-04-24 17:06:45 | Epoch: 3/5, train loss: 2.0345, train_acc:  23.33%, val loss: 4.1922, val_acc:   0.00%
+2025-04-24 17:06:53 | Epoch: 4/5, train loss: 1.6907, train_acc:  40.00%, val loss: 4.3696, val_acc:   0.00%
+2025-04-24 17:07:01 | Epoch: 5/5, train loss: 1.5625, train_acc:  43.33%, val loss: 4.3562, val_acc:   0.00%
+2025-04-24 17:07:01 | 最佳验证集准确率:   1.56%, 测试集准确率:   0.52%
+2025-04-24 17:07:01 | ===============TFPred 评估完成!===============
+2025-04-24 17:09:49 | datadir: ./paper_datasets
+2025-04-24 17:09:49 | dataset: PU
+2025-04-24 17:09:49 | load: 3
+2025-04-24 17:09:49 | num_train: 210
+2025-04-24 17:09:49 | num_validation: 30
+2025-04-24 17:09:49 | num_test: 60
+2025-04-24 17:09:49 | num_labels: 3
+2025-04-24 17:09:49 | ratio_labels: 0.01
+2025-04-24 17:09:49 | data_length: 1024
+2025-04-24 17:09:49 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-04-24 17:09:49 | window: 512
+2025-04-24 17:09:49 | normalization: 0-1
+2025-04-24 17:09:49 | backbone: ResNet1D
+2025-04-24 17:09:49 | mode: train_then_tune
+2025-04-24 17:09:49 | max_epochs: 10
+2025-04-24 17:09:49 | batch_size: 256
+2025-04-24 17:09:49 | lr: 0.01
+2025-04-24 17:09:49 | lr_scheduler: stepLR
+2025-04-24 17:09:49 | num_workers: 2
+2025-04-24 17:09:49 | optimizer: sgd
+2025-04-24 17:09:49 | tune_max_epochs: 5
+2025-04-24 17:09:49 | backbone_lr: 0.005
+2025-04-24 17:09:49 | classifier_lr: 0.005
+2025-04-24 17:09:49 | gamma: 0.8
+2025-04-24 17:09:49 | steps: 60
+2025-04-24 17:09:49 | save_correlation: True
+2025-04-24 17:09:49 | class_names: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+2025-04-24 17:09:49 | output_dir: ./
+2025-04-24 17:09:49 | >>>>> TFPred Pre-training ...
+2025-04-24 17:10:05 | Epoch:   1/10, train_loss: 119.6082, current lr: 0.009755
+2025-04-24 17:12:29 | datadir: ./paper_datasets
+2025-04-24 17:12:29 | dataset: PU
+2025-04-24 17:12:29 | load: 3
+2025-04-24 17:12:29 | num_train: 210
+2025-04-24 17:12:29 | num_validation: 30
+2025-04-24 17:12:29 | num_test: 60
+2025-04-24 17:12:29 | num_labels: 3
+2025-04-24 17:12:29 | ratio_labels: 0.01
+2025-04-24 17:12:29 | data_length: 1024
+2025-04-24 17:12:29 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-04-24 17:12:29 | window: 512
+2025-04-24 17:12:29 | normalization: 0-1
+2025-04-24 17:12:29 | backbone: ResNet1D
+2025-04-24 17:12:29 | mode: train_then_tune
+2025-04-24 17:12:29 | max_epochs: 10
+2025-04-24 17:12:29 | batch_size: 256
+2025-04-24 17:12:29 | lr: 0.01
+2025-04-24 17:12:29 | lr_scheduler: stepLR
+2025-04-24 17:12:29 | num_workers: 2
+2025-04-24 17:12:29 | optimizer: sgd
+2025-04-24 17:12:29 | tune_max_epochs: 5
+2025-04-24 17:12:29 | backbone_lr: 0.005
+2025-04-24 17:12:29 | classifier_lr: 0.005
+2025-04-24 17:12:29 | gamma: 0.8
+2025-04-24 17:12:29 | steps: 60
+2025-04-24 17:12:29 | save_correlation: True
+2025-04-24 17:12:29 | class_names: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+2025-04-24 17:12:29 | output_dir: ./
+2025-04-24 17:12:29 | >>>>> TFPred Pre-training ...
+2025-04-24 17:12:45 | Epoch:   1/10, train_loss: 109.2288, current lr: 0.009755
+2025-04-24 17:13:17 | Epoch:   2/10, train_loss: 62.2919, current lr: 0.009045
+2025-04-24 17:13:34 | Epoch:   3/10, train_loss: 53.1032, current lr: 0.007939
+2025-04-24 17:13:58 | Epoch:   4/10, train_loss: 53.5501, current lr: 0.006545
+2025-04-24 17:14:34 | Epoch:   5/10, train_loss: 51.5586, current lr: 0.005000
+2025-04-24 17:15:09 | Epoch:   6/10, train_loss: 50.4963, current lr: 0.003455
+2025-04-24 17:15:25 | Epoch:   7/10, train_loss: 50.5663, current lr: 0.002061
+2025-04-24 17:15:41 | Epoch:   8/10, train_loss: 49.9041, current lr: 0.000955
+2025-04-24 17:15:57 | Epoch:   9/10, train_loss: 49.8986, current lr: 0.000245
+2025-04-24 17:16:13 | Epoch:  10/10, train_loss: 50.2808, current lr: 0.000000
+2025-04-24 17:16:13 | ===============TFPred Pre-training Done!===============
+2025-04-24 17:16:13 | >>>>> TFPred 半监督评估开始 ...
+2025-04-24 17:16:26 | Epoch: 1/5, train loss: 3.4728, train_acc:  10.00%, val loss: 1.9236, val_acc:  44.05%
+2025-04-24 17:16:34 | Epoch: 2/5, train loss: 2.4452, train_acc:  16.67%, val loss: 1.9403, val_acc:  32.95%
+2025-04-24 17:16:43 | Epoch: 3/5, train loss: 1.9039, train_acc:  33.33%, val loss: 3.1046, val_acc:   5.86%
+2025-04-24 17:16:52 | Epoch: 4/5, train loss: 1.7115, train_acc:  36.67%, val loss: 3.8843, val_acc:   5.86%
+2025-04-24 17:17:01 | Epoch: 5/5, train loss: 1.6391, train_acc:  40.00%, val loss: 4.1488, val_acc:   5.86%
+2025-04-24 17:17:01 | 最佳验证集准确率:  44.05%, 测试集准确率:  35.62%
+2025-04-24 17:17:01 | ===============TFPred 评估完成!===============
+2025-04-24 17:24:11 | datadir: ./paper_datasets
+2025-04-24 17:24:11 | dataset: PU
+2025-04-24 17:24:11 | load: 3
+2025-04-24 17:24:11 | num_train: 210
+2025-04-24 17:24:11 | num_validation: 30
+2025-04-24 17:24:11 | num_test: 60
+2025-04-24 17:24:11 | num_labels: 3
+2025-04-24 17:24:11 | ratio_labels: 0.01
+2025-04-24 17:24:11 | data_length: 1024
+2025-04-24 17:24:11 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-04-24 17:24:11 | window: 512
+2025-04-24 17:24:11 | normalization: 0-1
+2025-04-24 17:24:11 | backbone: ResNet1D
+2025-04-24 17:24:11 | mode: train_then_tune
+2025-04-24 17:24:11 | max_epochs: 10
+2025-04-24 17:24:11 | batch_size: 256
+2025-04-24 17:24:11 | lr: 0.01
+2025-04-24 17:24:11 | lr_scheduler: stepLR
+2025-04-24 17:24:11 | num_workers: 2
+2025-04-24 17:24:11 | optimizer: sgd
+2025-04-24 17:24:11 | tune_max_epochs: 5
+2025-04-24 17:24:11 | backbone_lr: 0.005
+2025-04-24 17:24:11 | classifier_lr: 0.005
+2025-04-24 17:24:11 | gamma: 0.8
+2025-04-24 17:24:11 | steps: 60
+2025-04-24 17:24:11 | save_correlation: True
+2025-04-24 17:24:11 | class_names: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+2025-04-24 17:24:11 | output_dir: ./
+2025-04-24 17:24:11 | >>>>> TFPred Pre-training ...
+2025-04-24 17:24:31 | Epoch:   1/10, train_loss: 127.5464, current lr: 0.009755
+2025-04-24 17:25:08 | Epoch:   2/10, train_loss: 114.8689, current lr: 0.009045
+2025-04-24 17:25:29 | Epoch:   3/10, train_loss: 88.6949, current lr: 0.007939
+2025-04-24 17:25:45 | Epoch:   4/10, train_loss: 54.5562, current lr: 0.006545
+2025-04-24 17:26:02 | Epoch:   5/10, train_loss: 48.7939, current lr: 0.005000
+2025-04-24 17:26:18 | Epoch:   6/10, train_loss: 47.9245, current lr: 0.003455
+2025-04-24 17:26:35 | Epoch:   7/10, train_loss: 46.6696, current lr: 0.002061
+2025-04-24 17:26:51 | Epoch:   8/10, train_loss: 43.5237, current lr: 0.000955
+2025-04-24 17:27:08 | Epoch:   9/10, train_loss: 40.9933, current lr: 0.000245
+2025-04-24 17:27:24 | Epoch:  10/10, train_loss: 40.9756, current lr: 0.000000
+2025-04-24 17:27:24 | ===============TFPred Pre-training Done!===============
+2025-04-24 17:27:24 | >>>>> TFPred 半监督评估开始 ...
+2025-04-24 17:27:37 | Epoch: 1/5, train loss: 5.6505, train_acc:   0.00%, val loss: 4.0914, val_acc:  10.74%
+2025-04-24 17:27:50 | Epoch: 2/5, train loss: 3.5162, train_acc:  20.00%, val loss: 3.5859, val_acc:  14.45%
+2025-04-24 17:27:59 | Epoch: 3/5, train loss: 2.3538, train_acc:  43.33%, val loss: 3.5195, val_acc:  12.30%
+2025-04-24 17:28:07 | Epoch: 4/5, train loss: 1.7946, train_acc:  53.33%, val loss: 3.4756, val_acc:   7.81%
+2025-04-24 17:28:15 | Epoch: 5/5, train loss: 1.5204, train_acc:  60.00%, val loss: 3.4493, val_acc:   8.79%
+2025-04-24 17:28:15 | 最佳验证集准确率:  14.45%, 测试集准确率:  19.27%
+2025-04-24 17:28:15 | ===============TFPred 评估完成!===============
+2025-04-24 17:33:01 | datadir: ./paper_datasets
+2025-04-24 17:33:01 | dataset: PU
+2025-04-24 17:33:01 | load: 3
+2025-04-24 17:33:01 | num_train: 210
+2025-04-24 17:33:01 | num_validation: 30
+2025-04-24 17:33:01 | num_test: 60
+2025-04-24 17:33:01 | num_labels: 3
+2025-04-24 17:33:01 | ratio_labels: 0.01
+2025-04-24 17:33:01 | data_length: 1024
+2025-04-24 17:33:01 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-04-24 17:33:01 | window: 512
+2025-04-24 17:33:01 | normalization: 0-1
+2025-04-24 17:33:01 | backbone: ResNet1D
+2025-04-24 17:33:01 | mode: train_then_tune
+2025-04-24 17:33:01 | max_epochs: 500
+2025-04-24 17:33:01 | batch_size: 256
+2025-04-24 17:33:01 | lr: 0.01
+2025-04-24 17:33:01 | lr_scheduler: stepLR
+2025-04-24 17:33:01 | num_workers: 2
+2025-04-24 17:33:01 | optimizer: sgd
+2025-04-24 17:33:01 | tune_max_epochs: 100
+2025-04-24 17:33:01 | backbone_lr: 0.005
+2025-04-24 17:33:01 | classifier_lr: 0.005
+2025-04-24 17:33:01 | gamma: 0.8
+2025-04-24 17:33:01 | steps: 60
+2025-04-24 17:33:01 | save_correlation: True
+2025-04-24 17:33:01 | class_names: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+2025-04-24 17:33:01 | output_dir: ./
+2025-04-24 17:33:01 | >>>>> TFPred Pre-training ...
+2025-04-24 17:33:20 | Epoch:   1/500, train_loss: 116.2477, current lr: 0.010000
+2025-04-24 17:33:56 | Epoch:   2/500, train_loss: 58.4801, current lr: 0.010000
+2025-04-24 17:34:33 | Epoch:   3/500, train_loss: 53.3020, current lr: 0.009999
+2025-04-24 17:35:09 | Epoch:   4/500, train_loss: 51.5641, current lr: 0.009998
+2025-04-24 17:35:46 | Epoch:   5/500, train_loss: 52.1167, current lr: 0.009998
+2025-04-24 17:36:22 | Epoch:   6/500, train_loss: 51.6282, current lr: 0.009996
+2025-04-24 17:36:59 | Epoch:   7/500, train_loss: 50.5368, current lr: 0.009995
+2025-04-24 17:37:35 | Epoch:   8/500, train_loss: 51.2467, current lr: 0.009994
+2025-04-24 17:38:12 | Epoch:   9/500, train_loss: 51.8074, current lr: 0.009992
+2025-04-24 17:38:48 | Epoch:  10/500, train_loss: 50.9074, current lr: 0.009990
+2025-04-24 17:39:25 | Epoch:  11/500, train_loss: 50.8661, current lr: 0.009988
+2025-04-24 17:40:01 | Epoch:  12/500, train_loss: 52.5773, current lr: 0.009986
+2025-04-24 17:44:29 | datadir: ./paper_datasets
+2025-04-24 17:44:29 | dataset: PU
+2025-04-24 17:44:29 | load: 3
+2025-04-24 17:44:29 | num_train: 210
+2025-04-24 17:44:29 | num_validation: 30
+2025-04-24 17:44:29 | num_test: 60
+2025-04-24 17:44:29 | num_labels: 3
+2025-04-24 17:44:29 | ratio_labels: 0.01
+2025-04-24 17:44:29 | data_length: 1024
+2025-04-24 17:44:29 | labels: 0,1,2,3,4,5,6,7,8,9
+2025-04-24 17:44:29 | window: 512
+2025-04-24 17:44:29 | normalization: 0-1
+2025-04-24 17:44:29 | backbone: ResNet1D
+2025-04-24 17:44:29 | mode: train_then_tune
+2025-04-24 17:44:29 | max_epochs: 500
+2025-04-24 17:44:29 | batch_size: 256
+2025-04-24 17:44:29 | lr: 0.01
+2025-04-24 17:44:29 | lr_scheduler: stepLR
+2025-04-24 17:44:29 | num_workers: 2
+2025-04-24 17:44:29 | optimizer: sgd
+2025-04-24 17:44:29 | tune_max_epochs: 100
+2025-04-24 17:44:29 | backbone_lr: 0.005
+2025-04-24 17:44:29 | classifier_lr: 0.005
+2025-04-24 17:44:29 | gamma: 0.8
+2025-04-24 17:44:29 | steps: 60
+2025-04-24 17:44:29 | save_correlation: True
+2025-04-24 17:44:29 | class_names: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+2025-04-24 17:44:29 | output_dir: ./
+2025-04-24 17:44:29 | >>>>> TFPred Pre-training ...
+2025-04-24 17:44:58 | Epoch:   1/500, train_loss: 116.0332, current lr: 0.010000
+2025-04-24 17:45:34 | Epoch:   2/500, train_loss: 67.2101, current lr: 0.010000
+2025-04-24 17:46:10 | Epoch:   3/500, train_loss: 63.7590, current lr: 0.009999
+2025-04-24 17:46:40 | Epoch:   4/500, train_loss: 55.9500, current lr: 0.009998
+2025-04-24 17:46:57 | Epoch:   5/500, train_loss: 53.3197, current lr: 0.009998
+2025-04-24 17:47:13 | Epoch:   6/500, train_loss: 49.8751, current lr: 0.009996
+2025-04-24 17:47:29 | Epoch:   7/500, train_loss: 51.6761, current lr: 0.009995
+2025-04-24 17:47:45 | Epoch:   8/500, train_loss: 51.2255, current lr: 0.009994
+2025-04-24 17:48:01 | Epoch:   9/500, train_loss: 51.0499, current lr: 0.009992
+2025-04-24 17:48:17 | Epoch:  10/500, train_loss: 50.3119, current lr: 0.009990
+2025-04-24 17:48:33 | Epoch:  11/500, train_loss: 49.7609, current lr: 0.009988
+2025-04-24 17:48:49 | Epoch:  12/500, train_loss: 49.0402, current lr: 0.009986
+2025-04-24 17:49:06 | Epoch:  13/500, train_loss: 47.5999, current lr: 0.009983
+2025-04-24 17:49:22 | Epoch:  14/500, train_loss: 45.9513, current lr: 0.009981
+2025-04-24 17:49:38 | Epoch:  15/500, train_loss: 42.6686, current lr: 0.009978
+2025-04-24 17:49:54 | Epoch:  16/500, train_loss: 39.2905, current lr: 0.009975
+2025-04-24 17:50:11 | Epoch:  17/500, train_loss: 36.3232, current lr: 0.009972
+2025-04-24 17:50:27 | Epoch:  18/500, train_loss: 36.1302, current lr: 0.009968
+2025-04-24 17:50:44 | Epoch:  19/500, train_loss: 35.6253, current lr: 0.009964
+2025-04-24 17:51:01 | Epoch:  20/500, train_loss: 36.7186, current lr: 0.009961
+2025-04-24 17:51:37 | Epoch:  21/500, train_loss: 34.4878, current lr: 0.009957
+2025-04-24 17:52:14 | Epoch:  22/500, train_loss: 36.5102, current lr: 0.009952
+2025-04-24 17:52:52 | Epoch:  23/500, train_loss: 37.3492, current lr: 0.009948
+2025-04-24 17:53:29 | Epoch:  24/500, train_loss: 34.8462, current lr: 0.009943
+2025-04-24 17:54:06 | Epoch:  25/500, train_loss: 33.7101, current lr: 0.009938
+2025-04-24 17:54:43 | Epoch:  26/500, train_loss: 33.4597, current lr: 0.009933
+2025-04-24 17:55:17 | Epoch:  27/500, train_loss: 33.4115, current lr: 0.009928
+2025-04-24 17:55:51 | Epoch:  28/500, train_loss: 34.2144, current lr: 0.009923
+2025-04-24 17:56:28 | Epoch:  29/500, train_loss: 32.5068, current lr: 0.009917
+2025-04-24 17:57:06 | Epoch:  30/500, train_loss: 33.5016, current lr: 0.009911
+2025-04-24 17:57:43 | Epoch:  31/500, train_loss: 32.9313, current lr: 0.009905
+2025-04-24 17:58:20 | Epoch:  32/500, train_loss: 32.5865, current lr: 0.009899
+2025-04-24 17:58:57 | Epoch:  33/500, train_loss: 32.6505, current lr: 0.009893
+2025-04-24 17:59:35 | Epoch:  34/500, train_loss: 32.4105, current lr: 0.009886
+2025-04-24 18:00:04 | Epoch:  35/500, train_loss: 32.9236, current lr: 0.009880
+2025-04-24 18:00:21 | Epoch:  36/500, train_loss: 33.4034, current lr: 0.009873
+2025-04-24 18:00:37 | Epoch:  37/500, train_loss: 33.7381, current lr: 0.009865
+2025-04-24 18:00:54 | Epoch:  38/500, train_loss: 32.7559, current lr: 0.009858
+2025-04-24 18:01:10 | Epoch:  39/500, train_loss: 32.9880, current lr: 0.009851
+2025-04-24 18:01:26 | Epoch:  40/500, train_loss: 32.2618, current lr: 0.009843
+2025-04-24 18:01:43 | Epoch:  41/500, train_loss: 33.1389, current lr: 0.009835
+2025-04-24 18:01:59 | Epoch:  42/500, train_loss: 32.0444, current lr: 0.009827
+2025-04-24 18:02:15 | Epoch:  43/500, train_loss: 32.9054, current lr: 0.009819
+2025-04-24 18:02:32 | Epoch:  44/500, train_loss: 32.3669, current lr: 0.009810
+2025-04-24 18:02:48 | Epoch:  45/500, train_loss: 32.3087, current lr: 0.009801
+2025-04-24 18:03:04 | Epoch:  46/500, train_loss: 32.1179, current lr: 0.009793
+2025-04-24 18:03:21 | Epoch:  47/500, train_loss: 32.4045, current lr: 0.009784
+2025-04-24 18:03:37 | Epoch:  48/500, train_loss: 32.5627, current lr: 0.009774
+2025-04-24 18:03:54 | Epoch:  49/500, train_loss: 32.0031, current lr: 0.009765
+2025-04-24 18:04:10 | Epoch:  50/500, train_loss: 31.8184, current lr: 0.009755
+2025-04-24 18:04:26 | Epoch:  51/500, train_loss: 32.8757, current lr: 0.009745
+2025-04-24 18:04:42 | Epoch:  52/500, train_loss: 32.0610, current lr: 0.009735
+2025-04-24 18:04:59 | Epoch:  53/500, train_loss: 32.3810, current lr: 0.009725
+2025-04-24 18:05:15 | Epoch:  54/500, train_loss: 31.7178, current lr: 0.009715
+2025-04-24 18:05:32 | Epoch:  55/500, train_loss: 31.7929, current lr: 0.009704
+2025-04-24 18:05:50 | Epoch:  56/500, train_loss: 32.1514, current lr: 0.009694
+2025-04-24 18:06:27 | Epoch:  57/500, train_loss: 31.9560, current lr: 0.009683
+2025-04-24 18:07:03 | Epoch:  58/500, train_loss: 31.7224, current lr: 0.009672
+2025-04-24 18:07:39 | Epoch:  59/500, train_loss: 32.1905, current lr: 0.009660
+2025-04-24 18:08:16 | Epoch:  60/500, train_loss: 31.7005, current lr: 0.009649
+2025-04-24 18:08:53 | Epoch:  61/500, train_loss: 31.6595, current lr: 0.009637
+2025-04-24 18:09:30 | Epoch:  62/500, train_loss: 32.3583, current lr: 0.009625
+2025-04-24 18:10:07 | Epoch:  63/500, train_loss: 31.7472, current lr: 0.009613
+2025-04-24 18:10:45 | Epoch:  64/500, train_loss: 31.7331, current lr: 0.009601
+2025-04-24 18:11:22 | Epoch:  65/500, train_loss: 31.4823, current lr: 0.009589
+2025-04-24 18:11:59 | Epoch:  66/500, train_loss: 32.5190, current lr: 0.009576
+2025-04-24 18:12:36 | Epoch:  67/500, train_loss: 31.4007, current lr: 0.009563
+2025-04-24 18:13:13 | Epoch:  68/500, train_loss: 32.4540, current lr: 0.009551
+2025-04-24 18:13:51 | Epoch:  69/500, train_loss: 32.2325, current lr: 0.009537
+2025-04-24 18:14:28 | Epoch:  70/500, train_loss: 31.3545, current lr: 0.009524
+2025-04-24 18:15:05 | Epoch:  71/500, train_loss: 31.3756, current lr: 0.009511
+2025-04-24 18:15:42 | Epoch:  72/500, train_loss: 31.2991, current lr: 0.009497
+2025-04-24 18:16:19 | Epoch:  73/500, train_loss: 32.2286, current lr: 0.009483
+2025-04-24 18:16:56 | Epoch:  74/500, train_loss: 32.3149, current lr: 0.009469
+2025-04-24 18:17:33 | Epoch:  75/500, train_loss: 31.5797, current lr: 0.009455
+2025-04-24 18:18:10 | Epoch:  76/500, train_loss: 31.9067, current lr: 0.009441
+2025-04-24 18:18:47 | Epoch:  77/500, train_loss: 31.8972, current lr: 0.009426
+2025-04-24 18:19:24 | Epoch:  78/500, train_loss: 31.7591, current lr: 0.009411
+2025-04-24 18:20:01 | Epoch:  79/500, train_loss: 32.3020, current lr: 0.009397
+2025-04-24 18:20:37 | Epoch:  80/500, train_loss: 32.4348, current lr: 0.009382
+2025-04-24 18:21:14 | Epoch:  81/500, train_loss: 32.3577, current lr: 0.009366
+2025-04-24 18:21:51 | Epoch:  82/500, train_loss: 32.0259, current lr: 0.009351
+2025-04-24 18:22:28 | Epoch:  83/500, train_loss: 31.7238, current lr: 0.009335
+2025-04-24 18:23:05 | Epoch:  84/500, train_loss: 31.3748, current lr: 0.009320
+2025-04-24 18:23:42 | Epoch:  85/500, train_loss: 31.5016, current lr: 0.009304
+2025-04-24 18:24:18 | Epoch:  86/500, train_loss: 30.9768, current lr: 0.009288
+2025-04-24 18:24:55 | Epoch:  87/500, train_loss: 31.1583, current lr: 0.009271
+2025-04-24 18:25:33 | Epoch:  88/500, train_loss: 31.1215, current lr: 0.009255
+2025-04-24 18:26:09 | Epoch:  89/500, train_loss: 30.8285, current lr: 0.009238
+2025-04-24 18:26:47 | Epoch:  90/500, train_loss: 30.8325, current lr: 0.009222
+2025-04-24 18:27:23 | Epoch:  91/500, train_loss: 31.0366, current lr: 0.009205
+2025-04-24 18:28:00 | Epoch:  92/500, train_loss: 31.0524, current lr: 0.009188
+2025-04-24 18:28:37 | Epoch:  93/500, train_loss: 30.3696, current lr: 0.009170
+2025-04-24 18:29:15 | Epoch:  94/500, train_loss: 30.2750, current lr: 0.009153
+2025-04-24 18:29:52 | Epoch:  95/500, train_loss: 29.3950, current lr: 0.009135
+2025-04-24 18:30:29 | Epoch:  96/500, train_loss: 29.2075, current lr: 0.009118
+2025-04-24 18:31:06 | Epoch:  97/500, train_loss: 29.2855, current lr: 0.009100
+2025-04-24 18:31:43 | Epoch:  98/500, train_loss: 28.1932, current lr: 0.009082
+2025-04-24 18:32:20 | Epoch:  99/500, train_loss: 28.1540, current lr: 0.009063
+2025-04-24 18:32:57 | Epoch: 100/500, train_loss: 27.7402, current lr: 0.009045
+2025-04-24 18:33:34 | Epoch: 101/500, train_loss: 26.2010, current lr: 0.009027
+2025-04-24 18:34:11 | Epoch: 102/500, train_loss: 32.1467, current lr: 0.009008
+2025-04-24 18:34:48 | Epoch: 103/500, train_loss: 33.7182, current lr: 0.008989
+2025-04-24 18:35:25 | Epoch: 104/500, train_loss: 31.2262, current lr: 0.008970
+2025-04-24 18:36:03 | Epoch: 105/500, train_loss: 28.8322, current lr: 0.008951
+2025-04-24 18:36:39 | Epoch: 106/500, train_loss: 30.9376, current lr: 0.008931
+2025-04-24 18:37:16 | Epoch: 107/500, train_loss: 30.2021, current lr: 0.008912
